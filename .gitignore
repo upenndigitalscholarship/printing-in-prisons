@@ -3,3 +3,6 @@ dist
 build
 _site/
 .vscode/
+temp/
+tesseract/
+venv/
