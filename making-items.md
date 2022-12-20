@@ -26,7 +26,7 @@ tags:
 layout: item
 ---
 ```
-8. Next we can add fields for title, author, newspaper, year, issue, and page. 
+8. Next we can add fields for title, author, newspaper, year, issue, and page (if there's more than one page, give the start and end pages: 1-4).
 9. It’s also possible to add filter tags. Add anything you think describes this item as a kind of entry. For example, the warden notes that it’s the 10th Anniversary of the Eastern Echo. We could add a tag for that. Each tag should be on its own line, indented two spaces, then a hyphen, then one space, then the tag. 
 10. Finally, add `layout: item` (this determines how the item will be displayed on the website).
 11. With the frontmatter complete, we can now paste the text into the file below the three dashes `---`. 
