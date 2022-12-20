@@ -36,4 +36,4 @@ layout: item
 13. The text will probably include OCR errors. Feel free to make corrections, but the main goal of this step is to create item-level files for the various article in the paper. 
 14. When you metadata and text are ready, click on the green "Commit changes" button at the bottom of the screen. You can alway come back to edit the file by clicking on the pencil icon in the upper right-hand corner.  
 
-
+For the example page, here's what I ended up with (note that there's much more OCR correction to be done): https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/echo/1966/items/1.md
