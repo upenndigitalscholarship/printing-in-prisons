@@ -8,8 +8,12 @@ Each page of the newspapers was scanned and turned into an image.  Each page was
 4. It helps to take a glance at the whole page to make sense of what’s going on and what the relevant parts will be. There’s a title, “The Superintendent Speaks”, an author Joseph R. Brierley, and three columns of text. This is page 3. I can check on page 2 and 4 to confirm that the article starts and ends on this page.
 5. Compare that with the OCR’d version of the page here: https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/echo/1966/Echo-Fall-1966-Page-03.md
 #### Create an item file with metadata
-6. Let’s create an item for this text. For this example, I will assume that you are working directly in GitHub, but the same process can be done with VSCode or other code editors.  This is from Echo Fall 1966, so we’ll create an item in the [/main/echo/1966/items](https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/echo/1966/items) folder (create the folder if needed). For the filename, let’s use 1.md (or 2.md if that already exists). In GitHub open folder, then click on “add file” > “create new file”.  You can enter the filename where it says “Name your file…” Content can be added where it says “Edit new file.”  
-![](https://docs.github.com/assets/cb-26723/images/help/repository/create_new_file.png) 
+6. Let’s create an item for this text. For this example, I will assume that you are working directly in GitHub, but the same process can be done with VSCode or other code editors.  This is from Echo Fall 1966, so we’ll create an item in the [/main/echo/1966/items](https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/echo/1966/items) folder (create the folder if needed). For the filename, let’s use 1.md (or 2.md if that already exists). In GitHub open the folder, then click on “add file” > “create new file”.  
+![](https://docs.github.com/assets/cb-26723/images/help/repository/create_new_file.png)  
+
+You can enter the filename where it says “Name your file…” Content can be added where it says “Edit new file.”  
+
+![](https://github.blog/wp-content/uploads/2012/12/new-file-editor.png?resize=964%2C419)
 
 7. This is a markdown file, so we can add an initial section with metadata (also called frontmatter).  Simply add a section at the top of the page opened with three dashes and closed with three dashes:
 ```md
