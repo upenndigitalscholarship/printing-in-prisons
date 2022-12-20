@@ -28,8 +28,12 @@ layout: item
 ```
 8. Next we can add fields for title, author, newspaper, year, issue, and page. 
 9. It’s also possible to add filter tags. Add anything you think describes this item as a kind of entry. For example, the warden notes that it’s the 10th Anniversary of the Eastern Echo. We could add a tag for that. Each tag should be on its own line, indented two spaces, then a hyphen, then one space, then the tag. 
-10. We need to choose a the layout for the item.  That’s just `layout: item` 
+10. Finally, add `layout: item` (this determines how the item will be displayed on the website).
 11. With the frontmatter complete, we can now paste the text into the file below the three dashes `---`. 
+
 #### Item-level text 
+12. The text in this file should include the item's full text from beginning to end. Keep in mind that this may begin or end on different pages.
+13. The text will probably include OCR errors. Feel free to make corrections, but the main goal of this step is to create item-level files for the various article in the paper. 
+14. When you metadata and text are ready, click on the green "Commit changes" button at the bottom of the screen. You can alway come back to edit the file by clicking on the pencil icon in the upper right-hand corner.  
 
 
