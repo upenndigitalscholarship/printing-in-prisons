@@ -3,7 +3,7 @@
 Each page of the newspapers was scanned and turned into an image.  Each page was then OCR’d using Tesseract. Within each page, there are individual articles, sections, and pieces.  This workflow aims to split the page-level texts into item-level texts.  
 
 1. The page-level texts can be found here in the echo and umpire folders: https://github.com/upenndigitalscholarship/printing-in-prisons
-2. The page images can be found here: https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/assets/img
+2. The page images can be found here: https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/assets/img If you open an image and only see part of the page, try right-clicking on the image and then "Open image in new tab." You can also right-click on the "Download" button and "Open link in new tab."  
 3. Begin by selecting an image to work on (we’ll use this one as an example) <img src="https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/assets/img/Echo-Fall-1966-Page-03.jpg"/>
 4. It helps to take a glance at the whole page to make sense of what’s going on and what the relevant parts will be. There’s a title, “The Superintendent Speaks”, an author Joseph R. Brierley, and three columns of text. This is page 3. I can check on page 2 and 4 to confirm that the article starts and ends on this page.
 5. Compare that with the OCR’d version of the page here: https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/echo/1966/Echo-Fall-1966-Page-03.md
