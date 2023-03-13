@@ -1,0 +1,84 @@
+body{
+	font-family: 'Cardo', serif;
+	background-color: #FBF7EB;
+}
+
+/* nav styles */
+.nav{
+	display: flex;
+	gap: 2em;
+	justify-content: center;
+}
+
+.nav-item{
+	list-style: none;
+}
+
+.nav-item-top{
+	list-style: none;
+	width: 150px;
+	border: 1px solid black;
+	padding: 0.5em;
+	margin: 0;
+}
+
+.nav-top-main{
+	list-style: none;
+	margin: 0;
+}
+
+.nav-top{
+	text-align: center;
+	display: flex;
+	gap: 3em;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.nav-top-subtitle{
+	text-align: center;
+	margin-top: 0;
+}
+
+.partial-hr{
+	width: 4em;
+	display: inline-block;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+
+/* homepage grid styles */
+.container{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 150vh;
+	width: 80vw;
+	justify-content: center;
+	margin: auto;
+	align-items: center;
+}
+
+.item{
+	width: 20vw;
+	height: 300px;
+	background-color: pink;
+	margin: 1em;
+}
+
+.item-tall{
+	width: 20vw;
+	height: 450px;
+	background-color: teal;
+	margin: 1em;
+}
+.item-wide{
+	width: 60vw;
+	height: 300px;
+	background-color: teal;
+	margin: 1em;
+}
+
