@@ -39,6 +39,10 @@ button{
 }
 */
 
+.flex{
+	display: flex !important;
+}
+
 .title-centered{
 	text-align: center;
 }
