@@ -49,6 +49,14 @@ button{
 }
 
 /* nav styles */
+
+.footer{
+	display: flex;
+	gap: 2em;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
 .nav{
 	display: flex;
 	gap: 2em;
