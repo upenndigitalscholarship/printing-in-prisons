@@ -5,10 +5,15 @@ body{
 
 a{
 	text-decoration: none;
+	color: black;
 }
 
 a:visited{
 	color: black;
+}
+
+ul{
+	padding-left: 0px;
 }
 
 button{
@@ -22,6 +27,11 @@ button{
 	text-decoration: none;
 	display: inline-block;
 	font-size: 20px;
+	cursor: pointer;
+}
+
+.border{
+	border: 2px solid black;
 }
 
 /*p{
@@ -35,6 +45,7 @@ button{
 
 .element-centered{
 	margin: auto !important;
+	display: block;
 }
 
 /* nav styles */
@@ -111,6 +122,10 @@ button{
 }
 .wide{
 	width: 46vw;
+}
+
+.wider{
+	width: 60vw;
 }
 
 .widest{
