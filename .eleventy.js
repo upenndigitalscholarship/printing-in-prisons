@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   
     // Copy `assets/` to `_site/assets`
     eleventyConfig.addPassthroughCopy("assets");
+
     
     // Copy `css/fonts/` to `_site/css/fonts`
     // Keeps the same directory structure.

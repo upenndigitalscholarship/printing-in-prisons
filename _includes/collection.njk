@@ -1,0 +1,14 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+<h1 class="title-centered">{{title}}</h1>
+
+<div class="element-centered widest">
+  <p>
+{{body}}  </p>
+</div>
+
+{{ content | safe }}
+
+{% endblock %}
