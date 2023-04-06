@@ -21,6 +21,7 @@
     "@11ty/eleventy": "^1.0.2"
   },
   "dependencies": {
+    "debug": "^4.3.4",
     "list.js": "^2.3.1"
   }
 }
