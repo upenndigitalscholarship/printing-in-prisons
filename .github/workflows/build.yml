@@ -25,7 +25,6 @@ jobs:
         run: |
           npm install
           npx @11ty/eleventy --pathprefix=printing-in-prisons
-          npx pagefind --source "_site"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
