@@ -6,5 +6,5 @@ let options = {
 
 let articleList = new List('articles', options);
 
-console.log(articleList);
+// console.log(articleList);
 }
