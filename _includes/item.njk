@@ -1,19 +1,26 @@
 {% extends "base.njk" %}
 {% block content %}
 <h1 class="title-centered">{{ title }}</h1>
-<div class="element-centered widest">
-<p></p>
-<ul>
-  <li><b>author: </b>{{author}}</li>
-  <li><b>date: </b>{{month}} {{day}} {{year}}</li>
+<div class="element-centered widest item-container">
+<div class="medium item-metadata">
+<ul class="metadata-list">
+  <li class="list-item"><b>Author: </b>{{author}}</li>
+  <li class="list-item"><b>Editor: </b>{{editor}}</li>
+  <li class="list-item"><b>Newspaper: </b>{{newspaper}} volume {{volume}}</li>
+
+  <li class="list-item"><b>Page Number: </b>{{pageNum}}</li>
+  <li class="list-item"><b>Date: </b>{{month}} {{day}} {{year}}</li>
+  <li class="list-item"><b>Tags: </b>
 {% for tag in tags %}
-  <li>{{ tag }}</li>
+  <li class="list-item">{{ tag }} </li>
 {% endfor %}
+</li>
 </ul>
-<img width="200" src="{{ '/assets/img/' | url }}{{ image }}" />
-
 {{ content | safe }}
-
+</div>
+<div class = "medium">
+<img width="100%" src="{{ '/assets/img/' | url }}{{ image }}" />
+</div>
 </div>
 
 {% endblock %}

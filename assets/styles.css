@@ -43,6 +43,20 @@ button{
 	display: flex !important;
 }
 
+.item-container{
+	display: flex !important;
+	gap: 15px;
+}
+
+.item-metadata{
+	border-left: dotted;
+	padding-left: 20px;
+}
+
+.metadata-list{
+	margin-top: 0px;
+}
+
 .title-centered{
 	text-align: center;
 }
@@ -148,6 +162,10 @@ button{
 	width: 30vw;
 }
 
+.medium{
+	width: 40vw;
+}
+
 .third{
 	width: 20vw;
 }
@@ -164,6 +182,12 @@ button{
 	float:right;
 
 }
+
+.list-item{
+	list-style: none;
+}
+
+
 
 /* list.js css */
 
