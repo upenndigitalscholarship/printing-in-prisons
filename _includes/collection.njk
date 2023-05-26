@@ -1,5 +1,9 @@
 {% extends "base.njk" %}
 
+{% block head %}
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+{% endblock %}
+
 {% block content %}
 
 <h1 class="title-centered" id="collection-title">{{title}}</h1>
@@ -10,5 +14,6 @@
 </div>
 
 {{ content | safe }}
+
 
 {% endblock %}
