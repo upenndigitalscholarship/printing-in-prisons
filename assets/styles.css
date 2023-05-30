@@ -1,11 +1,16 @@
 body{
 	font-family: 'Cardo', serif;
+	font-size: 1em;
 	background-color: #FBF7EB;
 }
 
 a{
 	text-decoration: none;
 	color: black;
+}
+
+a.underline{
+	text-decoration:underline;
 }
 
 a:visited{
@@ -133,6 +138,17 @@ button{
 	align-items: center;
 }
 
+.container-collections{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 900px;
+	width: 80vw;
+	justify-content: center;
+	margin: auto;
+	align-items: center;
+}
+
 .item{
 	background-color: pink;
 	margin: 2em;
@@ -176,8 +192,7 @@ button{
 }
 
 .home-top{
-	width:300px; 
-	height:300px; 
+	width:300px;  
 	object-fit:cover; 
 	float:right;
 
