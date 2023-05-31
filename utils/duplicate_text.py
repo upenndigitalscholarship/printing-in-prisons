@@ -37,4 +37,5 @@ def remove_duplicate_text():
 
 if __name__ == "__main__":
     #no_layout()
-    remove_duplicate_text()
+    #remove_duplicate_text()
+    no_title()
