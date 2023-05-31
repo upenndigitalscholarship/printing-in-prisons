@@ -53,7 +53,7 @@ layout: collection
 	 
 	<tbody class="list">
 
-	{%- for post in collections.baseball -%}
+	{%- for post in collections.poetry -%}
 		<tr>
 			<td class="table-title">
 					<a href="{{ post.url | url }}">
@@ -62,7 +62,9 @@ layout: collection
 			</td>
 			<td class="table-author">
 				{%- for author in post.data.author -%}
-				{{ post.data.author }}, 
+				{% if loop.first %}
+				{{ post.data.author }}
+				{% endif %}
 				{%- endfor -%}
 			</td>
 			<td class="table-year">{{ post.data.year }}</td>
@@ -71,7 +73,12 @@ layout: collection
 			<td class="table-day">{{ post.data.day }}</td>
 			<td class="table-tag">
 				{%- for tag in post.data.tags -%}
-					{{ tag }}, 
+					{% if loop.last %}
+						{{ tag }}
+					{% else %}
+						{{ tag }}, 
+					{% endif %}
+					
 				{%- endfor -%}
 			</td>
 		</tr>
