@@ -11,15 +11,20 @@ def no_layout():
             file_.write_text(frontmatter.dumps(content))
 
 def remove_duplicate_text():
+    count = 0
     p = pathlib.Path('./umpire')
     for file_ in p.glob('**/*.md'):
         content = frontmatter.loads(file_.read_text())
         # find duplicate text
         text = content.content 
-        end = text[50:]
-        if text.find(end) !=  text.rfind(end):
-            print(file_)
-
+        start = text[:50]
+        if text.find(start) !=  text.rfind(start):
+            repeat = text.rfind(start)
+            text = text[:repeat]
+            content.content = text
+            file_.write_text(frontmatter.dumps(content))
+            count += 1
+    print(count)
             
 
 if __name__ == "__main__":
