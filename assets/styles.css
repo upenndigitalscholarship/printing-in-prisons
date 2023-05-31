@@ -1,3 +1,16 @@
+@media only screen and (max-width: 768px) {
+	.nav-top{
+		flex-wrap: wrap;
+	}
+	.index-top{
+		flex-wrap: wrap;
+	}
+	.hide-on-mobile{
+		display: none;
+	}
+
+} 
+
 body{
 	font-family: 'Cardo', serif;
 	font-size: 1em;
@@ -44,6 +57,12 @@ button{
 }
 */
 
+.index-top{
+	display:flex; 
+	align-items:center; 
+	justify-content:center;
+}
+
 .flex{
 	display: flex !important;
 }
@@ -75,15 +94,19 @@ button{
 
 .footer{
 	display: flex;
-	gap: 2em;
+	column-gap: 2em;
+	row-gap: 1em;
+	flex-flow: wrap;
 	justify-content: space-evenly;
 	align-items: center;
 }
 
 .nav{
 	display: flex;
-	gap: 2em;
+	column-gap: 2em;
+	row-gap: 1em;
 	justify-content: center;
+	flex-flow: wrap;
 }
 
 .nav-item{
