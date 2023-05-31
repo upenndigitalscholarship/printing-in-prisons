@@ -10,9 +10,19 @@ def no_layout():
             content.metadata['layout'] = 'item'
             file_.write_text(frontmatter.dumps(content))
 
+def no_title():
+    p = pathlib.Path('./umpire')
+    for file_ in p.glob('**/*.md'):
+        content = frontmatter.loads(file_.read_text())
+        layout =  content.metadata.get('layout', None)
+        if not layout:
+            content.metadata['layout'] = 'item'
+            file_.write_text(frontmatter.dumps(content))
+
+
 def remove_duplicate_text():
     count = 0
-    p = pathlib.Path('./umpire')
+    p = pathlib.Path('./echo')
     for file_ in p.glob('**/*.md'):
         content = frontmatter.loads(file_.read_text())
         # find duplicate text
