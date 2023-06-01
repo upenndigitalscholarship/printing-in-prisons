@@ -1,5 +1,11 @@
 {% extends "base.njk" %}
+
 {% block content %}
+{% assign previousPost = collections.items | getPreviousCollectionItem: page %}
+{% assign nextPost = collections.items | getNextCollectionItem: page %}
+
+<p>previousPost: {{ previousPost }}</p>
+<p>nextPost: {{ nextPost }}</p>
 <h1 class="title-centered">{{ title }}</h1>
 <div class="element-centered widest item-container">
 <div class="medium item-metadata">
