@@ -16,7 +16,9 @@ def no_title():
         content = frontmatter.loads(file_.read_text())
         title =  content.metadata.get('title', None)
         if not title:
-            print(file_)
+            content.metadata["title"] = "No Title"
+            file_.write_text(frontmatter.dumps(content))
+            
 
 def remove_duplicate_text():
     count = 0

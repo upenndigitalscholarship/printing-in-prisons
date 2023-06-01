@@ -4,7 +4,9 @@
   "description": "Printing in Prisons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
