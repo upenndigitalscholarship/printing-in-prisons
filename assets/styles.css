@@ -8,6 +8,24 @@
 	.hide-on-mobile{
 		display: none;
 	}
+	.container-collections{
+		display: flex;
+		flex-direction: row !important;
+		flex-wrap: wrap;
+		height:100% !important;
+	}
+	.item-container{
+		flex-wrap: wrap;
+	}
+	.medium{
+		width:80vw !important;
+	}
+	.half{
+		width:80vw !important;
+	}
+	.tall{
+		height:100% !important;
+	}
 
 } 
 
