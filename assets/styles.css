@@ -32,7 +32,7 @@
 body{
 	font-family: 'Cardo', serif;
 	font-size: 1em;
-	background-color: #FBF7EB;
+	background-color: #f8f8f8;
 }
 
 a{
@@ -131,10 +131,18 @@ button{
 	list-style: none;
 }
 
+.nav .nav-item:hover{
+
+}
+
+.nav-top .nav-item:hover{
+	background-color: #FBF7EB;
+}
+
 .nav-item-top{
 	list-style: none;
 	width: 150px;
-	border: 1px solid black;
+	border: 1px solid #aaa;
 	padding: 0.5em;
 	margin: 0;
 }
@@ -151,7 +159,12 @@ button{
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 0;
-	padding-left: 0;
+	padding-left: 0; 
+}
+
+.nav-top h1{
+	font-size: 4em;
+	font-family: 'UnifrakturMaguntia', cursive;
 }
 
 .nav-top-subtitle{
@@ -183,26 +196,38 @@ button{
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
-	height: 1100px;
-	width: 80vw;
-	justify-content: center;
 	margin: auto;
-	align-items: center;
 }
 
 .item{
-	background-color: pink;
-	margin: 2em;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 80vw;
+	height: auto;
+	margin-bottom: 30px;
+	align-items: center;
+	text-align: center;
+	border-top: 5px double #c0c0c0;
 }
 
-.short{
-	height: 300px
+.item-left{
+	width:36vw;
+	margin: auto;
+	padding:15px;
+}
+.item-right{
+	width:36vw;
+	margin: auto;
+	padding:15px;
 }
 
-.tall{
-	height: 450px;
-
+.item img{
+	width:100%;  
+	object-fit:cover;
+	border-radius: 10px;
 }
+
 .wide{
 	width: 46vw;
 }
@@ -214,31 +239,26 @@ button{
 .widest{
 	width: 80vw;
 }
-
-.half{
-	width: 30vw;
-}
-
 .medium{
 	width: 40vw;
 }
-
-.third{
-	width: 20vw;
+.larger {
+	font-size:1.2em;
 }
-
 .homepage-top{
 	margin-right: 40vw;
 	margin-left: auto;
 }
 
-.home-top{
-	width:300px;  
+.img-right{
+	width:400px;  
 	object-fit:cover; 
 	float:right;
-
 }
 
+.smallcaps{
+	font-variant: small-caps;
+}
 .list-item{
 	list-style: none;
 }
@@ -321,5 +341,3 @@ input:focus {
 #articles{
 	margin: auto;
 }
-
-
