@@ -22,8 +22,8 @@
 <!--
 	<li class="nav-item"><a href="/research">research</a></li>
 -->
-	<li class="nav-item"><a href="/reading-room">READING ROOM</a></li>
-	<li class="nav-item"><a href="/data">DATA</a></li>
-	<li class="nav-item"><a href="/about">ABOUT</a></li>
+	<li class="nav-item {{ 'active' if '/reading-room' in page.url }}"><a href="/reading-room">READING ROOM</a></li>
+	<li class="nav-item {{ 'active' if '/data' in page.url }}"><a href="/data">DATA</a></li>
+	<li class="nav-item {{ 'active' if '/about' in page.url }}"><a href="/about">ABOUT</a></li>
 </ul>
 <hr>

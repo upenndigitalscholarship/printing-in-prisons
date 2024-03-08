@@ -129,10 +129,11 @@ button{
 
 .nav-item{
 	list-style: none;
+	border: 1px dotted transparent;
 }
 
 .nav .nav-item:hover{
-
+	background-color: #FBF7EB;
 }
 
 .nav-top .nav-item:hover{
@@ -340,4 +341,8 @@ input:focus {
 
 #articles{
 	margin: auto;
+}
+.active{
+	background-color: #FBF7EB;
+	border: 1px dotted lightgray;
 }
