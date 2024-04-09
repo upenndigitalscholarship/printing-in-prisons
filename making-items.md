@@ -23,7 +23,7 @@ author: Joseph R. Brierley
 newspaper: Eastern Echo
 year: 1966
 issue: Fall
-page: 3
+_page: 3
 tags:
   - 10th Anniverary
   - Grumpy man in tie
