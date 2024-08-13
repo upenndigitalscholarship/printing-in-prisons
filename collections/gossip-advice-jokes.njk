@@ -1,9 +1,8 @@
 ---
 title: Gossip, Advice, Jokes
 layout: collection
-body: This exhibit is currently under development. In the meantime, browse some of the articles related to this topic from the 1913 issue of The Umpire. 
+body: Explore the jokes column and other gossip in The Umpire. Click on a title in the table below to read the article and view it in the context of the page.
 ---
-
 <div id="articles" class="widest">
 	<table>
 		<thead>
@@ -13,8 +12,8 @@ body: This exhibit is currently under development. In the meantime, browse some 
 			<tr>
 		  	<th class="sort" data-sort='table-title'><b>title</b></th>
 			<th class="sort" data-sort='table-author'><b>author </b></th>
-			<th class="sort" data-sort='table-year'><b>year</b></th>
 			<th class="sort" data-sort='table-newspaper'><b>newspaper</b></th>
+			<th class="sort" data-sort='table-year'><b>year</b></th>
 			<th class="sort" data-sort='table-month'><b>month</b></th>
 			<th class="sort" data-sort='table-day'><b>day</b></th>
 			<th class="sort" data-sort='table-tag'><b>tags</b></th>
@@ -38,8 +37,8 @@ body: This exhibit is currently under development. In the meantime, browse some 
 				{% endif %}
 				{%- endfor -%}
 			</td>
-			<td class="table-year">{{ post.data.year }}</td>
 			<td class="table-newspaper">{{ post.data.newspaper }}</td>
+			<td class="table-year">{{ post.data.year }}</td>
 			<td class="table-month">{{ post.data.month }}</td>
 			<td class="table-day">{{ post.data.day }}</td>
 			<td class="table-tag">
