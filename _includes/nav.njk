@@ -1,6 +1,6 @@
 <ul class="nav-top">
 
-<li class="nav-item hide-on-mobile"><h5 class="nav-item-top"><a href="{{ '/reading-room/' | url }}">Devoted to the Interests and Entertainment of its Readers</a></h5></li>
+<li class="nav-item hide-on-mobile"><h5 class="nav-item-top"><a href="{{ '/library/' | url }}">Devoted to the Interests and Entertainment of its Readers</a></h5></li>
 <!--
 <li class="nav-top-main hide-on-mobile"><object data="/assets/logos/umpire.svg" type="image/svg+xml"></object></li>
 -->
@@ -9,7 +9,7 @@
 <li class="nav-top-main hide-on-mobile"><object data="/assets/logos/echo.svg" type="image/svg+xml"></object></li>
 -->
 
-<li class="nav-item hide-on-mobile"><h5 class="nav-item-top"><a href="{{ '/about/' | url }}">Edited and Printed in Memory of those Incarcerated at E. S. P.</a></h5></li>
+<li class="nav-item hide-on-mobile"><h5 class="nav-item-top"><a href="{{ '/about/' | url }}">Designed in Memory of Incarcerated, Today and Yesterday</a></h5></li>
 
 </ul>
 <h4 class="nav-top-subtitle"><hr class="partial-hr">Established 2023<hr class="partial-hr"></h4>
@@ -17,12 +17,10 @@
 <hr>
 <hr>
 
-
 <ul class="nav">
-<!--
-	<li class="nav-item"><a href="/research">research</a></li>
--->
-	<li class="nav-item {{ 'active' if '/reading-room' in page.url }}"><a href="{{ '/reading-room/' | url }}">READING ROOM</a></li>
+	<li class="nav-item {{ 'active' if '/printing-as-prison-labor' in page.url }}"><a href="{{ '/printing-as-prison-labor/' | url }}">PRINTING AS PRISON LABOR</a></li>
+<!--	<li class="nav-item {{ 'active' if '/stories-from-inside' in page.url }}"><a href="{{ '/stories-from-inside/' | url }}">STORIES FROM INSIDE</a></li>-->
+	<li class="nav-item {{ 'active' if '/library' in page.url }}"><a href="{{ '/library/' | url }}">LIBRARY</a></li>
 	<li class="nav-item {{ 'active' if '/data' in page.url }}"><a href="{{ '/data/' | url }}">DATA</a></li>
 	<li class="nav-item {{ 'active' if '/about' in page.url }}"><a href="{{ '/about/' | url }}">ABOUT</a></li>
 </ul>

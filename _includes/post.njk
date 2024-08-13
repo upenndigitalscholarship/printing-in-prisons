@@ -1,0 +1,12 @@
+{% extends "base.njk" %}
+{% block content %}
+
+<div class="blogpost">
+<h1 class="posttitle">{{ title }}</h1>
+
+<h3 class="postdate">{{ date | dateOnly}}</h3>
+
+{{ content | safe }}
+
+{% endblock %}
+</div>
