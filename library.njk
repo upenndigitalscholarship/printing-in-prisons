@@ -1,0 +1,134 @@
+{% extends "base.njk" %}
+{% block content %}
+
+<div class="container-collections wider">	
+	<div class="item">
+		<img src="{{ '/assets/front-end-images/umpire-header.png' | url }}" />
+		<h1>Running from 1913 to 1919, <em>The Umpire</em> offers an unparalleled glimpse into the life of the men &mdash; as well as some women and children &mdash; incarcerated at Philadelphia's Eastern State Penitentiary in the early twentieth century.</h1>
+	</div>
+	<div class="divider"></div>
+	<div class="item">
+		<div class="item-left">
+			<h2><em>The Umpire</em> began as a four-page weekly newspaper reporting on Eastern State’s baseball league. It quickly expanded beyond baseball to include news, editorials, jokes, poetry, classified ads, and more.</h2>
+			<p>The format was always the same. The first page covered news from both inside and outside the prison. A report on a recent concert at Eastern State might be next to news about labor strikes or the war effort.</p>
+			<p>The second page presented a rudimentary masthead, prison population statistics, and an editorial. Facing this editorial, the third page contained jokes, poetry, and general interest factoids.</p>
+		</div>
+		<div class="item-right">
+			<img src="{{ '/assets/front-end-images/umpire-page1.png' | url }}" />
+		</div>
+	</div>
+	<div class="item">
+			<img src="{{ '/assets/front-end-images/umpire-page2-3.png' | url }}" />
+	</div>
+	<div class="item">
+		<div class="item-left">
+			<img src="{{ '/assets/front-end-images/umpire-page4.jpg' | url }}" />
+		</div>
+		<div class="item-right">
+			<p>The fourth page, on the back of the newspaper, showed baseball and player statistics. It also shared classified ads selling services like typewriting or goods that men made in their cells, like greeting cards. Later, the fourth page contained the weekly report of the Honor and Friendship Club, Eastern State’s mutual aid society.</p>
+			<p>Except for some rudimentary cartoons in early issues, <em>The Umpire</em> was not illustrated. If an article did not fill the column, the printers or compositors would pad the page with sentimental or inspirational quotes.
+		</div>
+	</div>
+	<div class="divider"></div>
+	<div class="item">
+		<h1>To learn more about what's inside <em>The Umpire</em>, explore the collections below.</h1>
+	</div>
+	<div class="divider"></div>
+	<div class="item">
+		<div class="item-left">
+			<img src="{{ '/assets/front-end-images/withthepoets.png' | url }}" />
+			<p>Many issues of <em>The Umpire</em> contained poetry. There is poetry about the weather and baseball; on aging and advice; on patriotism and war. There are jokes about other incarcerated men. And there is minstrelsy and racism.</p>
+			<p>Most of the verse is copied from other sources, often newspapers or books in the prison’s library. Sentimental verse about mothers are particularly common. But by far the most engaging verse is always written by those incarcerated at Eastern State. <a href="{{ '/collections/poetry/' | url }}">Click here to access the verse printed in <em>The Umpire</em>.</a></p>
+		</div>
+		<div class="item-right">
+			<a href="{{ '/collections/poetry/' | url }}"><img src="{{ '/assets/front-end-images/jokes.jpg' | url }}"/></a>
+		</div>
+	</div>
+	<div class="divider"></div>
+	<div  class="item">
+		<div class="item-left">
+			<a href="{{ '/collections/gossip-advice-jokes/' | url }}"><img src="{{ '/assets/front-end-images/bighead.png' | url }}"/></a>
+		</div>
+		<div class="item-right">
+			<img src="{{ '/assets/front-end-images/joke.png' | url }}" />
+			<p>While you might expect to find a lot about prisons in a prison newspaper, in fact the men incarcerated at Eastern State, like many others, used their press to distract themselves from life behind bars.</p>
+			<p>A regular joke column shared one-liners, gossip, and advice on how to keep one's spirits lifted while serving time. Writers ragged their friends, creating a spirit of camaraderie in print. As is true today, many jokes are based on prejudicial stereotypes of immigrants, women, and people of color.</p>
+			<p><a href="{{ '/collections/gossip-advice-jokes/' | url }}">Click here to access jokes printed in <i>The Umpire</i>.</a></p>
+		</div>
+	</div>
+	<div class="divider"></div>
+	<div  class="item">
+		<div class="item-left">
+			<img src="{{ '/assets/front-end-images/adcolumn.png' | url }}"/>
+			<p>Classified ads begin appearing in <em>The Umpire</em> in July 1913. It quickly became a regular column, bearing witness to Eastern State's  cottage industries. Some men offer services, like typewriting. Others sell small goods made in their cells, like greeting cards, frames, and inlaid boxes. Each seller had to sign with his inmate number and the cell block where he could be found.</p>
+			<p>	<a href="{{ '/collections/for-sale/' | url }}">Click here to access the classifieds columns in <i>The Umpire</i>.</a><p>
+		</div>
+		<div class="item-right">
+			<a href="{{ '/collections/for-sale/' | url }}"><img src="{{ '/assets/front-end-images/classifieds.jpg' | url }}"/></a>
+		</div>
+	</div>
+	</a>
+</div>
+<!--
+	</a>
+	<a href="/collections/poetry">
+		<div style="background-color:#FBF7EB" class="item half">
+		<h2>Inside <em>The Umpire</em></h2>
+		<img src="/assets/front-end-images/cartoon.jpeg" />
+	</div>
+	</a>
+	<a href="/collections/poetry">
+	<div style="background-color:#FBF7EB" class="item half">
+		<h2>Inside <em>The Umpire</em></h2>
+		<img src="/assets/front-end-images/cartoon.jpeg" />
+	</div>
+	</a>
+
+	<a href="/collections/poetry"><div class="item half" style="border:2px black solid; outline:2px black solid; outline-offset:-10px; background-color:#FBF7EB">
+		<img style="width:90%; display:block;margin:auto; padding:1em" src="../assets/front-end-images/withthepoets.jpg" >
+		<img style="width:90%; display:block;margin:auto; padding:1em" src="../assets/front-end-images/jokes.jpg" >
+	</div></a>
+	<a href="/collections/gossip-advice-jokes">
+	<div style="background-color:#FBF7EB" class="item half tall">
+		<h2>Gossip, Advice, Jokes</h2>
+		<img style="width:100%;  object-fit:cover" src="/assets/front-end-images/cartoon.jpeg" />
+	</div>
+
+	<a href="/collections/baseball"><div class="item half tall" style="border:2px black solid; outline:2px black solid; outline-offset:-10px; background-color:#FBF7EB">
+		<img style="height:60%; display:block;margin:auto; padding:2em" src="../assets/front-end-images/umpire-cropped.svg" >
+		<h2 class="title-centered">Baseball</h2>
+	</div></a>
+
+	<div style="background-color:#FBF7EB" class="item half tall">
+		<h2>In the Archives</h2>
+		<img style="width:100%; height:85%; object-fit:cover" src="../assets/front-end-images/print-shop.jpg" />
+	</div>
+
+	<div style="background-color:#FBF7EB" class="item half short">
+		<h2>What's Being Read at Eastern State</h2>
+		<p>
+		 Trees get lonely too, so we'll give him a little friend. Here's something that's fun. There is immense joy in just watching - watching all the little creatures in nature. The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe. God gave you this gift of imagination. Use it. Isn't that fantastic that you can create an almighty tree that fast? With something so strong, a little bit can go a long way. 
+		 </p>
+	</div>
+	<div style="background-color:#FBF7EB" class="item half">
+		<h2>From</h2>
+		<img style="margin-top:-50px; width:60%; display:block;margin-left:auto; margin-right:auto" src="../assets/front-end-images/print-shop.svg" >
+		<p>
+		Trees get lonely too, so we'll give him a little friend. Here's something that's fun. There is immense joy in just watching - watching all the little creatures in nature. The secret to doing anything is believing that you can do it. Anything that you believe you can do strong enough, you can do. Anything. As long as you believe. God gave you this gift of imagination. Use it. Isn't that fantastic that you can create an almighty tree that fast? With something so strong, a little bit can go a long way. 
+		</p>
+	</div>
+	<div style="background-color:#FBF7EB" class="item half short">
+		<h2>Flip to a Random Page</h2>
+		<img style="width:100%; height:85%; object-fit:cover" src="../assets/img/Echo-Fall-1966-Page-26.jpg" />
+	</div>
+	
+	<button><img width="50px" src="../assets/logos/manicule.svg" /> Browse All Umpire</button>
+	<button><img width="50px" src="../assets/logos/manicule.svg" /> Browse All Echo</button>
+	
+	-->
+
+
+</div>
+</div>
+
+{% endblock %}

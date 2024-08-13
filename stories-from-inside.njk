@@ -1,0 +1,19 @@
+{% extends "base.njk" %}
+{% block content %}
+{{ content | safe }}
+
+<div class="container-collections widest">
+{# {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %} #}
+<ul reversed class="postlist">
+{%- for post in collections.blog | reverse -%}
+	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+		<img src="/assets/img/{{ post.data.thumbnail }}" />
+		<h2>
+			<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		</h2>
+		<p>{{ post.data.description }}</p>
+	</li>
+{% endfor %}
+</ul>
+</div>
+{% endblock %}
