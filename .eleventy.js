@@ -1,3 +1,5 @@
+const { parse } = require("csv-parse/sync");
+
 module.exports = function(eleventyConfig) {
     // Output directory: _site
   
@@ -39,6 +41,17 @@ eleventyConfig.addFilter("dateOnly", function (dateVal, locale = "en-us") {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+  eleventyConfig.addDataExtension("csv", (contents) => {
+    const records = parse(contents, {
+      columns: true,
+      skip_empty_lines: true,
+      relax_column_count: true,
+      delimiter: ",",
+      trim: true,
+    });
+    return records;
+  });
+
     // Copy `css/fonts/` to `_site/css/fonts`
     // Keeps the same directory structure.
     //eleventyConfig.addPassthroughCopy("css/fonts");
@@ -47,3 +60,9 @@ eleventyConfig.addFilter("dateOnly", function (dateVal, locale = "en-us") {
     // Keeps the same directory structure.
     //eleventyConfig.addPassthroughCopy("umpire/*.jpg");
   };
+
+
+  // for csvs, do I want a 1-to-1 connection between csv file and a collection, custom template
+  // or a general csv loader that can be used in any template? Like a general template that is flexible regardless 
+  // of the CSV fields/data. Use position rather than header? require header?
+  // try making an agnostic data template, see how that goes. 

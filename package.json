@@ -22,5 +22,8 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "eleventy-google-fonts": "^0.1.0"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
   }
 }
