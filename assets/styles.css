@@ -34,7 +34,9 @@ body{
 	font-size: 1em;
 	background-color: #f8f8f8;
 }
-
+a{
+	color:black;
+}
 .nav a{
 	text-decoration: none;
 	color: black;
@@ -145,6 +147,7 @@ p{
 }
 .nav-item-top a{
 	text-decoration:none;
+	color:black
 }
 .nav-top-main{
 	list-style: none;
