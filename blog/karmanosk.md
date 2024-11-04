@@ -46,10 +46,10 @@ A man only thinks something is difficult if he is doing it with reluctance and a
 [^1]: Williams, Thomas. “Profile of Socrates Cantoral,” The Eastern Echo, 1964.
 
 ## Works
-![Alt text](/assets/img/Echo-summer-1965-page1.png)
+![test image](/assets/img/Echo-summer-1965-page1.png)
 
 Eastern Echo, Summer 1965, Page 1. Materials:
 
-![Alt text](/assets/img/Echo-Summer-1965-page-06.jpeg)
+![test image](/assets/img/Echo-Summer-1965-page-06.jpeg)
 
 Eastern Echo, Summer 1965, Page 6. Materials:
