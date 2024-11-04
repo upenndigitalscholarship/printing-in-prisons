@@ -16,15 +16,20 @@ The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral 
 
 > Chaplain Joseph Welch addressed the inmates present, urging the necessity of constant effort to secure a right attitude of mind, so that lasting results will follow on going into the outer world. ‘By constant effort we build and grow, which is only following out the Universal law. He who hesitates or stops, and no longer tries to improve, is lost; and that is the weakness which must be checked before it is too late.’[^2] 
 
-[test image](/assets/img/seward-picture1.png)
+<div style="text-align: center;">
+    <img src="assets/img/seward-picture1.png" alt="Image description" width="200px">
+</div>
 
-Welch served in the Union army as a chaplain throughout the American Civil War as an ordained Methodist Elder. Welch oversaw the religious services in ESP, including weekly or monthly Catholic, Episcopal, and Jewish services.[^3]  His role was as much religious as it was institutional, and the emphasis on reforming the individual through confinement was accomplished through living a moral life—which is depicted as a Christian life in the *Umpire* and in Welch’s own writings—and a productive one with employment. Welch sought to instill discipline through religion to the prisoners of ESP, and the *Umpire* seemingly supports this aim:
+Welch served in the Union army as a chaplain throughout the American Civil War as an ordained Methodist Elder. Welch oversaw the religious services in ESP, including weekly or monthly Catholic, Episcopal, and Jewish services.[^3] His role was as much religious as it was institutional, and the emphasis on reforming the individual through confinement was accomplished through living a moral life—which is depicted as a Christian life in the *Umpire* and in Welch’s own writings—and a productive one with employment. Welch sought to instill discipline through religion to the prisoners of ESP, and the *Umpire* seemingly supports this aim:
 
 > There is much interest shown by Chaplain Welch in a Bible class organized among the members and presided over by him. The talks and instruction given on each Friday are beginning to show results and many members are learning that the Bible is a wonderful book and well worth the study.[^4]
 
 As a Methodist elder, Welch represents the largest religious movement at the time which is unique as a distinctly American Protestant denominational affiliation. The emphasis on reform in prisons is highly related to Christian and specifically Protestant ideals, as Max Weber would suggest. It would not be a mistake that the “Moral Instructor” of the prison was a Methodist, especially as Methodists and other mainline Protestant groups became enamored with the social gospel—the public theology which suggests Christians should work to improve society through legal and personal reform. 
 
-[test image](/assets/img/seward-picture2.jpg)
+<div style="text-align: center;">
+    <img src="assets/img/seward-picture2.jpg" alt="Image description" width="400px">
+</div>
+
 
 Welch describes his day-to-day actions in a journal article published by the Pennsylvania Prison Society. Welch writes that between him and his assistant, the Rev. H. Cresson McHenry, they attend to all of the over 1,200 prisoners in ESP. Welch claims that in one year he worked 352 days of the year and met with prisoners over 4,000 times in their cells or at the cell doors.[^5] Welch writes, 
 
@@ -32,7 +37,9 @@ Welch describes his day-to-day actions in a journal article published by the Pen
 
 Welch’s whole existence is devoted to reforming prisoners to make them more moral. Morality in this state-sanctioned institution is being defined as being Christian and able to work. Welch makes considerable personal expense to help prisoners when they are released, meaning he is personally committed to this endeavor in addition to being an agent of the state. He accounts that in one year he purchased 164 train tickets for prisoners upon their release at the cost of $377.50. He also notes that he helps prisoners find jobs which is something deeply connected with living a moral, Christian life.[^7]
 
-[test image](/assets/img/seward-picture3.jpg)
+<div style="text-align: center;">
+    <img src="assets/img/seward-picture3.jpg" alt="Image description" width="400px">
+</div>
 
 He describes handing out calendars at the new year with Christian sayings, praying that they would be the means “of reaching many souls and bringing them to Christ.” 
 
@@ -51,7 +58,9 @@ REJOICING the HEART.
 
 He also provides some successful cases of released prisoners succeeding post-incarceration. He describes them by noting three things: whether they are Christian and have joined a church, whether they have a job, and whether they have gotten married and started a family. He mentions several men who joined either the Methodist or Episcopal Churches with jobs as bakers, tradesman, or factory workers and accounts of marriage and new babies.[^9] 
 
-[Image of ](/assets/img/seward-picture4.jpg)
+<div style="text-align: center;">
+    <img src="assets/img/seward-picture4.jpg" alt="Image description" width="450px">
+</div>
 
 Welch was depicted in the *Umpire* as being much beloved, although they likely would not have published any negative sentiment about him even if some harbored it. In one instance, in 1918, he was presented with a “silver loving cup” by “almost every church in the city” to celebrate “his efforts to cooperate with them in looking after the spiritual needs of the prisoners in that institution.” At the time of this award, Welch had just turned 82 years old and had served as chaplain of ESP for 27 years.[^10]
 
@@ -61,7 +70,9 @@ The prisoners of ESP were distraught by the investigation into him, offering to 
 
 Welch’s dismissal and demise being so close together is curious, and the *Philadelphia Inquirer* addressed this by publishing the account of Joseph Welch’s son, B. Harvey Welch, who claimed his father’s health had been failing for years and that he had been “exceptionally cheerful of late and had accepted his discharge.”  It remains interesting that as soon as Welch’s vocation and charge in life was over, he also passed.[^13]
 
-[Image of the *Umpire* article quoted from.](/assets/img/seward-picture5.png)
+<div style="text-align: center;">
+    <img src="assets/img/seward-picture5.png" alt="Image description" width="250px">
+</div>
 
 [^1]: 1579
 [^2]: 1581
