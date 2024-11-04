@@ -1,7 +1,7 @@
 ---
-title: Socrates Cantoral: Athlete, Artist, Teammate, Friend
+title: Socrates Cantoral, A Jack of All Trades
 author: Kayla Karmanos
-description: Artist Socrates Cantoral is a jack of all trades.
+description: Artist Socrates Cantoral of the Eastern Echo.
 thumbnail: karmanosthumbnail.png
 alt-text: front-page illustration by Socrates Cantoral.
 date: 2024-11-04
@@ -9,6 +9,9 @@ layout: post
 tags:
   - blog
 ---
+# Socrates Cantoral, A Jack of All Trades
+### Artist Socrates Cantoral is a model of self-reclamation and morality at Eastern State Penitentiary.
+![Alt text](/assets/img/Echo-Fall-1966-page-036.jpeg)
 ## About the Artist
 Socrates Raymond “Sook” Cantoral was the epitome of the rehabilitation effort that Eastern State Penitentiary sought to initiate for all prisoners. As an illustrator, a drummer, a Dental lab employee, and a “known and respected” man by “inmates and personnel alike”[^1], he sought to transcend the limitations of his crime and better himself through education, art, and athletic activity—a relentless effort for self-reclamation. A generous man with a big heart, he even contributed the majority of his prison earnings to his mother, the main person whose pride he hoped to reclaim[^1]. Cantoral was a dedicated family man, forming a bond with his nephew John Cantoral that extended “past ordinary family ties” [^2]. A humble, decent, and motivated man, Socrates Cantoral was a model of penitence and achievement at Eastern State. 
 
@@ -32,7 +35,7 @@ Socrates Raymond Cantoral was a high-achieving perfectionistic model of rehabili
 
 [^5]: eastern_echo_sumer1965_body0006.jpg
 
-![test image](/assets/img/brahms-topright.jpeg)
+![test image](/assets/img/Echo-summer-1965-page1.png)
 
 ## Artist Statement
 
@@ -41,4 +44,12 @@ Socrates Raymond Cantoral was a high-achieving perfectionistic model of rehabili
 A man only thinks something is difficult if he is doing it with reluctance and a semi-faith in himself. Regardless of the outcome or result of my efforts, I have every belief that this time spent in learning has not been in vain. That someone, somewhere, someday will recognize my efforts, is compensation enough for me” - Socrates Cantoral, 1964 [^1].
 
 [^1]: Williams, Thomas. “Profile of Socrates Cantoral,” The Eastern Echo, 1964.
+
 ## Works
+![Alt text](/assets/img/Echo-summer-1965-page1.png)
+
+Eastern Echo, Summer 1965, Page 1. Materials:
+
+![Alt text](/assets/img/Echo-Summer-1965-page-06.jpeg)
+
+Eastern Echo, Summer 1965, Page 6. Materials:
