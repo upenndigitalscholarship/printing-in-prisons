@@ -2,7 +2,7 @@
 title: The Umpire Advertisement Column
 author: Alexander Kelley
 description: The significance of advertisements; analysis of article 4002's ad column in The Umpire. 
-thumbnail: kelley-thumbnail
+thumbnail: kelley-thumbnail.jpg
 alt-text: a screenshot of the frontpage of The Umpire Advertisement Analysis
 date: 2024-11-11
 layout: post
