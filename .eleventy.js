@@ -49,6 +49,23 @@ eleventyConfig.addFilter("dateOnly", function (dateVal, locale = "en-us") {
       delimiter: ",",
       trim: true,
     });
+    // change any null values to empty strings
+    records.forEach((record) => {
+      Object.keys(record).forEach((key) => {
+        if (record[key] === null) {
+          record[key] = "";
+        }
+        // if key == "tags" then split the string into an array
+        if (key == "tags") {
+          record[key] = record[key].split(";").map(tag => tag.trim());          
+        }
+        if (key == "layout") {
+          record[key] = record[key] + ".njk";
+        }
+      });
+    });
+
+    console.log(records);
     return records;
   });
 

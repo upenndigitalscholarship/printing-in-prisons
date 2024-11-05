@@ -4,7 +4,7 @@ Author: Wendy Deng
 description: 
 thumbnail: 
 alt-text: 
-date: 2024-11-4
+date: 2024-11-04
 layout: post
 tags:
   - blog

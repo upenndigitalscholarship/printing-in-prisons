@@ -1,5 +1,5 @@
 ---
-title: Socrates Cantoral: Athlete, Artist, Teammate, Friend
+title: "Socrates Cantoral: Athlete, Artist, Teammate, Friend"
 author: Kayla Karmanos
 description: Artist Socrates Cantoral is a jack of all trades.
 thumbnail: karmanosthumbnail.png
