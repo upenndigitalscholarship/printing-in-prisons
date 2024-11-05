@@ -11,7 +11,9 @@ tags:
 ---
 ## A Tale of a Walled Town by Clarence Alexander Rea
 
-![Prologue](/assets/img/Prologue.mp3)
+<audio controls>
+  <source src="/assets/img/Prologue.mp3" type="audio/mpeg">
+</audio>
 _Extract taken from Prologue of A Tale of a Walled Town_
 
 Wrote Clarence Alexander Rea of the Eastern State Penitentiary. Trapped within the walled town, incarcerated person B8266, as he was known as by readers of The Umpire, rose through the ranks to become a leader within the community. First a scribe for the prison’s Honor and Friendship Club whose updates had to be approved by its vice president, he eventually was elected secretary of the club – a club which created entertainment for those in the prison from comedic and music performances to informal baseball games, perhaps a respite from the gruelling solitary nature of life in the prison. He later became editor of The Umpire itself and the main contributor of news articles to the newspaper. However, he was also known for the poems he would often pen in the paper. Such was his talent that a book of his works edited by William Stanley Braithwaite containing the poem read throughout this piece was published while he was still imprisoned in 1921.
