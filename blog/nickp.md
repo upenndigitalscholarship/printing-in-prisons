@@ -46,8 +46,8 @@ _Clarence Alexander Rea’s prisoner record at Huntingdon Reformatory where he w
 ![CAR's ESP Record](/assets/img/CARESP.jpg)
 _Clarence Alexander Rea’s court records prior to his imprisonment at Eastern State Penitentiary._
 
-Bibliography:
-Pennsylvania Historical and Museum Commission. “Pennsylvania, U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.” Ancestry.com, 2016. Accessed October 28, 2024. https://www.ancestrylibrary.com/discoveryui-content/view/76861:61173?tid=&pid=&queryid=33d15f22-1c76-4f10-b593-3fb5f3f07307&_phsrc=xFt1&_phstart=successSource.
-Pennsylvania Industrial Reformatory (Huntingdon, Pa.). “Pennsylvania Industrial Reformatory: Prisoners’ Record 1889-1929 (Roll 6652).” Power Library. Accessed October 28, 2024. https://digitalarchives.powerlibrary.org/psa/islandora/object/psa%3A410196.
-Casper Daily Tribune. “Prison Doors Open to Convict Poetry,” December 3, 1923. https://chroniclingamerica.loc.gov/lccn/sn86072160/1923-12-03/ed-1/seq-6/.
+Bibliography:  
+Pennsylvania Historical and Museum Commission. “Pennsylvania, U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.” Ancestry.com, 2016. Accessed October 28, 2024. https://www.ancestrylibrary.com/discoveryui-content/view/76861:61173?tid=&pid=&queryid=33d15f22-1c76-4f10-b593-3fb5f3f07307&_phsrc=xFt1&_phstart=successSource.  
+Pennsylvania Industrial Reformatory (Huntingdon, Pa.). “Pennsylvania Industrial Reformatory: Prisoners’ Record 1889-1929 (Roll 6652).” Power Library. Accessed October 28, 2024. https://digitalarchives.powerlibrary.org/psa/islandora/object/psa%3A410196.  
+Casper Daily Tribune. “Prison Doors Open to Convict Poetry,” December 3, 1923. https://chroniclingamerica.loc.gov/lccn/sn86072160/1923-12-03/ed-1/seq-6/.  
 Rae, Clarence Alexander. A Tale of a Walled Town: And Other Verses. Edited by William Stanley Braithwaite. J. B. Lippincott Company, 1921.
