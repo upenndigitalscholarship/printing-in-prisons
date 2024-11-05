@@ -1,5 +1,6 @@
 ---
 title: This is second post.
+author: author
 description: texty stty texty stty 
 thumbnail: testimage2.jpg
 date: 2018-06-01
