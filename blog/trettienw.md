@@ -9,5 +9,12 @@ layout: post
 tags:
   - blog
 ---
-![This is a thumbnail](/assets/img/trettien-thumbnail.png)
+I've styled this page using the stylesheet below. Peek at my markdown file to see!
+
+<style>
+  p{
+    color:red;
+  }
+</style>
+
 
