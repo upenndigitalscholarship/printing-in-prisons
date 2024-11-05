@@ -1,5 +1,6 @@
 ---
 title: This is my first post.
+author: Author
 description: My Blog about agile frameworks.
 thumbnail: testimage.jpg
 alt-text: this is a text image.
