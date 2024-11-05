@@ -41,7 +41,7 @@ Welch’s whole existence is devoted to reforming prisoners to make them more mo
     <img src="assets/img/seward-picture3.jpg" alt="Image description" width="400px">
 </div>
 
-He describes handing out calendars at the new year with Christian sayings, praying that they would be the means “of reaching many souls and bringing them to Christ.” 
+He describes handing out calendars at the new year, praying that they would be the means “of reaching many souls and bringing them to Christ,” with Christian sayings like:
 
 > O! the things WE call the LITTLE sins,
 Are hateful in GOD’S SIGHT;
@@ -74,16 +74,21 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
     <img src="assets/img/seward-picture5.png" alt="Image description" width="250px">
 </div>
 
-[^1]: 1579
-[^2]: 1581
-[^3]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days,” Philadelphia Inquirer, January 19, 1920.
-[^4]: 2856
-[^5]: Pennsylvania Prison Society, Journal of Prison Discipline and Philanthropy, vol. 40, 1901, https://www.gutenberg.org/files/56904/56904-h/56904-h.htm.
-[^6]: Pennsylvania Prison Society.
-[^7]: Pennsylvania Prison Society.
-[^8]: Pennsylvania Prison Society.
-[^9]: Pennsylvania Prison Society.
-[^10]: 4437
-[^11]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
-[^12]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days”; “Bury Prison Chaplain,” Philadelphia Inquirer, January 22, 1920.
-[^13]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
+<br>
+<hr>
+<br>
+
+
+1. [^1]: 1579 “Episcopal Services and Baptism,” Umpire, June 21, 1916. 
+2. [^2]: 1581 “Choir and Orchestra Give Song Service,” Umpire, June 28, 1916.
+3. [^3]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days,” Philadelphia Inquirer, January 19, 1920.
+4. [^4]: 2856 “Honor Cub Notes,” Umpire, July 18, 1917.
+5. [^5]: Pennsylvania Prison Society, Journal of Prison Discipline and Philanthropy, vol. 40, 1901, https://www.gutenberg.org/files/56904/56904-h/56904-h.htm.
+6. [^6]: Pennsylvania Prison Society.
+7. [^7]: Pennsylvania Prison Society.
+8. [^8]: Pennsylvania Prison Society.
+9. [^9]: Pennsylvania Prison Society.
+10. [^10]: 4437 “Penitentiary Chaplain Presented with Silver Loving Cup,” Umpire, December 4, 1918. 
+11. [^11]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
+12. [^12]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days”; “Bury Prison Chaplain,” Philadelphia Inquirer, January 22, 1920.
+13. [^13]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
