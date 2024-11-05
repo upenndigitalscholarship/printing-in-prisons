@@ -34,9 +34,6 @@ body{
 	font-size: 1em;
 	background-color: #f8f8f8;
 }
-a{
-	color:black;
-}
 .nav a{
 	text-decoration: none;
 	color: black;
@@ -147,11 +144,6 @@ p{
 }
 .nav-item-top a{
 	text-decoration:none;
-	color:black
-}
-.nav-top-main a{
-	text-decoration:none;
-	color:black
 }
 .nav-top-main{
 	list-style: none;
@@ -367,13 +359,12 @@ input:focus {
 }
 .posttitle{
 	text-align:center;
-} 
-.postdate{
-	color:rgb(149, 149, 149);
-	text-align:center;
 	border-top: 2px double gray;
 	border-bottom: 2px double gray;
 	text-transform: uppercase;
+} 
+.postdate{
+	color:rgb(149, 149, 149);
 }
 .postlist{
 	margin:0;
