@@ -27,6 +27,7 @@ _Extract taken from Canto 7 of A Tale of a Walled Town_
 All the pressure and desperation gnawed at him, and he eventually gave in. He found himself entangled in a web of theft to satisfy her material needs. It was not long before he was caught and apprehended to seven years in prison. However, upon his release, having just lost out on the prime of his youth, he came back to see the same woman now wedded to a man richer than him – a tragedy which led him to commit the crime for which he was now supposedly incarcerated. You can only help but feel a deep sense of sympathy for a man deprived of his youth by the same woman who had betrayed him.
 
 ![Canto 8](/assets/img/Canto8.mp3)
+_Extract taken from Canto 8 of A Tale of a Walled Town_
 
 Perhaps, it is worth viewing Clarence Alexander Rea not as an incarcerated person but an artist whose circumstances had turned into an incarcerated person whose dreams and imaginations still roam free, exploring the world outside the walled town. Not only did he find solace in reading the latest literary magazines, staying updated by reading the latest issue of Literary Digest, but he was also an admirer of the classical greats in Ovid and Aristophanes by whom his writing was greatly influenced.
 
