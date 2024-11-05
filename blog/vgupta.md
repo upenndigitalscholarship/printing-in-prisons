@@ -1,5 +1,6 @@
 ---
 title: From Death Row to Honor Club ; The Extraordinary Journey of William Weber
+author: Author
 description: Rehabilitation 
 thumbnail: testimage.jpg
 alt-text: this is a text image.
