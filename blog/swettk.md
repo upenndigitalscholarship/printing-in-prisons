@@ -1,5 +1,5 @@
 ---
-title: A Society Within a Society: The Life of Robert Heinemann
+title: A Society Within a Society, The Life of Robert Heinemann
 author: Kate Swett
 description: A deep dive into the life of Robert Heinemann, covering his time before and within the Eastern State Penitentiary.
 thumbnail: swett-thumbnail.png
