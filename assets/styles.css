@@ -134,7 +134,10 @@ p{
 .nav-top .nav-item:hover{
 	background-color: #FBF7EB;
 }
-
+.
+.nav-top a{
+	color:black;
+}
 .nav-item-top{
 	list-style: none;
 	width: 150px;
