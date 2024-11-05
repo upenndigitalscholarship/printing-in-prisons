@@ -7,7 +7,7 @@ alt-text: Prison Cell at ESP
 date: 2024-11-10
 layout: post
 tags:
-- blog
+  - blog
 ---
 ## A Tale of a Walled Town by Clarence Alexander Rea
 
