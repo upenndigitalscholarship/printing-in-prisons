@@ -137,6 +137,7 @@ p{
 .
 .nav-top a{
 	color:black;
+	text-decoration:none;
 }
 .nav-item-top{
 	list-style: none;
@@ -147,6 +148,7 @@ p{
 }
 .nav-item-top a{
 	text-decoration:none;
+	color:black;
 }
 .nav-top-main{
 	list-style: none;
