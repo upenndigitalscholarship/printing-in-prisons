@@ -1,7 +1,7 @@
 ---
-title: Harnessing Hue- How Printing Technology and Strategic Color Use Shaped The Eastern Echo
+title: Pressing Boundaries- How Technology and Technique Shaped the Eastern Echo
 author: Jean Park
-description: My Blog about agile frameworks.
+description: My Blog is about the magazine’s blend of art, technology, and craftsmanship.
 thumbnail: parkcover.png
 alt-text: The frontpage of the Eastern Echo Spring 1958
 date: 2024-11-11
@@ -34,3 +34,6 @@ Photographs of the printshop, found in the Fall 1966 issue, further illustrate t
 ![test image](7.png)
 ![test image](8.png)
 
+Further Reading: 
+https://www.tate.org.uk/art/art-terms/o/offset-lithography 
+https://www.inplantimpressions.com/article/printing-provides-escape-from-prison-life/
