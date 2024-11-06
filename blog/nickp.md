@@ -46,21 +46,16 @@ Perhaps, it is worth viewing Clarence Alexander Rea not as an incarcerated perso
 
 Indeed, for his great poetry, he was eventually freed from the penitentiary on December 3rd, 1923. Sentenced to 10 years in prison, his stay was cut short by 3 years, as he was seen to have shown his ‘spiritual quality’ through his writings – the state board of pardons recommended his release following the publishing of two volumes of his verse, including a Tale of a Walled Town. After all, the Eastern State Penitentiary was founded on a model replicated globally that believed that incarcerated persons should be locked in, not for punishment, but to encourage penitence – through his writings, Clarence Alexander Rea had proved that he was no longer his old self.
 
-
-![Casper Daily Tribune](/assets/img/CDTNewspaper.jpg)  
+![Casper Daily Tribune](/assets/img/CDTNewspaper.jpg)<bd>
 _Article in the Casper Daily Tribune detailing his release from Eastern State Penitentiary._
-
 
 Or was he? Clarence Alexander Rea’s prison records suggest that he was incarcerated for enticing a boarding house mistress away for sodomy and buggery, then stealing money from her. Indeed, his criminal records suggest his previous convictions were for larceny that matched not what was penned in his poem but something completely different. He was sentenced to a year at the Huntingdon Reformatory whose own records corroborate this information. Was everything experienced in a Tale of a Walled Town simply in his dreams and imaginations? Perhaps a creative dissonance?
 
-
-![CAR's Huntingdon Record](/assets/img/CARHuntingdon.jpg)  
+![CAR's Huntingdon Record](/assets/img/CARHuntingdon.jpg)<bd>
 _Clarence Alexander Rea’s prisoner record at Huntingdon Reformatory where he was imprisoned for larceny for a year prior to his stay at Eastern State Penitentiary._
 
-
-![CAR's ESP Record](/assets/img/CARESP.jpg)  
+![CAR's ESP Record](/assets/img/CARESP.jpg)<bd>
 _Clarence Alexander Rea’s court records prior to his imprisonment at Eastern State Penitentiary._
-
 
 Bibliography:  
 Pennsylvania Historical and Museum Commission. “Pennsylvania, U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.” Ancestry.com, 2016. Accessed October 28, 2024. https://www.ancestrylibrary.com/discoveryui-content/view/76861:61173?tid=&pid=&queryid=33d15f22-1c76-4f10-b593-3fb5f3f07307&_phsrc=xFt1&_phstart=successSource.  
