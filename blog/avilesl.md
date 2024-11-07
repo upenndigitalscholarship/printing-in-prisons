@@ -16,11 +16,25 @@ In contrast to modern newspapers, which rely on journalists in the field collect
 
 With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
 
-![This is an image of where the quote is from](/assets/img/aviles-picture1.png)
-### Quote from "Our New Possesions" 
-<img src="aviles-picture1.png" alt="Description" style="width: auto; height: 500px;">
- 
- "It is to be expected that a new name for the Danish West Indies, the title to which has now passed to the United States, will be called for," says a writer in the **Transcript**, and it has already "been suggested that they be called the Dewey Islands,  in honor not only of the part which Admiral Dewey had in endowing us with an island empire… Administratively, these new islands might well enough be made a part of Puerto Rico, in which case they would never need a sepa- rate name, each one being called, of course, by its present title--St. Thomas, .St. Croix, St. Jean. If Porto Rico is given full territo- rial status in the American union, it will un- doubtedly include these islands, just as it al- ready includes the other Virgin Islands, once Spanish-Culebra and Vieques…"
+<div style="display: flex; align-items: flex-start;">
+
+  <!-- Image -->
+  <img src="aviles-picture1.png" alt="Picture from The Umpire article Our New Possesions" style="width: 100px; height: auto; margin-right: 15px;">
+
+  <!-- Text Container with Title and Quote -->
+  <div>
+    <!-- Header Title for the Quote -->
+    <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
+
+    <!-- Quote Text -->
+    <blockquote style="font-style: italic; margin: 5px 0;">
+      "It is to be expected that a new name for the Danish West Indies, the title to which has now passed to the United States, will be called for," says a writer in the <strong>Transcript</strong>, and it has already "been suggested that they be called the Dewey Islands, in honor not only of the part which Admiral Dewey had in endowing us with an island empire… Administratively, these new islands might well enough be made a part of Puerto Rico, in which case they would never need a separate name, each one being called, of course, by its present title--St. Thomas, St. Croix, St. Jean. If Porto Rico is given full territorial status in the American union, it will undoubtedly include these islands, just as it already includes the other Virgin Islands, once Spanish-Culebra and Vieques…"
+    </blockquote>
+  </div>
+
+</div>
+
+
  
 The article, titled “Our New Possessions”, was published in the March 7th, 1917 issue of The Umpire. This piece is reprinted almost verbatim from what is believed to be the Boston Evening Transcript, a newspaper referenced a couple of times in The Umpire. Throughout its issues, the editors of the Umpire refer to it as the Transcript or the Boston Transcript, indicating the influence and importance of this source of information for the prison circulation newspaper.  
 
@@ -34,5 +48,5 @@ The ideas expressed in this article reflect mainstream perspectives, particularl
 ### From the Boston Evening Transcript to The Umpire
 Remembering that Eastern State Penitentiary heavily depended on outside newspapers to inform their readers on world news, I was able to narrow down the month of the Boston Evening Transcript article they used for their piece. Reviewing the historical context, the Danish West Indies were purchased on January 17th, 1917. The Umpire issue discussed above was published on March 7th, 1917. The article mentioned Puerto Rico not being under full territorial status, however, the island was given this status on March 2nd 1917. This signifies that there is a lag in information transmission. The Boston Evening Transcript must have written their article soon after the purchase was made in mid-January. Assuming the original article was published late January, it had to make its way all the way down to Philadelphia, specifically Eastern State Penitentiary. When it arrived at the prison, it must have been read, analyzed, and picked for the specific issue, procedures that take more than a day to achieve. With all of these facts in mind, I hypothesize that the Boston Evening Transcript issue was written late January of 1917 and Eastern State Penitentiary received it in mid to late February for it to be reprinted into their March 7th issue. 
 
-### Works Cited 
+### Works Cited and Further Reading
 Reprinting, circulation, and the network author in antebellum newspaper Ryan C. Cordell
