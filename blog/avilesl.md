@@ -20,15 +20,11 @@ With this historical context in mind, we can compare what happened to these isla
 
   <!-- Image -->
   <img src="aviles-picture1.png" alt="Picture from The Umpire article Our New Possesions" style="width: 100px; height: auto; margin-right: 15px;">
-
-  <!-- Text Container with Title and Quote -->
   <div>
-    <!-- Header Title for the Quote -->
     <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
 
-    <!-- Quote Text -->
-    <blockquote style="font-style: italic; margin: 5px 0;">
-      "It is to be expected that a new name for the Danish West Indies, the title to which has now passed to the United States, will be called for," says a writer in the <strong>Transcript</strong>, and it has already "been suggested that they be called the Dewey Islands, in honor not only of the part which Admiral Dewey had in endowing us with an island empire… Administratively, these new islands might well enough be made a part of Puerto Rico, in which case they would never need a separate name, each one being called, of course, by its present title--St. Thomas, St. Croix, St. Jean. If Porto Rico is given full territorial status in the American union, it will undoubtedly include these islands, just as it already includes the other Virgin Islands, once Spanish-Culebra and Vieques…"
+   <blockquote style="font-style: italic; margin: 5px 0;">
+    "It is to be expected that a new name for the Danish West Indies, the title to which has now passed to the United States, will be called for," says a writer in the <strong>Transcript</strong>, and it has already "been suggested that they be called the Dewey Islands, in honor not only of the part which Admiral Dewey had in endowing us with an island empire… Administratively, these new islands might well enough be made a part of Puerto Rico, in which case they would never need a separate name, each one being called, of course, by its present title--St. Thomas, St. Croix, St. Jean. If Porto Rico is given full territorial status in the American union, it will undoubtedly include these islands, just as it already includes the other Virgin Islands, once Spanish-Culebra and Vieques…"
     </blockquote>
   </div>
 
