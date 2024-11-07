@@ -29,7 +29,7 @@ When we think about prisons, including Eastern State Penitentiary, we often imag
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: left; margin-right: 20px;">
-    <img src="/assets/img/smith-card.png" alt="This is an image of a Christmas Card from 1913" style="width: 100%;">
+    <img src="./assets/img/smith-card.png" alt="This is an image of a Christmas Card from 1913" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of a Christmas card from <em>1913</em>
     </p>
