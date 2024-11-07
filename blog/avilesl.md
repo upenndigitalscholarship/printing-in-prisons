@@ -4,7 +4,7 @@ author: Laura Aviles Rivera
 description: Reprinting in prisons and its effects on worldviews.
 thumbnail: aviles-thumbnail.jpg
 alt-text: A picture of The Umpire
-date:2024-11-11
+date: 2024-11-11
 layout: post
 tags:
   - blog
