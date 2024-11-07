@@ -11,11 +11,11 @@ tags:
 ---
 
 
-<p style = text-align:center 
+<p style = text-align:center>
 
 “Don’t you feel home-sick at times, Albert?’’ asked wifey. “Sure, but I look at your photograph, and then I don’t feel home-sick any more.’’
 
-<p style = text-align:center 
+<p style = text-align:center>
 
 – The Umpire Vol. V, Issue 27, 1918 
 
@@ -26,7 +26,7 @@ Beyond this joke, photographs in prison serve not only an emotional purpose but 
 
 One installation, *Solitary Watch*, is a unique, ongoing project that allows prisoners in solitary confinement to request photographs, drawings, or images of their choosing. You can interact with the project yourself through [this link](https://photorequestsfromsolitary.org/). The requests themselves are very telling: a photo of “Liberation,” someone to “write back and communicate like a friend,” or even just a smiling face. The requests ranged from images of loved ones to symbols of freedom–like “Daddy’s Angel,” a photo of a daughter, or a snapshot of the Philadelphia Eagles’ championship victory. For those facing the psychological strain of solitary confinement, these photos represent glimpses of humanity that can serve as a bridge to the world outside.
 
-<img src="/assets/img/mirzaian-thumbnail.jpeg" alt="Mural in Eastern State Penitentiary Cell"  width="400" height="500" style=float:right>
+<img src="/assets/img/mirzaian-thumbnail.jpeg" alt="Mural in Eastern State Penitentiary Cell" width="400" height="500" style=float:right>
 
 Another installation featured a mural constructed entirely from magazine clippings and hair gel (pictured right), which visually accomplished piecing together fragments of the outside world within the confines of a prison cell. For me, it sparked curiosity about how inmates must deeply feel isolated from the outside, compelling them to create a new version of it that feels close and accessible with whatever resources they can find. When the outside world is so far beyond reach, images become a powerful tool to recreate a world that is within reach. However, this use of images as a form of expression isn’t new to prison life; it even traces back to the early days of the Penitentiary.
 
