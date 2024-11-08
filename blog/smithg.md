@@ -45,7 +45,7 @@ Edward Franklin, better known as "Jingles," was a passionate poet from New York 
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="/assets/img/gracie-scarf.png" alt="This is an image of a woman wearing a scarf in the early 20th century" style="width: 100%;">
+    <img src="./assets/img/gracie-scarf.png" alt="This is an image of a woman wearing a scarf in the early 20th century" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of a woman wearing a scarf in the early 20th century.
     </p>
