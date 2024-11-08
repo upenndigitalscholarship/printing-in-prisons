@@ -29,7 +29,7 @@ The Eastern Echo was printed on the Miehle horizontal press for six years, which
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e4GmiXXAvuA?si=xSYZV682hDP2evNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In the Fall 1966 issue, the printing team switched from the Miehle horizontal press to the Miltilith 1250-W Offset Duplicator. This machine was much faster than the Miehle horizontal press and could print “9,000 impressions per hour” (Eastern Echo, Fal 1996, p.11).
+In the Fall 1966 issue, the printing team switched from the Miehle horizontal press to the Miltilith 1250-W Offset Duplicator. This machine was much faster than the Miehle horizontal press and could print “9,000 impressions per hour” (Eastern Echo, Fall 1996, p.11).
 
 Photographs of the printshop, found in the Fall 1966 issue, further illustrate the craft and physical process behind the Eastern Echo. These images capture the magazine's reliance on a hands-on, manual production method, where each artistic decision—from color choices to page layout—was influenced by the capabilities and limitations of the press. In this way, the Eastern Echo demonstrates how early color printing technology shaped both the aesthetic and emotional qualities of the publication, turning technical constraints into opportunities for artistic expression.
 ![test image](5.png)
