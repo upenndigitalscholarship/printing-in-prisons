@@ -65,7 +65,6 @@ eleventyConfig.addFilter("dateOnly", function (dateVal, locale = "en-us") {
       });
     });
 
-    console.log(records);
     return records;
   });
 
