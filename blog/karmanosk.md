@@ -88,4 +88,34 @@ Eastern Echo, Summer 1965, Page 12. Materials:
 
 Eastern Echo, Summer 1965, Page 16. Materials:
 
-![test image](/assets/img/Echo-
+![test image](/assets/img/Echo-summer-1965-page21.jpeg)
+
+Eastern Echo, Summer 1965, Page 21.
+
+![test image](/assets/img/Echo-summer-1965-page31.jpeg)
+
+Eastern Echo, Summer 1965, Page 31.
+
+![test image](/assets/img/Echo-Summer-1965-page33.jpeg)
+
+Eastern Echo, Summer 1965, Page 33.
+
+![test image](/assets/img/Echo-summer-1965-page38.jpeg)
+
+Eastern Echo, Summer 1965, Page 38.
+
+![test image](/assets/img/Echo-Summer-1965-pg11.jpeg)
+
+Eastern Echo, Summer 1965, Page 11.
+
+![test image](/assets/img/Echo-summer-1966-page7.jpeg)
+
+Eastern Echo, Summer 1966, Page 7.
+
+![test image](/assets/img/Echo-Summer-1966-page16.jpeg)
+
+Eastern Echo, Summer 1966, Page 16.
+
+![test image](/assets/img/Echo-Summer-1966-page22.jpeg)
+
+Eastern Echo, Summer 1966, Page 22.
