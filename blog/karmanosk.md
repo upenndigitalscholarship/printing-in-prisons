@@ -53,3 +53,41 @@ Eastern Echo, Summer 1965, Page 1. Materials:
 ![test image](/assets/img/Echo-Summer-1965-page-06.jpeg)
 
 Eastern Echo, Summer 1965, Page 6. Materials:
+
+![test image](/assets/img/Echo-Summer-1963-Page14.jpeg)
+
+Eastern Echo, Summer 1963, Page 14. Materials:
+
+![test image](/assets/img/Echo-summer-1963-page20.jpeg)
+
+Eastern Echo, Summer 1963, Page 20. Materials.
+
+![test image](/assets/img/Echo-summer-1963-page31.jpeg)
+
+Eastern Echo, Summer 1963, Page 31. Materials:
+
+![test image](/assets/img/Echo-Summer-1963-Pg15.jpeg)
+
+Eastern Echo, Summer 1963, Page 15. Materials:
+
+![test image](/assets/img/Echo-Summer-1964-Page09.jpeg)
+
+Eastern Echo, Summer 1964, Page 9. Materials:
+
+![test image](/assets/img/Echo-Summer-1965-Page10.jpeg)
+
+Eastern Echo, Summer 1965, Page 10. Materials:
+
+![test image](/assets/img/Echo-Summer-1965-page11.jpeg)
+
+Eastern Echo, Summer 1965, Page 11. Materials:
+
+![test image](/assets/img/Echo-Summer-1965-page12.jpeg)
+
+Eastern Echo, Summer 1965, Page 12. Materials:
+
+![test image](/assets/img/Echo-summer-1965-page16.jpeg)
+
+Eastern Echo, Summer 1965, Page 16. Materials:
+
+![test image](/assets/img/Echo-
