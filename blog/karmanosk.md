@@ -35,8 +35,6 @@ Socrates Raymond Cantoral was a high-achieving perfectionistic model of rehabili
 
 [^5]: The Eastern Echo, Summer 1965, Page 6.
 
-![test image](/assets/img/Echo-summer-1965-page1.png)
-
 ## Artist Statement
 
 “In spite of my small efforts I cannot say that I have always been optimistic. The weight of my participation in the wrong against society will always be with me. And, through my efforts of achievements in prison, coupled with the years I have served, I hope somehow to reach a state of vindication in the minds of the people who now control my fate. I am definitely not the youth who once thought the world owed him something because of a few medals won on the battlefield. I now realize that a person does not turn his: bravery on and off like a light; that the bravest battle is mastery of myself to enable me to live with my fellow man in a decent and law-abiding manner. But most of all, I want to justify my mother’s faith in me and make her remaining years happy ones.
