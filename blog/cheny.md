@@ -11,7 +11,7 @@ tags:
 ---
 
 # <span style="color: darkred; font-family: 'Georgia', serif; font-size: 2em; border-bottom: 3px solid green;">Christmas Behind Bars: How Inmates Celebrated the Holidays at Eastern State Penitentiary</span>
-[![Christmas Hymn](./assets/img/chen-christmasblog.png)](https://pixabay.com/music/christmas-silent-night-128573/)
+[![Christmas Hymn](/assets/img/chen-christmasblog.png)](https://pixabay.com/music/christmas-silent-night-128573/)
 
 **<span style="color: green;">Click On The Image Above For Christmas Hymn!</span>**
 
@@ -21,7 +21,7 @@ tags:
 
 To this day, the Christmas dinner is a core part of Christmas in most families. Incarcerated from the Eastern State Penitentiary have long complained about the food served on a day-to-day basis. From John L Williams Jr’s other article written during the anniversary of the *Eastern Echoes*, inmates complained about the food quality and urged Williams to write about it. (Eastern Echo 1957 Spring, Volume 2, Issue 1, Page 4) This provides a stark contrast to the meal served in Eastern State Penitentiary in the article from the *Umpire* on 1913, December 24.
 
-![Christmas Table](./assets/img/chen-thumbnail.png)
+![Christmas Table](/assets/img/chen-thumbnail.png)
 
 <div style="background-color: #f94449; padding: 15px; border-left: 5px solid #8b0000; color: #333; font-style: italic;">
 
@@ -30,7 +30,7 @@ To this day, the Christmas dinner is a core part of Christmas in most families. 
 
 
 
-![Christmas Meal](./assets/img/chen-christmasdinner.png)
+![Christmas Meal](/assets/img/chen-christmasdinner.png)
 **This is an AI generated image of the description above*
 
 ---
