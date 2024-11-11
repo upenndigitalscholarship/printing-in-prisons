@@ -13,7 +13,7 @@ tags:
 <div style="width: 40%; float: right; margin-left: 20px;">
     <img src="/assets/img/Eastern_echo_fall1965_bodyclip.png/" alt="This is an image of prisoners with disabilities from the article "Disabled Public Offenders" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image of prisoners with disabilities recieving services from the article "Disabled Public Offenders" in the <em>Eastern Echo</em>
+        Prisoners with disabilities recieve services offered by Eastern State. Sourced from the article "Disabled Public Offenders" in the <em>Eastern Echo</em>
     </p>
 </div>
 
@@ -42,11 +42,30 @@ tags:
         <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
+<div style="text-align: justify; margin-bottom: 20px;">
+   
+  <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
+        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
+</div>
+
 <p>The editors of the Eastern Echo promote a vocational program providing rehabilitation to disabled prisoners to “restore them to economic feasibility.’ This program offered services such as physical and psychotherapy, artificial limbs, braces, and hearing aids, while providing educational counseling, college training, business courses, barbering, truck driving, and other vocational training to qualified disabled inmates. The program was “free if the applicant cannot afford to pay” indicating that it cost money to some.<p>
 <p>Qualifications were determined by proving 1) a mental or physical disability which results in functional limitations 2) substantial handicap for employment 3) reasonable expectation that services would help an individual find employment.<p>
 <p>The article acknowledged that there are “hard realities involved in this issue.” It stated that there is 1) a backlog of eligible people not reached by the program 2) debt situations which make it difficult for some state agencies to find funding, giving rise to burgeoning caseloads, insufficient funds, and staff shortages. However, the article proposed solutions to work around difficulties, for example, partaking in repeat diagnoses to prove eligibility and deferring the examination of eligibility until after the applicant has received services.<p> 
 
 <h2>Vocational Rehabilitation</h2>
+<div style="text-align: justify; margin-bottom: 20px;">
+   
+  <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
+        <img src="/assets/img/eastern_echo_fall1965_body0007.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
+</div>
+<div style="text-align: justify; margin-bottom: 20px;">
+   
+  <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
+        <img src="/assets/img/eastern_echo_fall1965_body0030.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
+</div>
 <h3>by Mary E. Switzer</h3>
 <p>Published in tandem with “Disabled Public Offenders,” “Vocational Rehabilitation” was a direct message from Mary E. Switzer, the chief author of the Vocational Rehabilitation Act of 1954, to disabled prisoners about the aforementioned vocational program. This program was said to be implemented in November in Pennsylvania as of 1964, ten years after the bill’s passing. <p>
 <p>Switzer outlined national efforts to implement the Act, as well as success stories in Pennsylvania. Switzer stressed the importance of self-motivation, stating that “the ultimate decision to work must be made by the individual himself.” She wrote that to become involved in the program, prisoners should “see the parole officer.” <p>
