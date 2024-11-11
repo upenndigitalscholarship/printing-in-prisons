@@ -72,6 +72,6 @@ Bibliography: All images are from before the 1920s; therefore, each selection is
 
 <style>
   img{
-    width:72%;
+    width:79%;
   }
 </style>
