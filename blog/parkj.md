@@ -44,7 +44,6 @@ Photographs of the printshop, found in the Fall 1966 issue, further illustrate t
   <img src="/assets/img/parkj-6.jpeg" style="width: 50%;">
   <img src="/assets/img/parkj-7.jpeg" style="width: 50%;">
   <img src="/assets/img/parkj-8.jpeg" style="width: 50%;">
-  <img src="/assets/img/parkj-9.jpeg" style="width: 50%;">
 </div>
 
 
