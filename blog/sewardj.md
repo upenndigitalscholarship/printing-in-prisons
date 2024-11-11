@@ -12,12 +12,14 @@ tags:
 
 # The Rev. Joseph Welch, Moral Instructor
 
+updated
+
 The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral Instructor” of the facility. Welch was responsible for not only the spiritual needs of the inmates, but also for the moral reformation of the incarcerated individuals in the prison. At this time, it was ESP’s mission to reform the incarcerated, and Welch was a critical component in this internal moral reformation. Welch would speak at services, Bible studies, and events about “inducing a higher ideal of life and a desire for moral betterment.”[^1]  The *Umpire* repeatedly reported on Welch’s insistence on a moral life when he spoke at events:
 
 > Chaplain Joseph Welch addressed the inmates present, urging the necessity of constant effort to secure a right attitude of mind, so that lasting results will follow on going into the outer world. ‘By constant effort we build and grow, which is only following out the Universal law. He who hesitates or stops, and no longer tries to improve, is lost; and that is the weakness which must be checked before it is too late.’[^2] 
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 40%;">
+    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 8px 0 8px 8px; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture1.png" alt="Image of the article from the Umpire that was referenced." style="width: 100%;">
         <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
             Image 1: Article from the <i>Umpire</i> that was referenced.
@@ -33,7 +35,7 @@ As a Methodist elder, Welch represents the largest religious movement at the tim
 
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 50%;">
+    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 8px 8px 8px 0; width: 60%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture2.jpg" alt="Image of the dilapidated chapel of ESP after the facility was abandoned." style="width: 100%;">
         <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
             Image 2: Dilapidated chapel of ESP after the facility was abandoned.
@@ -48,7 +50,7 @@ Welch describes his day-to-day actions in a journal article published by the Pen
 Welch’s whole existence is devoted to reforming prisoners to make them more moral. Morality in this state-sanctioned institution is being defined as being Christian and able to work. Welch makes considerable personal expense to help prisoners when they are released, meaning he is personally committed to this endeavor in addition to being an agent of the state. He accounts that in one year he purchased 164 train tickets for prisoners upon their release at the cost of $377.50. He also notes that he helps prisoners find jobs which is something deeply connected with living a moral, Christian life.[^7]
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 55%;">
+    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 8px 0 8px 8px; width: 60%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture3.jpg" alt="Image of abandoned chaplain's office with broken furniture and peeling paint." style="width: 100%;">
         <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
             Image 3: Abandoned chaplain's office with broken furniture and peeling paint.
@@ -76,7 +78,7 @@ REJOICING the HEART.
 He also provides some successful cases of released prisoners succeeding post-incarceration. He describes them by noting three things: whether they are Christian and have joined a church, whether they have a job, and whether they have gotten married and started a family. He mentions several men who joined either the Methodist or Episcopal Churches with jobs as bakers, tradesman, or factory workers and accounts of marriage and new babies.[^9] 
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 55%;">
+    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 8px 8px 8px 0; width: 60%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture4.jpg" alt="Image of abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets." style="width: 100%;">
         <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
             Image 4: Abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets.
@@ -91,7 +93,7 @@ In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed 
 The prisoners of ESP were distraught by the investigation into him, offering to write letters to the committee on his behalf. Upon his death and interment at Laurel Hill Cemetery in Philadelphia’s Fairmount Park, ESP prisoners sent flowers and a letter “expressing the unanimous sentiment of all the inmates” of their regret over Welch’s passing.[^12]
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 40%;">
+    <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 8px 0 8px 8px; width: 50%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture5.png" alt="Image of the article from the Umpire that was referenced." style="width: 100%;">
         <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
             Image 5: Article from the <i>Umpire</i> that was referenced.
