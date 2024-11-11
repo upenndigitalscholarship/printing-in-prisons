@@ -52,3 +52,5 @@ Eastern Echo/January (1967) Pg 31
     width: 50%;
   }
 </style>
+
+<style> img{right}</style>
