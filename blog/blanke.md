@@ -30,4 +30,4 @@ src="https://youtu.be/dtSZ4BTb-YE">
 
 <span class="highlight-text">Mentions of John Metzler’s miniature carousel in *The Umpire*:
 
-![Here are images of articles that discussed the carousel model in *The Umpire*_](sources.jpg)
+<img src="/assets/img/sources alt="Here are images of articles that discussed the carousel model in The Umpire">
