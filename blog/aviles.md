@@ -19,8 +19,8 @@ With this historical context in mind, we can compare what happened to these isla
 <div style="display: flex; align-items: flex-start;">
 
   <!-- Image -->
-  <img src="/assets/img/aviles-picture1.png" alt="Picture from The Umpire article Our New Possesions" style="width: 500px; height: auto; margin-right: 20px;">
-  <div style="height: auto;" >
+  <img src="/assets/img/aviles-picture1.png" alt="Picture from The Umpire article Our New Possesions" style="width: 300px; height: auto; margin-right: 20px;">
+  <div style="width: 300px;" >
     <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
 
    <blockquote style="font-style: italic; margin: 5px 0;">
