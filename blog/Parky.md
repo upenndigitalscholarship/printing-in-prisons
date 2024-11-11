@@ -56,7 +56,7 @@ tags:
 <p>Third Base: "Hustling Ball Players"</p>
 <p>Home Base: Life After Eastern State Penitentiary</p>
 <!-- Baseball field image with image map -->
-<img src="baseballfield.jpg" alt="Baseball Field" usemap="#baseball-map" width="951" id="baseball-map">
+<img src="assets/img/baseballfield.jpg" alt="Baseball Field" usemap="#baseball-map" width="951" id="baseball-map">
 
 <!-- Image Map Definition -->
 <map name="baseball-map">
@@ -79,13 +79,13 @@ tags:
     <p>Howard Otis Housel, better known as Inmate B-6861 in the Eastern State Penitentiary, was an inmate that was imprisoned from 1913 to 1916. During his time in the Eastern State Penitentiary, he published one piece of advice and a poem, showing that he was an active writer in the prison.
 Howard Otis Housel was born on March 22, 1887 in Trenton, New Jersey and the record indicates that he received 12 years of education, which was not common during the 1890s when the percentage of 17 year olds that graduated from high school was around 3.5%. <sup><a href="#ref1">[1]</a></sup> This level of literacy allowed Housel to actively publish his writing in the Umpire, a newspaper published in the Eastern State Penitentiary. He was sentenced to two years and six months along with a fine of $1.00 for uttering a forgery. Though the document he forged remains unclear, it is possible that his high level of literacy played a huge role in a forgery.</p>
 <!-- Add the image here -->
-<img src="houselprisonrecord.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px
+<img src="asssets/img/houselprisonrecord.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px
 solid #ccc; border-radius: 5px;">
 <figcaption>Image 1&2. Prison Record of Howard Housel</figcaption>
 <p>While the records of his activities in prison are limited, we can peek into part of his story through several publications in the Umpire. His writings, which will be discussed in You will be Glad and Hustling Ball Players, indicate that he had a good relationship with other inmates and loved to play baseball in the prison. Additionally, The Umpire included a section for inmates to sell items, where Housel listed a “17-ribbed, 8-string mandolin, worth $7.50, for $2.50,” noting he was selling it because he would soon be released. Possessing musical instrument during his imprisonment demonstrates his involvement in musical activities in the ESP. Especially, $7.50 during his time is equivalent to about $225 in current values <sup><a href="#ref2">[2]</a></sup> and his keeping of high-priced instrument in the prison reflects his passion for music. It is also possible that he may have been part of a musical group in the ESP as the inmates “formed jazz and country bands, orchestras and choirs, penning original compositions and performing in holiday concerts broadcast on the radio.” <sup><a href="#ref3">[3]</a></sup> Mandolin, one of the pivotal instruments for country music, suggests Housel may have kept it with hopes of joining a country band.</p>
 <!-- Wrap the image in a div for better control over layout -->
 <div class="image-container">
-    <img src="mandolin.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="assets/img/mandolin.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
     <figcaption>Image 3. Howard Housel Selling Mandolin on Umpire (Feb 23, 1916)</figcaption>
 </div> 
 
@@ -105,7 +105,7 @@ solid #ccc; border-radius: 5px;">
    <!-- Centered Audio Player -->
 <div class="audio-container">
     <audio controls>
-        <source src="youwillbeglad.mp3" type="audio/mpeg">
+        <source src="assets/img/youwillbeglad.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
@@ -120,7 +120,7 @@ solid #ccc; border-radius: 5px;">
     }
 </style>
 <!-- Add the image here -->
-<img src="youwillbeglad.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<img src="assets/img/youwillbeglad.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 <figcaption>Image 4. "You Will Be Glad" published on Umprie (Apr 19, 1916)</figcaption>
     <!-- Boxed Section -->
     <div class="boxed-section">
@@ -161,7 +161,7 @@ solid #ccc; border-radius: 5px;">
     }
 </style>
 <!-- Add the image here -->
- <img src="hustling.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+ <img src="assets/img/hustling.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
  <figcaption>Image 5. "Hustling Ball Players" published on Umpire (Apr 26, 1916)</figcaption>
     <!-- Boxed Section -->
     <div class="boxed-section">
@@ -196,7 +196,7 @@ solid #ccc; border-radius: 5px;">
 <p>The inclusion of dialogue between the two managers, each arguing that their teams are unbeatable, reflect the competitive environment between two baseball teams. The rivalry between the two teams indicates that baseball was not just a way to pass their time. Rather, it was a way to reconnect back to the passion outside of the prison. Despite the lack of monetary compensation, baseball was popular among inmates because of the shift of the value from money to joy as a reward. Not only baseball brought excitement among the inmates but also gave the sense of autonomy and hope of “becoming reintegrated into American society.” <sup><a href="#ref4">[4]</a></sup>
 With the power to organize the league and teams amongst themselves, the baseball empowered them to “assume authority and responsibility” <sup><a href="#ref4">[4]</a></sup> which were denied in the prison.</p>
 
-<img src="baseballhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<img src="assets/img/baseballhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 <figcaption>Image 6. Prisoners of ESP playing baseball in the prison</figcaption>
 <p>Housel also provides short advice to the managers before he leaves the prison. He warns the managers not to sign anyone randomly but choose a player wisely. This reveals that Howard himself was also actively involved in the baseball league and shows his passion for the baseball league in the prison, even when he was being released in a few months.</p>
 
@@ -212,16 +212,16 @@ With the power to organize the league and teams amongst themselves, the baseball
 
 <p>Despite the limited evidence of his life after Eastern State Penitentiary, his name was found in the local newspaper of New Jersey as one of the men that was enlisted and sent to Camp Greenleaf. He was enlisted to serve in World War I, confirmed by the U.S. World War I Draft Registration Cards written in 1917. His dedication to serve for the nation reflects the change in values after serving his sentence in the Eastern State Penitentiary. As reflected in the “You will be Glad” section, he valued respect and integrity during his imprisonment and his service in World War I well reflects his core values. Perhaps, he sought serving for the nation as a way to compensate for the wrongdoings in the past.</p> 
 <!-- Add the image here -->
-    <img src="veterannew.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="assets/img/veterannew.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
     <figcaption>Image 7. Veteran Record of Howard Housel of World War I </figcaption>
 <!-- Add the image here -->
-    <img src="HowardHousel-3.jpg" alt="Image Description" style="max-width: 75%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="assets/img/HowardHousel-3.jpg" alt="Image Description" style="max-width: 75%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
     <figcaption>Image 8. The Monmoth Inquirer (Feb 28, 1918) including Howard Housel as one of men enlisted </figcaption>
 <p>Unfortunately, this is his last record. He died on October 10, 1922 of unknown cause and his graveyard can be found in Neptune Township, New Jersey.</p>
 
 <!-- Wrap the image in a div for better control over layout -->
 <div class="image-container">
-    <img src="graveyardhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="assets/img/graveyardhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
     <figcaption>Image 9. Graveyard where Howard Otis Housel is buried, located in Neptune Township, New Jersey.</figcaption>
 </div>
 
