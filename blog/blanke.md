@@ -31,4 +31,4 @@ tags:
 
 Mentions of John Metzler’s miniature carousel in *The Umpire*:
 
-<img src="/assets/img/sources" alt="Here are images of articles that discussed the carousel model in The Umpire">
+<img src="/assets/img/sources.png" alt="Here are images of articles that discussed the carousel model in The Umpire">
