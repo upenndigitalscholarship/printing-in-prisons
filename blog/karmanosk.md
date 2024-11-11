@@ -49,7 +49,7 @@ A man only thinks something is difficult if he is doing it with reluctance and a
 
 Eastern Echo, Summer 1965, Page 6.
 
-![test image](/assets/img/Echo-Summer-1963-Page14.jpeg)
+<img src="/assets/img/Echo-Summer-1963-Page14.jpeg" width="700">
 
 Eastern Echo, Summer 1963, Page 14. 
 
