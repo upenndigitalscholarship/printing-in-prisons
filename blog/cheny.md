@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-# <span style="color: darkred; font-family: 'Georgia', serif; font-size: 2em; border-bottom: 3px solid green;">Christmas Behind Bars: How Inmates Celebrated the Holidays at Eastern State Penitentiary</span>
+
 [![Christmas Hymn](/assets/img/chen-christmasblog.png)](https://pixabay.com/music/christmas-silent-night-128573/)
 
 **<span style="color: green;">Click On The Image Above For Christmas Hymn!</span>**
@@ -30,7 +30,8 @@ To this day, the Christmas dinner is a core part of Christmas in most families. 
 
 
 
-![Christmas Meal](/assets/img/chen-christmasdinner.png)
+<img src="/assets/img/chen-christmasdinner.png" alt="Christmas Meal" width="300" />
+
 **This is an AI generated image of the description above*
 
 ---
