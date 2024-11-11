@@ -9,7 +9,7 @@ layout: post
 tags:
   - blog
 ---
-Disability Services in Eastern State Penitentary
+<h1>Disability Services in Eastern State Penitentary<h1>
 
 <p>Individuals with disabilities face disproportionate incarceration in our American penal system.  Historically, prisons were pipelines for those with disabilities who were unable to find jobs, live independently, or deemed “unfit” for their communities. Although disability programs have increased in quality and scope over recent years, people with disabilities continue to make up a sizable proportion of the penal population. As of 2016, nearly 40% of state and federal prisoners have reported having at least one disability and a quarter indicated participating in special education programs.</p>
 <p>The condition of penal life for those with disabilities is dismal. Disabled prisoners face a high likelihood of abuse, physical, and sexual violence in the penal system. Unless stringent safety measures are applied by prison staff, there is a high chance for violent targeting. Furthermore, people with disabilities require support/services such as physical, occupational, and behavioral therapy, adaptive equipment, and sensory adaptations. Although this support is protected under the Americans with Disabilities Act of 1999 (ADA), reports show that prisoners with disabilities are frequently denied medical programs, therapy, and accommodations.</p>
