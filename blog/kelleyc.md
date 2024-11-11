@@ -2,7 +2,7 @@
 title: The Umpire Advertisement Column
 author: Alexander Kelley
 description: The significance of advertisements; analysis of article 4002's ad column in The Umpire. 
-thumbnail: kelley-thumbnail.jpg
+thumbnail: kelley-thumbnail
 alt-text: a screenshot of the frontpage of The Umpire Advertisement Analysis
 date: 2024-11-11
 layout: post
@@ -15,29 +15,29 @@ tags:
 Article 4002; Volume V; Issue 27; Page 4
 7/10/1918
 
-![Image One](kelley1.png)
-![Image Two](kelley2.png)
-![Image Three](kelley3.png)
-![Image Four](kelley4.png)
-![Image Five](kelley5.png)
-![Image Six](kelley6.png)
-![Image Seven](kelley7.png)
-![Image Eight](kelley8.png)
-![Image Nine](kelley9.png)
-![Image Ten](kelley10.png)
-![Image Ten](kelley10.png)
-![Image Eleven](kelley11.png)
-![Image Twelve](kelley12.png)
-![Image Thirteen](kelley13.png)
-![Image Fourteen](kelley14.png)
-![Image Fifteen](kelley15.png)
-![Image Sixteen](kelley16.png)
-![Image Seventeen](kelley17.png)
-![Image Eighteen](kelley18.png)
-![Image Nineteen](kelley19.png)
-![Image Twenty](kelley20.png)
-![Image Twentyone](kelley21.png)
-![Image Twentytwo](kelley22.png)
+![Image One](assets/img/kelley1.png)
+![Image Two](assets/img/kelley2.png)
+![Image Three](assets/img/kelley3.png)
+![Image Four](assets/img/kelley4.png)
+![Image Five](assets/img/kelley5.png)
+![Image Six](assets/img/kelley6.png)
+![Image Seven](assets/img/kelley7.png)
+![Image Eight](assets/img/kelley8.png)
+![Image Nine](assets/img/kelley9.png)
+![Image Ten](assets/img/kelley10.png)
+![Image Ten](assets/img/kelley10.png)
+![Image Eleven](assets/img/kelley11.png)
+![Image Twelve](assets/img/kelley12.png)
+![Image Thirteen](assets/img/kelley13.png)
+![Image Fourteen](assets/img/kelley14.png)
+![Image Fifteen](assets/img/kelley15.png)
+![Image Sixteen](assets/img/kelley16.png)
+![Image Seventeen](assets/img/kelley17.png)
+![Image Eighteen](assets/img/kelley18.png)
+![Image Nineteen](assets/img/kelley19.png)
+![Image Twenty](assets/img/kelley20.png)
+![Image Twentyone](assets/img/kelley21.png)
+![Image Twentytwo](assets/img/kelley22.png)
 
 ## Analysis & Reflection
 
