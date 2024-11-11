@@ -16,6 +16,7 @@ Eastern State Penitentiary is a former prison in Pennsylvania that was open betw
 <br></br>
 <img src="/assets/img/black_canary.jpg"  width="267" height="201" style="display:block">
 
+<br></br>
 ## Birds as Currency
 <img src="/assets/img/forsale.jpeg" width="333" height="43">
 <img src="/assets/img/lostcanary.jpeg"  width="333" height="41">
@@ -25,6 +26,7 @@ Canary birds were mentioned over 30 times in the local Eastern State newspaper, 
 <img src="/assets/img/lost2.jpeg" width="334" height="42">
 <img src="/assets/img/forexchange.jpeg" width="333" height="42">
 
+<br></br>
 ## Canary Bird Singers
 <img src="/assets/img/forsalesinger.jpeg" width="285" height="53">
 <br></br>
@@ -39,6 +41,7 @@ Below is an audio of a canary bird singing a melody recorded through a microphon
 Your browser does not support the audio element.
 </audio>
 
+<br></br>
 ## The Bird King
 <img src="/assets/img/birdking1.jpeg" width="203" height="41">
 <img src="/assets/img/birdking2.jpeg" width="427" height="79">
@@ -47,6 +50,7 @@ Carl Hoffman, labeled B 5575, was an incarcerated person who the Eastern State i
 <br></br>
 <img src="/assets/img/ancestry.jpeg" width="181" height="267">
 
+<br></br>
 ## Emotional Impact of Birds
 <img src="/assets/img/funeralbird.jpeg" width="464" height="149">
 <br></br>
@@ -56,6 +60,7 @@ Although not a typical pet outside of Eastern State, canary birds have been show
 <br></br>
 On the other hand, even when speaking and telling stories about these birds, they would project actual human emotions onto them. These stories could be interpreted as the incarcerated men trying to humanize these pets. Although these Canaries offered joy and companionship at Eastern State, it's still hard to reconcile the contrast to some of the major crimes these men committed. A solid underlying tension tells two sides and perspectives to this relationship.
 
+<br></br>
 ## Image and Information Sources
 All images and audio are fair use and come from The Umpire, Creative Commons, Ancestry Database and/or before 1924.
 Images and audio of Canary birds come from Creative Commons, and article images from The Umpire.
