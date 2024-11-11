@@ -17,7 +17,7 @@ Geno Ferranao was 21-year-old Italian man who was imprisoned at Eastern State Pe
 
 ![Fourth image](/assets/img/Obrien.4.jpg)
 
-This page from “Eastern Echoes” emphasizes prisons lack of progression throughout the years, which has been a failure. Eastern State Penitentiary was managed by a system of incarceration that emphasized moral reform. Under this method prisons were thought to transform the individual by making them more moral, which would naturally make them turn away from their crime and not commit any more offenses upon their release. It would “alter character traits, motivation or dispositions.” In the 1950’s, when this article was written and published in Eastern Echoes, prisons were shifting their methods toward a model called rehabilitation. This refers to improving someone's skills, capacities, and opportunities, which expands to psychological interventions aimed at correcting offenders. The difference between this and reform is that rehabilitation aims at “improvement of skills, capacities, and opportunities” rather than altering it. 
+This page from “Eastern Echoes” emphasizes prisons lack of progression throughout the years, which has been a failure. Eastern State Penitentiary was managed by a system of incarceration that emphasized moral reform. Under this method prisons were thought to transform the individual by making them more moral, which would naturally make them turn away from their crime and not commit any more offenses upon their release. It would “alter character traits, motivation or dispositions.”(Forsberg, Douglas, 1) In the 1950’s, when this article was written and published in Eastern Echoes, prisons were shifting their methods toward a model called rehabilitation. This refers to improving someone's skills, capacities, and opportunities, which expands to psychological interventions aimed at correcting offenders. The difference between this and reform is that rehabilitation aims at “improvement of skills, capacities, and opportunities”(Forsberg, Douglas, 1) rather than altering it. 
 
 
 Geno Ferranao publication, From the umpire (1916)-”It's a great shame to be in prison, isn't it? How many beautiful days have passed and we had to be here? It's very hard to be devoid of freedom, isn't it?—And yet we were the ones who chose a career! Yes, if instead of wandering around in search of 'ite, or even dishonest things, we had worked or paid honestly, this would not have happened. Who among you can contradict me? Weren't we the ones who brought misery to so many poor families who will have to suffer and blush for us? Now that the evil has been done we must remedy it and this can only be done if we change our lives. So, brothers, let's start practicing good behavior now so that when we know we're out we're already used to it, otherwise we're back in jail.” 
@@ -33,15 +33,17 @@ Geno in his publication, seemed to show signs of regret and change, which would 
 This comparison between the two different time periods suggests the differences between the reform and the rehabilitation movements. Eastern Echo contradicts the exact thing that Geno was expressing in his publication. As Geno suggests he is a changed man through the prison system, we see a completely different approach, where the author of the article in “Eastern Echoes” says the total opposite, and how badly of a failure the prison system has been. 
 So why do we have this case? Geno, where he was put through the method of reform, and the evidence provided to us shows signs of change and regret, but on the Eastern Echoes page, 50+ years after Geno, the prison system is still a failure? 
 
-The answer isn't clear, but as a whole, the prison system has, and will continue to fail people inside and outside of prison. “The report examined the existing evidence on prisoner rehabilitation programs and came to the conclusion that “nothing works.” Still to this day,  the fact that recidivism rates are so high shows how the prison system in our country is a failure, and a change is needed. 
+The answer isn't clear, but as a whole, the prison system has, and will continue to fail people inside and outside of prison. “The report examined the existing evidence on prisoner rehabilitation programs and came to the conclusion that “nothing works.”(Dahl and Mogstad, 1) Still to this day,  the fact that recidivism rates are so high shows how the prison system in our country is a failure, and a change is needed. 
 
 ![Second image](/assets/img/obrien.2.jpg)
 
 All in all, these articles express many different views on the prison system, and the difference of time periods. The difference between reform vs rehabilitation, and the difference of time periods play a crucial role in assessing these types of situations. These pieces of history display reveal the complexity surrounding incarcerated individuals, and if the prison system was, and if it is, for the better of the person and the outside world. Through stereotypes, analysis of different audiences and surroundings, we can explore the complicated history of incarceration in America and therefore address ongoing problems. 
 
 Further readings and work cited- 
-https://pubmed.ncbi.nlm.nih.gov/35530429/
+https://pubmed.ncbi.nlm.nih.gov/35530429/  
+ Forsberg, Douglis What is Criminal Rehabilitation
 https://www.nber.org/reporter/2020number1/benefits-rehabilitative-incarceration
+ Dahl and Mogstad The Benefits of Rehabilitative Incarceration
 The Umpire No B5845 (1916)
 Eastern Echo/January (1967) Pg 31
 
