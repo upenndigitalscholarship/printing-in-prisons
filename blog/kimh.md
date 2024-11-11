@@ -41,7 +41,7 @@ Yeaple had a tendency for larceny.
 Attempted robbery landed him in Eastern State Penitentiary (ESP) for the first time when he was 23 years old as B2927. He was imprisoned twice more for larceny before returning to ESP as a 31 year old– now as B6031 and “Yeap”.
 
 ### {Development Era}
-![the umpire](printing-in-prisons/assets/img/hkimtheumpire-1.png)
+![the umpire](assets/img/hkimtheumpire-1.png)
 *The Umpire 1913_025*
 
 What was so special about Yeap? 
@@ -50,12 +50,12 @@ Why did he get a nickname?
 Yeap is mentioned in The Umpire, an internally created and distributed magazine in ESP. Fitting to the title, included were weekly updates about baseball games organized within. 
 From a printer who “fanned” in his first game, Yeap grows as a “star baseball pitcher”, who features in an all-star team!
 
-![shawl](printing-in-prisons/assets/img/hkimshawl.jpg)
+![shawl](assets/img/hkimshawl.jpg)
 
 Another column Yeap often appears in is FOR SALES, where he sells custom order shawls and tidies. Within the time he was incarcerated, he gained a “reputation for making some of the best”.
 
 ### {Discharge Era}
-![discharge](printing-in-prisons/assets/img/hkimdischarge-1.png)
+![discharge](assets/img/hkimdischarge-1.png)
 *The Umpire 1913_174*
 
 As a star baseball player and talented artist, Yeap builds his name, more widely known as “Yeap” than George, and connection in ESP, “leaving a host of friends who wish him well”. This included William Mitchell, the author and editor of the section wishing Yeap farewell “into the cold world”. 
@@ -70,7 +70,7 @@ Within the span of 3 years after discharge, Yeaple not only moved out of his par
 
 After Yeap’s incarceration at ESP, he did not commit any more larceny, became financially independent from his parents, and built a loving family with Margaret. His time at ESP marked a turning point in his life, from a frequent convict of larceny to a patriarch of a family. 
 
-![eel](printing-in-prisons/assets/img/hkimeel.png)
+![eel](assets/img/hkimeel.png)
 
 Yeaple is not mentioned in *The Umpire* after his release. The only other time Yeaple is featured in printing is in the newspaper *The Harrisburg Telegraph*, in which he is praised for catching an “immense eel”. 
 
