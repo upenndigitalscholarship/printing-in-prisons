@@ -32,7 +32,7 @@ tags:
 
 <div style="text-align: center;">
 <audio controls>
-  <source src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkfriendlyrivals.mp3" type="audio/mpeg">
+  <source src="/assets/img/mkfriendlyrivals.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>
@@ -61,7 +61,7 @@ Hume's criminal record gives us a glimpse into the complexities of Hume’s life
 
 <div style="text-align: center;">
 
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkrecord.jpg" alt="Alt text" style="width: 50%; height: auto;">
+<img src="/assets/img/mkrecord.jpg" alt="Alt text" style="width: 50%; height: auto;">
 
 <div style="height: 40px;"></div>
 
@@ -81,7 +81,7 @@ Hume's criminal record gives us a glimpse into the complexities of Hume’s life
 
 <div style="text-align: center;">
 <audio controls>
-  <source src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkhoneysuckle.mp3" type="audio/mpeg">
+  <source src="/assets/img/mkhoneysuckle.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>
@@ -107,11 +107,11 @@ Hume’s participation in these musical events not only showcased his personal t
 
 <div style="text-align: center;">
 
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkespband.jpg" alt="Alt text" style="width: 50%; height: auto;">
+<img src="/assets/img/mkespband.jpg" alt="Alt text" style="width: 50%; height: auto;">
 
 <div style="height: 30px;"></div>
 
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkprograms.jpg" alt="Alt text" style="width: 90%; height: auto;">
+<img src="/assets/img/mkprograms.jpg" alt="Alt text" style="width: 90%; height: auto;">
 
 <div style="height: 40px;"></div>
 
@@ -131,7 +131,7 @@ Hume’s participation in these musical events not only showcased his personal t
 
 <div style="text-align: center;">
 <audio controls>
-  <source src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkkingcotton.mp3" type="audio/mpeg">
+  <source src="/assets/img/mkkingcotton.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>
@@ -157,11 +157,11 @@ Through both his sportsmanship on Team “Band” and his artistic talents, Hume
 
 <div style="text-align: center;">
 
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkespbaseball.jpg" alt="Alt text" style="width: 50%; height: auto;">
+<img src="/assets/img/mkespbaseball.jpg" alt="Alt text" style="width: 50%; height: auto;">
 
 <div style="height: 30px;"></div>
 
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkbaseballandpaintings.jpg" alt="Alt text" style="width: 80%; height: auto;">
+<img src="/assets/img/mkbaseballandpaintings.jpg" alt="Alt text" style="width: 80%; height: auto;">
 
 <div style="height: 40px;"></div>
 
@@ -181,7 +181,7 @@ Through both his sportsmanship on Team “Band” and his artistic talents, Hume
 
 <div style="text-align: center;">
 <audio controls>
-  <source src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkstarspangled.mp3" type="audio/mpeg">
+  <source src="/assets/img/mkstarspangled.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 </div>
@@ -204,7 +204,7 @@ Hume became an active member of Westminster Presbyterian Church after his releas
 In addition to performing at events, Hume’s active involvement extended to participating in gatherings and social events hosted by the church community. He was a member of the H.C. Miller Bible Class, a group within the Westminster Sunday School, and regularly attended meetings and social gatherings. These engagements highlight Hume’s integration into the church’s social fabric and his commitment to building relationships with other members. His life post-incarceration at Eastern State reflects a deep dedication to faith, fellowship, and community involvement, especially through his musical talents and participation in the church’s social life.
 
 <div style="text-align: center;">
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkwestminster.jpg" alt="Alt text" style="width: 75%; height: auto;">
+<img src="/assets/img/mkwestminster.jpg" alt="Alt text" style="width: 75%; height: auto;">
 
 <div style="height: 40px;"></div>
 
