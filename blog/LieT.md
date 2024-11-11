@@ -12,7 +12,7 @@ tags:
 ## All to know is nothing.
 A thin layer of dust coated my fingertips as they traced the surface of the stone wall. It felt cold, almost lifeless. My eyes drifted upwards to the tiny window above the cell, where a faint ray light broke through; the unsettling silence and looming walls seemed to swallow any trace of hope that light might have offered. I closed my eyes, trying to imagine myself imprisoned in the cell for years. However, even a few minutes were unbearable. The air was suffocating, as if it was draining my breath.
 
-![prison cell](IMG_0270.jpeg)
+![prison cell](assets/IMG/IMG_0270.jpeg)
 
 Eastern State Penitentiary (ESP) opened its doors October 25th, 1829 and was heralded as the world’s first true penitentiary. Located at the heart of Philadelphia’s Fairmount neighborhood, ESP juxtaposed its surrounding area with its isolating walls. Designed by John Haviland, the prison contained rows of solitary confinement cells spanning across seven corridors. The corridors radiated from a central point within the prison that allowed guards to monitor all seven cell blocks by a mere turn of their head. During the prison's early decades, incarcerated individuals were locked away in their cell and deprived of any form of social interaction, which was intended to inspire genuine penitence in those convicted. If they were to leave their cell, incarcerated individuals wore hoods on their heads “to prevent distraction, knowledge of the building, and even mild interaction with the guards”.
 
