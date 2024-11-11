@@ -1,8 +1,8 @@
 ---
 title: The Rev. Joseph Welch, Moral Instructor
 author: Justin Seward
-description: My Blog about agile frameworks.
-thumbnail: testimage.jpg
+description: ESP's "Moral Instructor" and chaplain, the Rev. Joseph Welch, represents the mission of the prison at the time.
+thumbnail: /assets/img/seward-picture1.png
 alt-text: this is a text image.
 date: 2024-11-11
 layout: post
@@ -22,7 +22,7 @@ The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral 
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 10px 0 20px 20px; width: 30%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture1.png" alt="Image of the article from the Umpire that was referenced." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 1: Article from the <i>Umpire</i> that was referenced.
         </figcaption>
     </figure>
@@ -65,8 +65,9 @@ Welch describes his day-to-day actions in a journal article published by the Pen
 </div>
 
 <p style="text-align:justify;">
-Welch’s whole existence is devoted to reforming prisoners to make them more moral. Morality in this state-sanctioned institution is being defined as being Christian and able to work. Welch makes considerable personal expense to help prisoners when they are released, meaning he is personally committed to this endeavor in addition to being an agent of the state. He accounts that in one year he purchased 164 train tickets for prisoners upon their release at the cost of $377.50. He also notes that he helps prisoners find jobs which is something deeply connected with living a moral, Christian life.<sup>7</sup> 
+Welch’s whole existence is devoted to reforming prisoners to make them more moral. Morality in this state-sanctioned institution is being defined as being Christian and able to work. Welch makes considerable personal expense to help prisoners when they are released, meaning he is personally committed to this endeavor in addition to being an agent of the state. He accounts that in one year he purchased 164 train tickets for prisoners upon their release at the cost of $377.50. He also notes that he helps prisoners find jobs which is something deeply connected with living a moral, Christian life.<sup>7</sup> </p>
 
+<p style="text-align:justify;">
 He describes handing out calendars at the new year, praying that they would be the means “of reaching many souls and bringing them to Christ,” with Christian sayings like:</p>
 
 > O! the things WE call the LITTLE sins,  
@@ -97,8 +98,10 @@ He also provides some successful cases of released prisoners succeeding post-inc
 <p style="text-align:justify;">
 Welch was depicted in the *Umpire* as being much beloved, although they likely would not have published any negative sentiment about him even if some harbored it. In one instance, in 1918, he was presented with a “silver loving cup” by “almost every church in the city” to celebrate “his efforts to cooperate with them in looking after the spiritual needs of the prisoners in that institution.” At the time of this award, Welch had just turned 82 years old and had served as chaplain of ESP for 27 years.<sup>10</sup> 
 
-In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate \[the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup>
+<p style="text-align:justify;">
+In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate \[the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup> </p>
 
+<p style="text-align:justify;">
 The prisoners of ESP were distraught by the investigation into him, offering to write letters to the committee on his behalf. Upon his death and interment at Laurel Hill Cemetery in Philadelphia’s Fairmount Park, ESP prisoners sent flowers and a letter “expressing the unanimous sentiment of all the inmates” of their regret over Welch’s passing.<sup>12</sup> </p>
 
 <div style="text-align: justify; margin-bottom: 20px;">
