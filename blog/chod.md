@@ -22,6 +22,7 @@ Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pe
 ## **Lesson #1: Praying for Repentence**
 **Let us begin with the Prayer from Elizabeth Stuart Phelps:**
 
+<div class="boxed-section">
 >*Be Born Again (1917)*
 >*By Elizabeth Stuart Phelps*
 >
@@ -57,6 +58,7 @@ Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pe
 >That will not burden, where it cannot bless; 
 >Be born in the divinest power to feel,
 >That never hurts the nerve it cannot heal.
+<div>
 
 This prayer was written in the Christmas day of 1917 by inmate Elizabeth Stuart Phelps, who was praying for the "hunger of the sons of men" indicating the soldiers who are fighting the cold winters in the European battlefront. She also professed to God to forgive her sins and make her "born anew". For Christmas, she asked God to fill "the weak" inmates with much needed strength, hope, and friendliness. Being in a prison during a festive season might have weakened the inmates' souls but Phelps prayed to be reborn in the "diviniest power" to feel and to heal their wounds.
 
