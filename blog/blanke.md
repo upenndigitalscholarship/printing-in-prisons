@@ -10,11 +10,10 @@ tags:
   - blog
 ---
 
-<!-- Add custom styles directly to the markdown file -->
 <style>
   body {
     background-color: #ffe8c0;
-    color: #333; /* Adjust text color for readability */
+    color: #333; 
   }
   .highlight-text {
     color: #004aad;
