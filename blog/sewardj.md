@@ -13,9 +13,22 @@ tags:
 body {
     font-size: 0.9em;
 }
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-size: 0.7em;
+    color: gray;
+    margin-top: 5px;
+    text-align: center;
+}
 </style>
 
 # The Rev. Joseph Welch, Moral Instructor
+
+updated
 
 The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral Instructor” of the facility. Welch was responsible for not only the spiritual needs of the inmates, but also for the moral reformation of the incarcerated individuals in the prison. At this time, it was ESP’s mission to reform the incarcerated, and Welch was a critical component in this internal moral reformation. Welch would speak at services, Bible studies, and events about “inducing a higher ideal of life and a desire for moral betterment.”[^1]  The *Umpire* repeatedly reported on Welch’s insistence on a moral life when he spoke at events:
 
