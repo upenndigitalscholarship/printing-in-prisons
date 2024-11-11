@@ -9,7 +9,7 @@ layout: post
 tags:
   - blog
 ---
-![This is a thumbnail](/assests/img/Obrien-thumbnail.jpg)
+![This is a thumbnail](/assets/img/Obrien-thumbnail.jpg)
 
 ![Third image](Obrien.3.jpg)
 
