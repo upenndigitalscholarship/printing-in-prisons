@@ -46,47 +46,47 @@ A man only thinks something is difficult if he is doing it with reluctance and a
 ## Works
 ![test image](/assets/img/Echo-summer-1965-page1.png)
 
-Eastern Echo, Summer 1965, Page 1. Materials:
+Eastern Echo, Summer 1965, Page 1. 
 
 ![test image](/assets/img/Echo-Summer-1965-page06.jpeg)
 
-Eastern Echo, Summer 1965, Page 6. Materials:
+Eastern Echo, Summer 1965, Page 6.
 
 ![test image](/assets/img/Echo-Summer-1963-Page14.jpeg)
 
-Eastern Echo, Summer 1963, Page 14. Materials:
+Eastern Echo, Summer 1963, Page 14. 
 
 ![test image](/assets/img/Echo-summer-1963-page20.jpeg)
 
-Eastern Echo, Summer 1963, Page 20. Materials.
+Eastern Echo, Summer 1963, Page 20. 
 
 ![test image](/assets/img/Echo-summer-1963-page31.jpeg)
 
-Eastern Echo, Summer 1963, Page 31. Materials:
+Eastern Echo, Summer 1963, Page 31. 
 
 ![test image](/assets/img/Echo-Summer-1963-Pg15.jpeg)
 
-Eastern Echo, Summer 1963, Page 15. Materials:
+Eastern Echo, Summer 1963, Page 15. 
 
 ![test image](/assets/img/Echo-Summer-1964-Page09.jpeg)
 
-Eastern Echo, Summer 1964, Page 9. Materials:
+Eastern Echo, Summer 1964, Page 9.
 
 ![test image](/assets/img/Echo-Summer-1965-Page10.jpeg)
 
-Eastern Echo, Summer 1965, Page 10. Materials:
+Eastern Echo, Summer 1965, Page 10.
 
 ![test image](/assets/img/Echo-Summer-1965-page11.jpeg)
 
-Eastern Echo, Summer 1965, Page 11. Materials:
+Eastern Echo, Summer 1965, Page 11.
 
 ![test image](/assets/img/Echo-Summer-1965-page12.jpeg)
 
-Eastern Echo, Summer 1965, Page 12. Materials:
+Eastern Echo, Summer 1965, Page 12. 
 
 ![test image](/assets/img/Echo-summer-1965-page16.jpeg)
 
-Eastern Echo, Summer 1965, Page 16. Materials:
+Eastern Echo, Summer 1965, Page 16. 
 
 ![test image](/assets/img/Echo-summer-1965-page21.jpeg)
 
