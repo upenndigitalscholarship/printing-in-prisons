@@ -30,7 +30,7 @@ To this day, the Christmas dinner is a core part of Christmas in most families. 
 
 
 
-<img src="/assets/img/chen-christmasdinner.png" alt="Christmas Meal" width="300" />
+<img src="/assets/img/chen-christmasdinner.png" alt="Christmas Meal" width="750" />
 
 **This is an AI generated image of the description above*
 
