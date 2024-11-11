@@ -13,7 +13,7 @@ tags:
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="./assets/img/smith-thumbnail.png" alt="This is an image of an ad section from The Umpire" style="width: 100%;">
+    <img src="/assets/img/smith-thumbnail.png" alt="This is an image of an ad section from The Umpire">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of an ad section from <em>The Umpire</em>
     </p>
