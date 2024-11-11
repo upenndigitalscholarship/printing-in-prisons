@@ -14,7 +14,7 @@ tags:
 
 I was in your shoes just a few days ago, my first time encountering anything related to records of the incarcerated. The questions you have were also mine, the little curious voice chiming in every time I spotted something interesting. 
 
-In this short excerpt, I hope to guide you through the life of a particular incarcerated person. “Yeap” --his real name George Washington Yeaple-- who was someone more than just four tiny prints of character in *The Umpire*. The listed questions before each “eras” are my intuitive thoughts that lead the research. Hopefully my thoughts resemble that of yours, and we are able to resolve our curiosities together. 
+In this short excerpt, I hope to guide you through the life of a particular incarcerated person. “Yeap” -his real name George Washington Yeaple- who was someone more than just four tiny prints of character in *The Umpire*. The listed questions before each “eras” are my intuitive thoughts that lead the research. Hopefully my thoughts resemble that of yours, and we are able to resolve our curiosities together. 
 
 ### [Table of Content]
 1. Before Prison Era  *1880 - 1904*
@@ -28,7 +28,7 @@ In this short excerpt, I hope to guide you through the life of a particular inca
 *The Umpire 1913_149*
 
 Who are these people behind these ads? 
-Who is “Yeap”--*what an interesting nickname!*--and is that his real name?
+Who is “Yeap”-*what an interesting nickname!*-and is that his real name?
 
 On January 27th, 1880, George Washington Yeaple was born in York county, Pennsylvania.
 Yeaple inherited not only his parent’s blue gray eyes, but also brown hair. His darker complexion settled as he went to both public and private school until he was 15 years old, or as he was working as an apprentice printer. 
@@ -59,7 +59,7 @@ Another column Yeap often appears in is FOR SALES, where he sells custom order s
 *The Umpire 1913_174*
 
 As a star baseball player and talented artist, Yeap builds his name, more widely known as “Yeap” than George, and connection in ESP, “leaving a host of friends who wish him well”. This included William Mitchell, the author and editor of the section wishing Yeap farewell “into the cold world”. 
-Whether that was literal --*his discharge was during the winter*–- or not, Mitchell highlights his friendship with Yeap, and how well Yeap was integrated into the ESP community. 
+Whether that was literal -*his discharge was during the winter*- or not, Mitchell highlights his friendship with Yeap, and how well Yeap was integrated into the ESP community. 
 He is discharged as a 32 year old. 
 
 ### {Settling Down Era}
