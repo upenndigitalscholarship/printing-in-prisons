@@ -22,7 +22,12 @@ tags:
 <p>The question of conditions for prisoners with disabilities at the Eastern State Penitentiary during its history is largely a mystery. Few statistics are published regarding how many prisoners had disabilities and their treatment in the prison. Further complicating the matter, the definition of disability has been modified over time, suggesting that statistics may Because disabilities often pose challenges which may be barriers to written expression, few prisoners with disclosed disabilities are recorded to have authored written works which could have voiced their situation. However, evidence of support programs were mentioned sparsely in the <em>Eastern Echo</em>, a prison newspaper in circulation between the 1950s to 1968. Drawing on writing of these support programs, I analyze three different articles about disability services found in the Eastern Echo to investigate the type of disability services found in Eastern State Penitentiary and the possible extent of their implementation. </p>
 
 <h2>INDIVIDUAL THERAPY...REBUTTAL</h2>
-
+<div style="text-align: justify; margin-bottom: 20px;">
+   
+  <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
+        <img src="/assets/img/eastern_echo_june1956_body0008.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
+</div>
 <h3>by Sterling B. James</h3>
 <p>Inmate Sterling B. James argues against the legitimacy of individual therapy services offered by Eastern State Penitentiary. The therapy provided by Eastern State was described as unscientific and equated to “hypnotism” by James, who stated that he surveyed the “John Q. Population” (the average person in Eastern state) to come to this conclusion. </p>
 <p>James finds further fault in the acquisition of therapy. Inmates were required to self-enroll in therapy, which James believed few men who needed therapy would. Additionally, James argued that poverty and lack of education were the main causes of crime. Treating these aspects, James asserted, would be more of a useful factor than therapy.<p>
