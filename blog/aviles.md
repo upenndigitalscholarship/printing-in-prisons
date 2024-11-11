@@ -19,7 +19,7 @@ In contrast to modern newspapers, which rely on journalists in the field collect
 
 With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
 
-  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 75%;float:left;margin-right:10px;">
+  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 50%;float:left;margin-right:10px;">
     
 <h3>Quote from "Our New Possessions</h3>
 
