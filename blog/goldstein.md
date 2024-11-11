@@ -34,7 +34,7 @@ contributions to his community, specifically his religious values and rituals.
 
 <div style="text-align: justify; margin-bottom: 20px;">
     
-  <div style="float: left; margin-right: 20px; width: 50%; height: 50%; clear: both;">
+  <div style="float: left; margin-right: 20px; width: 50%; clear: both;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/umpiregoldstein.png" alt="Newspaper: The Umpire (659)" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
             This is an article from the Newspaper, the Umpire, which mentions Harry Haspel.
@@ -53,7 +53,7 @@ In the prison community, where Harry was incarcerated, the Jewish population was
 
 <div style="text-align: justify; margin-bottom: 20px;">
     
-  <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
+  <div style="float: right; margin-left: 20px; width: 50%; clear: both;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/synagoguegoldstein.png" alt="Photo taken from Eastern State Penitentiary" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
             This is a photo taken from Eastern State Penitentiary in October of 2024. It is a display of the synagogue in 1959, which was built in 1924. 
