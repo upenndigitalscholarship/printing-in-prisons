@@ -71,7 +71,7 @@ This prayer was written in the Christmas day of 1917 by inmate Elizabeth Stuart 
 
 Joseph Y. Russell was sentenced for the first time in September of 1914 for sodomy, or committing sexual intercourse involving anal or oral copulation. He quotes the Lord's Prayer: forgive us our trespasses as we forgive those who trespass against us. Russell was disdained by the fact that people in the penitentiary do not show the "same spirit of forgiveness or mercy" towards each other. Russell uses the terms brother and comrades to encourage his fellow inmates to not fly into a rage, abuse others, nor condemn others due to a simple mistake. There is no human being that does not commit some sort of mistakes or trespasses. What Russell strived to profess is that it is crucial to have an open heart to understand and forgive others. Below is a record of Russell when he was received at the age of 41. As a resident of Dauphin, Pennsylvania, he was released after four years of prison life.
 
-![Logo](jrussellm.png)
+![Logo](/assets/img/cho2.png)
 
 As seen from two different confessions of faith from Phelps and Russell, inmates, whether in solitude or as a group, professed to God and one another to practice 
 
@@ -80,7 +80,7 @@ As seen from two different confessions of faith from Phelps and Russell, inmates
 
 The Rev. Father H. A. Deckenbrock was a well-renownded priest who devoted forty years of life to service to his parish at Clarion, Pennsylvania. Deckenbrock, who was most favorably known throughout the western part of this state as a gifted and scholarly priest, and inmates recalled him as a man loved for his fullness of heart and devotion to faith. He was born in Westphalia, Germany, in 1848, where he was ordained as priest, and moved to the United States shortly thereafter. He was stationed at Erie, and later at Meadville, Pennsylvania. After all his service, he passed away in April of 1916. Deckenbrock strived to inform people of “Voice of One Crying in the Wilderness”, especially in Clarion, Pennsylvania. He helped build the Immaculate Conception Parish in the neighborhood, as seen in picture below. The will of Father Deckenbrock written within the year of his passing is also shown below, which highlights his utmost gratitude for the Clarion community but his also the opportunity for him to teach God's gospel to people of Pennsylvania.
 
-![Logo](immaculates.png) ![Logo](deckenbrocks.png)
+![Logo](/assets/img/cho3.png) ![Logo](/assets/img/cho4.png)
 
 Though not much was known about the specifics of Father Deckenbrock's lessons in the Eastern State Penitentiary, we know that religious gatherings were held weekly within the Eastern State Penitentiary. In the excerpt from *The Umpire* in 1916 Volume 5, Issue 16, we can find out that not only Christian gatherings but also Catholic masses and Jewish services were held in large scale rooms in the Penitentiary.
 
@@ -92,7 +92,7 @@ Though not much was known about the specifics of Father Deckenbrock's lessons in
 >Episcopal services are held at the Chapel on the third Thursday of every month.
 >Jewish services are held on Saturdays at the band-room.
 
-![Logo](chapel1.png) ![Logo](chapel2.png) ![Logo](synagogues.png)
+![Logo](/assets/img/cho5.png) ![Logo](/assets/img/cho6.png) ![Logo](/assets/img/cho7.png)
 
 The first two photos to the left are chapels used for Catholic masses, Confessions, and Episcopal services, while the photo to the very right is a mini-scaled synagogue for Jewish services. *The Umpire* also highlights that the Episcopal service every month highlights the Rev. Thomas J. Taylor, assisted by the Rev. H. M. Peck, conducting the service. An edifying sermon was addressed to the inmates with the purport of inducing a higher ideal of life and a desire for moral betterment. The services were well-attended and communion was administered to sixty-four or less inmate members of the church. The choir existed and did well in song, showing improvement day after day. In the afternoons, Baptismal services were conducted by the Rev. T. J. Taylor, at which time sixteen inmates at a time were baptized. Chaplain Joseph Welch, Mrs. Keen, Mrs. Connoly and a number of religious scholars and priests were present at the services as a rotation. It is very surprising that Holy Communion were conducted regularly, as it is a signal of blessing and a new beginning for inmates. The Rev. T. J. Taylor and the Rev. Dr. Perry, of Germantown, were the most prominent and often-mentioned figures who visited the Eastern State Penitentiary often and preached with passion, clear and earnest sermon from the text, including "He is able to save the uttermost all who come unto God by Him."
 
@@ -100,7 +100,7 @@ The first two photos to the left are chapels used for Catholic masses, Confessio
 
 We all know that the time period 1916-1917 were troubled years for both inmates and Americans fighting in World War I battlefronts across the Atlantic. *The Umpire*  reported that the inmates financed the purchase of an ambulance for the Red Cross, as well as noting that female inmates at Eastern State donated $5 towards the war effort, given that the average inmate during the time of war were earning $8 a month. Additionally, inmates produced games (one was called "Go-Bang"), cut bathrobes, and knitted sweaters, socks, and other clothings for the soldiers sacrificing their lives. Below is a World War I plaque at the historic site of the Eastern State, honoring the lives of the American soldiers.
 
-![Logo](ww1.png)
+![Logo](/assets/img/cho8.png)
 
 Given this background, we know that inmates in the Eastern State were passionate about helping out the soldiers indirectly, and given the excerpts in *The Umpire* we can assume that the Christian population in the Eastern State prayed and preached to God for American soldiers' lives and patriotism.
 
