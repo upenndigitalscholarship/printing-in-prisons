@@ -43,7 +43,7 @@ By incorporating such a rich variety of vaudeville entertainment, the prison env
 
 As a result of vaudeville incorporation into prisons, Mlle. Petite Elba made her way onto The Umpire newspaper through her acts in the Honor and Friendship Club. She can be seen in The Tacoma Times below on the upper right corner where she is identified as “The Toy Comedian”. 
 
-![TacomaTimes](/assets/img/Elbatacoma.png) 
+![TacomaTimes](/assets/img/elbatacoma.png) 
 
 This provides historical background as to the act that Petite Elba had been performing all around the U.S. Eventually though, his acts had become so appreciated by the Honor and Friendship club that she was given an inlaid box as a gift. She was later on asked to return again to perform as she had wowed the men at the entertainment club. During her return Mlle. Petite Elba was given a medal by the club where she took the opportunity to thank them for the gift of the box.
 
