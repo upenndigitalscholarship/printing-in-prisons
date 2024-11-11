@@ -9,12 +9,14 @@ layout: post
 tags:
   - blog
 ---
-<div style="display: flex; align-items: flex-start;">
-  <div style="max-width: 400px; margin-right: 20px:">
+<div style="text-aling: justify:">
+<div style="display: flex; align-items: flex-start;"> 
+  <div style="width: 100px; float: right; margin-right: 20px:">
+     <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 100px; height: auto; margin-left:5px;">
+
   <p style="margin: 10px 0;">    
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls.
   </p> 
-   <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 250px; height: auto; margin-left: 5px;">
 </div>
 </div>
 
@@ -26,7 +28,7 @@ With this historical context in mind, we can compare what happened to these isla
 <div style="display: flex; align-items: flex-start;">
 
   <!-- Image -->
-  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 400px; height: auto; margin-right: 20px;">
   <div style="width: 300px;" >
     <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
 
@@ -50,7 +52,7 @@ The ideas expressed in this article reflect mainstream perspectives, particularl
 
 ### From the Boston Evening Transcript to The Umpire
 Remembering that Eastern State Penitentiary heavily depended on outside newspapers to inform their readers on world news, I was able to narrow down the month of the Boston Evening Transcript article they used for their piece. Reviewing the historical context, the Danish West Indies were purchased on January 17th, 1917. The Umpire issue discussed above was published on March 7th, 1917. The article mentioned Puerto Rico not being under full territorial status, however, the island was given this status on March 2nd 1917. This signifies that there is a lag in information transmission. The Boston Evening Transcript must have written their article soon after the purchase was made in mid-January. Assuming the original article was published late January, it had to make its way all the way down to Philadelphia, specifically Eastern State Penitentiary. When it arrived at the prison, it must have been read, analyzed, and picked for the specific issue, procedures that take more than a day to achieve. With all of these facts in mind, I hypothesize that the Boston Evening Transcript issue was written late January of 1917 and Eastern State Penitentiary received it in mid to late February for it to be reprinted in their March 7th issue. 
-
+</div>
 ### Works Cited
 1. Cordell, Ryan C. "Reprinting, Circulation, and the Network Author in Antebellum Newspaper" *American Literary History*, 2015.
 2. Jones-Shafroth Act, Pub. L. No. 64-368, 39 Stat. 951 (1917).
