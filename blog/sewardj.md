@@ -58,18 +58,18 @@ Welch’s whole existence is devoted to reforming prisoners to make them more mo
 
 He describes handing out calendars at the new year, praying that they would be the means “of reaching many souls and bringing them to Christ,” with Christian sayings like:
 
-> O! the things WE call the LITTLE sins,
-Are hateful in GOD’S SIGHT;
-HE counts NO SIN a LITTLE sin,
-Nor calls a WRONG DEED—Right!
-
-> BEGIN thou first with LITTLE THINGS,
-The smallest SIN AVOID and HATE;
-Obedience to LOVE adds wings,
-And LITTLE faith will grow to GREAT.
-The statutes of the LORD are RIGHT—!
-REJOICING the HEART.
-(Psalm xix: 8)^8
+> O! the things WE call the LITTLE sins,  
+> Are hateful in GOD’S SIGHT;  
+> HE counts NO SIN a LITTLE sin,  
+> Nor calls a WRONG DEED—Right!  
+>
+> BEGIN thou first with LITTLE THINGS,  
+> The smallest SIN AVOID and HATE;  
+> Obedience to LOVE adds wings,  
+> And LITTLE faith will grow to GREAT.  
+> The statutes of the LORD are RIGHT—!  
+> REJOICING the HEART.  
+> *(Psalm xix: 8)*^8
 
 He also provides some successful cases of released prisoners succeeding post-incarceration. He describes them by noting three things: whether they are Christian and have joined a church, whether they have a job, and whether they have gotten married and started a family. He mentions several men who joined either the Methodist or Episcopal Churches with jobs as bakers, tradesman, or factory workers and accounts of marriage and new babies.^9
 
