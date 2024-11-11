@@ -10,18 +10,6 @@ tags:
   - blog
 ---
 
-<html>
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<html>
-
 ## Introduction2
 The Printing in Prisons project offers a unique glimpse into the lives of incarcerated individuals, shedding light on their experiences, struggles, and triumphs. Among the many stories found within these archives, the journey of William Weber stands out as a testament to the resilience of the human spirit and the power of personal growth and rehabilitation. This essay will explore Weber's remarkable transformation from a multiple-time felon on death row to the vice president of the prison's honor club and, ultimately, to being granted parole.
 
