@@ -51,7 +51,7 @@ Your browser does not support the audio element.
 <br></br>
 Carl Hoffman, labeled B 5575, was an incarcerated person who the Eastern State incarcerated men commonly knew as the Bird King. This conclusion on the status of Carl was gathered due to the consistent ads in the classifieds of a Bird King who treated bird ailments and cut their claws. These services seemed free of charge, different from the For Sale ads of the birds. His love for birds is seen through mentions of him training them to trapeze and caring for them. Through his Ancestry, it was gathered he was from Prussia, and he was convicted of the crime of rape. Carl’s life inside Eastern State made it hard for me to reconcile the loving nature he had towards animals and the horrible actions he had committed to get where he was then. Therefore, a separation could be considered between the Bird King and Carl Hoffman.
 <br></br>
-<img src="/assets/img/ancestry.jpeg" width="136" height="201">
+<img src="/assets/img/ancestry.jpeg" width="181" height="267">
 <br></br>
 
 ## Emotional Impact of Birds
