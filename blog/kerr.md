@@ -22,18 +22,18 @@ It is important to keep in mind that B-6594 wrote for a publication approved my 
 
 To give the individual the benefit of the doubt, these essays could also be a reflection of a turning point in B-6594's life: a sort of awakening to approach life relying on their moral compass and potentially newfound resonance with Christian belief. It was from this angle in which the “Moral Essays” series was analyzed.
 
-![test image](5.png)
-![test image](6.png)
-![test image](7.png)
-![test image](8.png)
-![test image](9.png)
-![test image](10.png)
-![test image](11.png)
-![test image](12.png)
-![test image](13.png)
-![test image](14.png)
-![test image](15.png)
-![test image](16.png)
+![test image](5.jpeg)
+![test image](6.jpeg)
+![test image](7.jpeg)
+![test image](8.jpeg)
+![test image](9.jpeg)
+![test image](10.jpeg)
+![test image](11.jpeg)
+![test image](12.jpeg)
+![test image](13.jpeg)
+![test image](14.jpeg)
+![test image](15.jpeg)
+![test image](16.jpeg)
 
 
 
