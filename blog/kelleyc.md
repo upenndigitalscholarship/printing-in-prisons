@@ -25,7 +25,6 @@ Article 4002; Volume V; Issue 27; Page 4
 ![Image Eight](/assets/img/kelley8.png)
 ![Image Nine](/assets/img/kelley9.png)
 ![Image Ten](/assets/img/kelley10.png)
-![Image Ten](/assets/img/kelley10.png)
 ![Image Eleven](/assets/img/kelley11.png)
 ![Image Twelve](/assets/img/kelley12.png)
 ![Image Thirteen](/assets/img/kelley13.png)
@@ -38,6 +37,8 @@ Article 4002; Volume V; Issue 27; Page 4
 ![Image Twenty](/assets/img/kelley20.png)
 ![Image Twentyone](/assets/img/kelley21.png)
 ![Image Twentytwo](/assets/img/kelley22.png)
+
+
 
 ## Analysis & Reflection
 
