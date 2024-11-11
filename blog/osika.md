@@ -22,10 +22,13 @@ tags:
 
     <h2><strong>Contributions to <em>The Umpire</em> and a Vision for Parole Reform</strong></h2>
     <p>During his time at Eastern State, Marvel (prisoner B7542) was an active member of the community. No information on Marvel is present in <em>The Umpire</em>, the prison’s publication, during his earliest imprisonments; however, during his final sentence at Eastern State, Marvel wrote extensively for <em>The Umpire</em>. His contributions include articles addressing prison policies, including one in March 1916 discussing a new parole method: those imprisoned would be allowed work outside the prison during the day, but return at night, and wages could support dependents or be for personal use (2). This progressive method prioritizes gradual reintegration into society, forming a bridge between incarcerated life and the outside world. Marvel suggests that employment in this manner restores dignity, considering the emotional toll incarceration takes on identity and self-worth. He further suggests that parole under such circumstances doesn’t just release a prisoner, but holds them accountable in a way that encourages self-discipline – a trait he believes can be cultivated – since the person on parole “is a free man, his conduct insuring his privilege” (1). Marvel’s advocacy for a parole system that includes supervised freedom, steady employment, and a sense of responsibility illustrates his belief in a justice system focused on reform rather than mere punishment.</p>
-     <figure style="text-align: center;">
+    
+    <figure style="text-align: center;">
       <img src="/assets/img/umpire_1916_056.jpg" alt="This is an image of <em>The Umpire</em> newspaper containing the article "A Novel Parole Method" by William Marvel." style="width: 70%; margin: auto;">
       <figcaption>This page of <em>The Umpire</em>, from volume 5, issue 13 published on March 29th, 1916, contains the article "A Novel Parole Method" written by William Marvel (B7542). The prison record for prisoner B7542 contains detailed information on William Marvel, current as of his final term of imprisonment at Eastern State</figcaption>
     </figure>  
+
+    
     <p>Marvel also served as the secretary of the prison’s Honor and Friendship Club (H.F.C.) from November 1st, 1916 to August 1st, 1917, and was responsible for the communication of community announcements and updates from the H.F.C. (3, 4). His involvement extended to making donations to the prison’s holiday fund, showing an ongoing interest in supporting philanthropic causes as well (5). These roles hint at Marvel’s desire to make a positive impact, challenging the perception of him as solely a repeat offender.</p>
 
     <h2><strong>Legal Struggles and Repeated Imprisonments</strong></h2>
