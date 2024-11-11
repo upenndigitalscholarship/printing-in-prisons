@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-## Barbershops Talks Behind Bars: The Forgotten Community Spaces of Eastern State Penitentiary
+## Barbershop Talks Behind Bars: The Forgotten Community Spaces of Eastern State Penitentiary
 
 When thinking about life in prisons, community is not typically the first thing that comes to mind, especially at Eastern State Penitentiary in Philadelphia, Pennsylvania. This infamous prison, known for its harsh environment, was established in the 19th century with dehumanizing features such as confinement, isolation, and strict codes of silence. However, despite these oppressive aspects, certain spaces within the prison, like the barbershop, fostered a sense of community both within the prison walls and beyond.
 
