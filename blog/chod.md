@@ -11,7 +11,7 @@ tags:
 ---
 <div style="text-align: center;">
 
-![Logo](churchflyerl.png)
+![Logo](/assets/img/cho1.png)
 
 #### *Written by Daniel Hyeonbin Cho*
 
