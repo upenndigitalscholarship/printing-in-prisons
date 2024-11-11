@@ -27,6 +27,8 @@ tags:
 <iframe width="840" height="630" src="https://youtu.be/dtSZ4BTb-YE">
 </iframe>
 
-<span class="highlight-text">Mentions of John Metzler’s miniature carousel in *The Umpire*:
+<span class="highlight-text">
+
+Mentions of John Metzler’s miniature carousel in *The Umpire*:
 
 <img src="/assets/img/sources" alt="Here are images of articles that discussed the carousel model in The Umpire">
