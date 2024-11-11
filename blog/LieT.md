@@ -37,6 +37,8 @@ Evans’ contribution to the HFC as a bugle and cornet player is evidence that m
 
 ![EvansRecord](/assets/img/JohnEvansRecord.png)
 
+
+
 ### References
 <ol>
 <li>The Umpire, 028 (1916)</li>
