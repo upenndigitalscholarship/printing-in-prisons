@@ -14,8 +14,6 @@ tags:
 ![Third image](/assets/img/Obrien.3.jpg)
 
 
-## Section Header
-
 
 Geno Ferranao was 21-year-old Italian man who was imprisoned at Eastern State Penitentiary for assault, battery and rape in the year 1911. He was sentenced to a maximum 15 years in prison, but only served seven. He was a Catholic man who was a baker for a living, with a wife and no children.
 
