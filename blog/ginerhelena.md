@@ -16,7 +16,7 @@ tags:
 <p>The question of conditions for prisoners with disabilities at the Eastern State Penitentiary during its history is largely a mystery. Few statistics are published regarding how many prisoners had disabilities and their treatment in the prison. Further complicating the matter, the definition of disability has been modified over time, suggesting that statistics may Because disabilities often pose challenges which may be barriers to written expression, few prisoners with disclosed disabilities are recorded to have authored written works which could have voiced their situation. However, evidence of support programs were mentioned sparsely in the Eastern Echo, a prison newspaper in circulation between the 1950s to 1968. Drawing on writing of these support programs, I analyze three different articles about disability services found in the Eastern Echo to investigate the type of disability services found in Eastern State Penitentiary and the possible extent of their implementation. </p>
 
 
-"INDIVIDUAL THERAPY...REBUTTAL"
+<h2>"INDIVIDUAL THERAPY...REBUTTAL"</h2>
 
 <p>Inmate Sterling B. James argues against the legitimacy of individual therapy services offered by Eastern State Penitentiary. The therapy provided by Eastern State was described as unscientific and equated to “hypnotism” by James, who stated that he surveyed the “John Q. Population” (the average person in Eastern state) to come to this conclusion. </p>
 <p>James finds further fault in the acquisition of therapy. Inmates were required to self-enroll in therapy, which James believed few men who needed therapy would. Additionally, James argued that poverty and lack of education were the main causes of crime. Treating these aspects, James asserted, would be more of a useful factor than therapy.<p>
@@ -28,13 +28,13 @@ tags:
 <p> This would be difficult for people with serious mental health conditions or cognitive disabilities. Furthermore, mental healthcare was not normalized in the 1950s as it is in the 2020s, meaning that many prisoners could have felt higher levels of self-internalized stigma as a personal barrier to therapy.<p>
 <p>James’ argument regarding the importance of educational and vocational services reflected an overarching argument of the time. The Vocational Rehabilitation Act of 1954 was passed two years prior with the same importance placed on rehabilitation to provide vocational training to disabled inmates. However, mention of the services appeared ten years later, described as “new” in later Eastern Echo articles.<p>
 
-"Disabled Public Offenders"
+<h2>"Disabled Public Offenders"</h2>
 
 <p>The editors of the Eastern Echo promote a vocational program providing rehabilitation to disabled prisoners to “restore them to economic feasibility.’ This program offered services such as physical and psychotherapy, artificial limbs, braces, and hearing aids, while providing educational counseling, college training, business courses, barbering, truck driving, and other vocational training to qualified disabled inmates. The program was “free if the applicant cannot afford to pay” indicating that it cost money to some.<p>
 <p>Qualifications were determined by proving 1) a mental or physical disability which results in functional limitations 2) substantial handicap for employment 3) reasonable expectation that services would help an individual find employment.<p>
 <p>The article acknowledged that there are “hard realities involved in this issue.” It stated that there is 1) a backlog of eligible people not reached by the program 2) debt situations which make it difficult for some state agencies to find funding, giving rise to burgeoning caseloads, insufficient funds, and staff shortages. However, the article proposed solutions to work around difficulties, for example, partaking in repeat diagnoses to prove eligibility and deferring the examination of eligibility until after the applicant has received services.<p> 
 
-"'Vocational Rehabilitation'"
+<h2>Vocational Rehabilitation</h2>
 
 <p>Published in tandem with “Disabled Public Offenders,” “Vocational Rehabilitation” was a direct message from Mary E. Switzer, the chief author of the Vocational Rehabilitation Act of 1954, to disabled prisoners about the aforementioned vocational program. This program was said to be implemented in November in Pennsylvania as of 1964, ten years after the bill’s passing. <p>
 <p>Switzer outlined national efforts to implement the Act, as well as success stories in Pennsylvania. Switzer stressed the importance of self-motivation, stating that “the ultimate decision to work must be made by the individual himself.” She wrote that to become involved in the program, prisoners should “see the parole officer.” <p>
