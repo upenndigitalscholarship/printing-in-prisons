@@ -123,11 +123,6 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <hr>
 <br>
 <br>
