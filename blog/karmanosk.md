@@ -45,7 +45,7 @@ A man only thinks something is difficult if he is doing it with reluctance and a
   
   Eastern Echo, Summer 1965, Page 1. 
 
-![test image](/assets/img/Echo-Summer-1965-Page06.jpeg)
+<img src="/assets/img/Echo-Summer-1965-Page06.jpeg" width="700">
 
 Eastern Echo, Summer 1965, Page 6.
 
