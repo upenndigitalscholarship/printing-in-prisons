@@ -20,8 +20,11 @@ In this short excerpt, I hope to guide you through the life of a particular inca
 *1880 - 1904* Before Prison Era
 
 *1905 - 1912* B2927 to B6031 Era
+
 *1912 - 1913* Development Era
+
 *1913* Discharge Era
+
 *1914 - 1957* Settling Down Era
 
 ### [Before Prision Era]
