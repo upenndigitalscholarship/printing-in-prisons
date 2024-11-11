@@ -99,6 +99,7 @@ Though not much was known about the specifics of Father Deckenbrock's lessons in
 >*Episcopal services are held at the Chapel on the third Thursday of every month.*
 >*Jewish services are held on Saturdays at the band-room.*
 
+
 <div style="text-align: center;">
 
   ![Logo](/assets/img/cho5.png) ![Logo](/assets/img/cho6.png) ![Logo](/assets/img/cho7.png)
