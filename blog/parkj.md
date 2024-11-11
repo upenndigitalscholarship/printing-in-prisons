@@ -11,7 +11,7 @@ tags:
 ---
 The Eastern Echo magazine, leveraged color in a restrained yet impactful way, influenced significantly by the printing technologies available at the time. The magazine’s layout was a single gathering of bifolium stapled in the middle. Thus each sheet was folded to create two leaves of the magazine. There were different types of binding methods however, commonly used was the saddle wire stitch. 
 <div style= "width: 40%">
-  <img src= "/assets/img/parkj-1.jpeg/" style="width=70%;">
+  <img src= "/assets/img/parkj-1.jpeg/" alt= "Image by Aline Seiler from Google" style="width=70%;">
 <div style= "width: 40%">
   <img src= "/assets/img/parkj-2.jpeg/" style="width=70%;">
 
