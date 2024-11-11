@@ -60,4 +60,6 @@ Peter Marcelis of Philadelphia, PA, spent his time at Eastern State Penitentiary
 
 Life at Eastern State in the early twentieth century was much more than just confinement. Incarcerated individuals like Edward and Peter found ways to express their passions and creativity, fostering connection and a sense of belonging among their peers. These various talents and crafts highlight that, even within prison walls, individuals continue to find purpose and contribute to their communities as well as have the ability to be themselves and make choices that were important to them and their happiness.  As humans, we are driven to share our talents, and it’s important to recognize and celebrate these individuals as part of a larger community. By honoring their resilience and creativity, we attest that their lives hold meaning, reminding us that human love and connection can flourish, even in the most challenging places.
 
+Citation: All of these photos are pre-1920 and therefore are under fair use.
+
 
