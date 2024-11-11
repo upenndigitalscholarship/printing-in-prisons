@@ -21,8 +21,6 @@ Vaudeville is itself its own unique history. It was its own form of entertainmen
 
 ![test image](./vaudevillehistory%20.png) 
 
- (/assets/images//Users/claudia/Documents/printingprisonsproject/vaudevillehistory.png.jpg) 
-
 Incorporating vaudeville into prison life brought several benefits. It provided inmates with a creative outlet and a temporary escape from the monotony and stress of prison life, fostering a sense of normalcy and dignity. It also served as a tool for socialization, allowing prisoners to interact in a structured, positive environment. This was a stark contrast to the harsh conditions typically associated with incarceration at the time. Incorporating vaudeville into prison life not only enlivened the daily routine but also offered a diverse palette of entertainment that catered to various interests and backgrounds. Among the acts, jugglers and acrobats brought a dynamic energy to the prison yard, their performances eliciting cheers and applause from an audience craving physical spectacle and feats of daring. These shows often encouraged group participation, with inmates sometimes invited to learn basic juggling or balancing skills, promoting teamwork and concentration.
 Magic acts were particularly popular, as magicians performed sleight of hand and illusion tricks that captivated the inmates, sparking discussions about how the tricks might have been done. These performances introduced elements of mystery and surprise into the prison environment, stimulating curiosity and mental engagement.
 Music played a central role in vaudeville acts, with bands and solo musicians covering a range of genres, from jazz and blues to classical pieces. Sing-alongs were common, fostering a sense of unity and emotional expression among the inmates. Music sessions provided a respite from the daily grind, allowing inmates to express themselves through singing or even impromptu dancing, which was otherwise a rare sight within the prison walls.
@@ -34,6 +32,9 @@ By incorporating such a rich variety of vaudeville entertainment, the prison env
 <h2>Mlle. Petite Elba:</h2> 
 
 As a result of vaudeville incorporation into prisons, Mlle. Petite Elba made her way onto The Umpire newspaper through her acts in the Honor and Friendship Club. She can be seen in The Tacoma Times below on the upper right corner where she is identified as “The Toy Comedian”. 
+
+![test image](./vaudevillehistory%20.png) 
+
 This provides historical background as to the act that Petite Elba had been performing all around the U.S. Eventually though, his acts had become so appreciated by the Honor and Friendship club that she was given an inlaid box as a gift. She was later on asked to return again to perform as she had wowed the men at the entertainment club. During her return Mlle. Petite Elba was given a medal by the club where she took the opportunity to thank them for the gift of the box.
 The small stature of Mlle. Petite Elba, coupled with her vivid expressions and nimble moves, had made her a beloved figure among the inmates. Known for her ability to weave humor and pathos into her performances, Elba's acts were more than just entertainment; they were a form of emotional release for many who witnessed them. Her routines, often featuring a mix of mime and slapstick, allowed her to connect deeply with her audience, bringing laughter and lightness to an otherwise grim environment.
 Her popularity within the prison system grew rapidly, and it wasn't long before she was featured prominently in The Umpire, an internal publication circulated among the inmates and staff. Her portrait, always accompanied by a warm write-up, would often adorn the front page, her eyes twinkling with the joy of performance.
