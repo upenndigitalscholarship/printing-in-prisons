@@ -48,3 +48,4 @@ Evans’ contribution to the HFC as a bugle and cornet player is evidence that m
 <li>The Umpire, 032 (1917)</li>
 <li>Pennsylvania, U.S., Prison, Reformatory, and Workhouse Records (1829-1971)</li>
 <li>Eastern State Penitentiary History Overview (2019)</li>
+<li>Temple University Libraries, Urban Archives</li>
