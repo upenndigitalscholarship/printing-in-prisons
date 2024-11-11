@@ -15,7 +15,7 @@ tags:
 Article 4002; Volume V; Issue 27; Page 4
 7/10/1918
 
-![Image One](assets/img/kelley1.jpeg)
+![Image One](/assets/img/kelley1.jpeg)
 ![Image Two](assets/img/kelley2.jpeg)
 ![Image Three](assets/img/kelley3.jpeg)
 ![Image Four](assets/img/kelley4.jpeg)
