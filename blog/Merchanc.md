@@ -24,7 +24,7 @@ In promoting these cultural and social activities, Eastern State Penitentiary pr
 
 Vaudeville is itself its own unique history. It was its own form of entertainment that included comedians, magicians, and musicians. The newspaper from the evening Public Ledger in Philadelphia, Pennsylvania is an example of the various forms of entertainment that vaudeville provided and of the impact that it had on the rest of the world. It portrays the radical movement and some background as to why Vaudeville was seen as a form of reform for inmates. 
 
-![Tacoma Times](/assets/img/Elbatacoma.pdf)
+![Vaudeville](/assets/img/vaudevillehistory.png)
 
 Incorporating vaudeville into prison life brought several benefits. It provided inmates with a creative outlet and a temporary escape from the monotony and stress of prison life, fostering a sense of normalcy and dignity. It also served as a tool for socialization, allowing prisoners to interact in a structured, positive environment. This was a stark contrast to the harsh conditions typically associated with incarceration at the time. Incorporating vaudeville into prison life not only enlivened the daily routine but also offered a diverse palette of entertainment that catered to various interests and backgrounds. Among the acts, jugglers and acrobats brought a dynamic energy to the prison yard, their performances eliciting cheers and applause from an audience craving physical spectacle and feats of daring. These shows often encouraged group participation, with inmates sometimes invited to learn basic juggling or balancing skills, promoting teamwork and concentration.
 
@@ -42,7 +42,7 @@ By incorporating such a rich variety of vaudeville entertainment, the prison env
 
 As a result of vaudeville incorporation into prisons, Mlle. Petite Elba made her way onto The Umpire newspaper through her acts in the Honor and Friendship Club. She can be seen in The Tacoma Times below on the upper right corner where she is identified as “The Toy Comedian”. 
 
-![test image](./vaudevillehistory%20.png) 
+![TacomaTimes](/assets/img/Elbatacoma.pdf) 
 
 This provides historical background as to the act that Petite Elba had been performing all around the U.S. Eventually though, his acts had become so appreciated by the Honor and Friendship club that she was given an inlaid box as a gift. She was later on asked to return again to perform as she had wowed the men at the entertainment club. During her return Mlle. Petite Elba was given a medal by the club where she took the opportunity to thank them for the gift of the box.
 
