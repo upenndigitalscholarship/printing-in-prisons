@@ -1,7 +1,7 @@
 ---
 title: Life of "Yeap", Life of George Washington Yeaple 
 author: Hannah Kim
-description: My Blog about agile frameworks.
+description: Who is "Yeap" in *The Umpire*? What can we learn about him through the prints and more importantly, about his life outside of the Eastern State Penitentiary?
 thumbnail: hkimshawl.jpg
 alt-text: this is a text image.
 date: 2024-11-11
