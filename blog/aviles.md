@@ -8,16 +8,12 @@ date: 2024-11-11
 layout: post
 tags:
   - blog
----
-<div style="text-aling: justify:"> 
+--- 
   <div style="width: 20px; float: right; margin-right: 20px:">
      <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 100px; height: auto; margin-left:5px;">
-
-  <p style="margin: 10px 0;">    
+  </div>   
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls.
   </p> 
-</div>
-</div>
 
 ### Historical Context 
 *In 1898, the U.S. took control of Puerto Rico and its archipelago which included Vieques and Culebra. Although the island did not undergo a name change, many American writers would refer to it as Porto Rico because of the difference in the English and Spanish sound systems.   Later on March 2nd, 1917, the Jones-Shafroth Act was passed placing Puerto Rico under U.S. colonial rule, granting American citizenship to its residents. <sup>2</sup>  The U.S. bought the West Indies from Denmark in January of the same year. These islands are St. Thomas, St. Croix, and St. John (St. Jan in Danish). After the US took control, they renamed the group of islands the US Virgin Islands.* 
