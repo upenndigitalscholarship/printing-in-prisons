@@ -71,7 +71,6 @@ Eastern Echo, Summer 1963, Page 15.
 
 Eastern Echo, Summer 1964, Page 9.
 
-![test image](/assets/img/Echo-Summer-1965-Page10.jpeg)
 <img src="/assets/img/Echo-Summer-1965-Page10.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 10.
@@ -116,6 +115,6 @@ Eastern Echo, Summer 1966, Page 7.
 
 Eastern Echo, Summer 1966, Page 16.
 
-<img src="/assets/img/Echo-Summer-1966-page22.jpeg" width=500">
+<img src="/assets/img/Echo-Summer-1966-page22.jpeg" width="500">
 
 Eastern Echo, Summer 1966, Page 22.
