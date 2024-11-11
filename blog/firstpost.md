@@ -1,5 +1,5 @@
 ---
-title: This is my first post.
+title: "This is my first post: see"
 author: Author
 description: My Blog about agile frameworks.
 thumbnail: testimage.jpg
