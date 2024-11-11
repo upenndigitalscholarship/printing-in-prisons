@@ -14,9 +14,6 @@ tags:
 ![Third image](/assets/img/Obrien.3.jpg)
 
 
-
-![test image](/assets/img/brahms-topright.jpeg)
-
 ## Section Header
 
 
