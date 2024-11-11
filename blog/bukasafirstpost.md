@@ -12,7 +12,7 @@ tags:
 
 # <span style="color: red;">Frank H Gilson</span>
 
-![Image](assets/img/image1.png)
+![Image](/assets/img/image1.png)
 
 This poem, *My Penknife* by B 8244, carries a sense of profound gratitude and redemption. The speaker reflects on the symbolic significance of a small, seemingly simple object—a penknife—given as a gift. While delicate, the penknife holds deep meaning for the speaker as a "ray of hope" amidst a life of "wasted years and bitter tears." Its value lies not only in the object itself but in the love it represents, a gift from "the fair hand" of a woman he cherishes.
 
