@@ -10,9 +10,18 @@ tags:
   - blog
 ---
 
+<style>
+body {
+    margin: 20px; /* Adjust this value as needed */
+    padding: 0;
+    box-sizing: border-box;
+}
+</style>
+
 # The Rev. Joseph Welch, Moral Instructor
 
-<div>
+updated
+
 The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral Instructor” of the facility. Welch was responsible for not only the spiritual needs of the inmates, but also for the moral reformation of the incarcerated individuals in the prison. At this time, it was ESP’s mission to reform the incarcerated, and Welch was a critical component in this internal moral reformation. Welch would speak at services, Bible studies, and events about “inducing a higher ideal of life and a desire for moral betterment.”[^1]  The *Umpire* repeatedly reported on Welch’s insistence on a moral life when he spoke at events:
 
 > Chaplain Joseph Welch addressed the inmates present, urging the necessity of constant effort to secure a right attitude of mind, so that lasting results will follow on going into the outer world. ‘By constant effort we build and grow, which is only following out the Universal law. He who hesitates or stops, and no longer tries to improve, is lost; and that is the weakness which must be checked before it is too late.’[^2] 
@@ -140,5 +149,3 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 [^12]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days”; “Bury Prison Chaplain,” Philadelphia Inquirer, January 22, 1920.
 
 [^13]: “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
-
-</div>
