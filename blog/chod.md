@@ -70,7 +70,7 @@ Joseph Y. Russell was sentenced for the first time in September of 1914 for sodo
 
 ![Logo](/assets/img/cho2.png)
 
-As seen from two different confessions of faith from Phelps and Russell, inmates, whether in solitude or as a group, professed to God and one another to practice 
+As seen from two different confessions of faith from Phelps and Russell, inmates, whether in solitude or as a group, professed to God and one another to practice the virtues of mercy, forgiveness, and graciousness. 
 
 
 ## **Lesson #2: How Influential Religious Leaders Gathered and United Inmates**
