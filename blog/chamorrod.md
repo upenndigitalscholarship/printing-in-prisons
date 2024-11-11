@@ -39,6 +39,7 @@ Below is an audio of a canary bird singing a melody recorded through a microphon
 <audio controls>
   <source src="/assets/img/audiobird.ogg" type="audio/ogg">
   <source src="/assets/img/audiobird.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
 
 ## The Bird King
