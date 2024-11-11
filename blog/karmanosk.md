@@ -42,7 +42,7 @@ A man only thinks something is difficult if he is doing it with reluctance and a
 
 ## Works
 ![test image](/assets/img/Echo-summer-1965-page1.png)
-  <img src="/assets/img/Echo-summer-1965-page1.png" width="800">
+  <img src="/assets/img/Echo-summer-1965-page1.png" width="700">
   
   Eastern Echo, Summer 1965, Page 1. 
 
