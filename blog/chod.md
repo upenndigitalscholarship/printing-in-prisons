@@ -26,38 +26,38 @@ Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pe
 >*Be Born Again (1917)*
 >*By Elizabeth Stuart Phelps*
 >
->Be born anew, dear Lord, be born again,
->Unto the hunger of the sons of men!
->Whose famine is too bitter to be fed
->By any lower food than sacred bread.
->We thirst for hope and, tasting, drink it not. 
->We choke for joy denied a barren lot.
->We starve for love and, starving, throw the dice 
->That may, or may not, pay love’s precious price. 
->Our trembling hands, infirm, have lost the wit 
->To grasp Thy holy cup. Lord, give us it!
->Fill it with strength despaired of by the weak.
+>*Be born anew, dear Lord, be born again,*
+>*Unto the hunger of the sons of men!*
+>*Whose famine is too bitter to be fed*
+>*By any lower food than sacred bread.*
+>*We thirst for hope and, tasting, drink it not.* 
+>*We choke for joy denied a barren lot.*
+>*We starve for love and, starving, throw the dice* 
+>*That may, or may not, pay love’s precious price.* 
+>*Our trembling hands, infirm, have lost the wit* 
+>*To grasp Thy holy cup. Lord, give us it!*
+>*Fill it with strength despaired of by the weak.*
 >
->Fill it with brimming rest the weary seek. 
->Out of the chalice let the lonely drink. 
->Restrain the wild soul crouching on the brink 
->Of shameful purposes, that no man knows. 
->Watch, Thou, the desert where the desperate goes! 
->Unto white hearts give purity anew;
->And to the false the power to be true.
->Grant to the mourning, all uncomforted,
->The conscious coming of their dearest dead. 
->Give to the friendless, shrinking and apart 
->The happy throbbing of the Christmas heart.
+>*Fill it with brimming rest the weary seek.* 
+>*Out of the chalice let the lonely drink.* 
+>*Restrain the wild soul crouching on the brink* 
+>*Of shameful purposes, that no man knows.* 
+>*Watch, Thou, the desert where the desperate goes!* 
+>*Unto white hearts give purity anew;*
+>*And to the false the power to be true.*
+>*Grant to the mourning, all uncomforted,*
+>*The conscious coming of their dearest dead.* 
+>*Give to the friendless, shrinking and apart* 
+>*The happy throbbing of the Christmas heart.*
 >
->Be born again, dear Christ! be born again,
->Unto the knowledge of the sons of men.
->Be born into the gentle heart that brings
->Its best, its strongest to the weakest things. 
->Be born into the finest tenderness
->That will not burden, where it cannot bless; 
->Be born in the divinest power to feel,
->That never hurts the nerve it cannot heal.
+>*Be born again, dear Christ! be born again,*
+>*Unto the knowledge of the sons of men.*
+>*Be born into the gentle heart that brings*
+>*Its best, its strongest to the weakest things.* 
+>*Be born into the finest tenderness*
+>*That will not burden, where it cannot bless;* 
+>*Be born in the divinest power to feel,*
+>*That never hurts the nerve it cannot heal.*
 
 This prayer was written in the Christmas day of 1917 by inmate Elizabeth Stuart Phelps, who was praying for the "hunger of the sons of men" indicating the soldiers who are fighting the cold winters in the European battlefront. She also professed to God to forgive her sins and make her "born anew". For Christmas, she asked God to fill "the weak" inmates with much needed strength, hope, and friendliness. Being in a prison during a festive season might have weakened the inmates' souls but Phelps prayed to be reborn in the "diviniest power" to feel and to heal their wounds.
 
