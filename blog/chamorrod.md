@@ -57,7 +57,7 @@ Although not a typical pet outside of Eastern State, canary birds have been show
 On the other hand, even when speaking and telling stories about these birds, they would project actual human emotions onto them. These stories could be interpreted as the incarcerated men trying to humanize these pets. Although these Canaries offered joy and companionship at Eastern State, it's still hard to reconcile the contrast to some of the major crimes these men committed. A solid underlying tension tells two sides and perspectives to this relationship.
 
 ## Image and Information Sources
-All images and audio are fair use and come from The Umpire, Creative Commons, Ancestry Database and/or before 1924
+All images and audio are fair use and come from The Umpire, Creative Commons, Ancestry Database and/or before 1924.
 Images and audio of Canary birds come from Creative Commons, and article images from The Umpire.
 
 Information gathered from easternstate.org and their historic structures report
