@@ -30,7 +30,7 @@ The Eastern State Penitentiary (ESP) stands as a historical monument, not only f
 4. Women's Contributions to the Print Shop
   Women contributed to the print shop primarily through preparatory and finishing tasks that were crucial to the production of printed materials. Their involvement included preparing the paper and binding the pages, which were essential steps in ensuring the quality and completion of the printed works. These tasks, though often overlooked, were fundamental to the smooth operation of the print shop and the successful dissemination of "The Umpire."
 
-  <img src="/assets/img/wendy-print-shop.png" alt="Umpire Ad Column" class="center-image">
+  <img src="/assets/img/wendy-print-shop.png" alt="Umpire Ad Column" class="center-image" style="width: 50%;">
 
 5. Recognition and Appreciation
   The contributions of the women at ESP did not go unnoticed. Their efforts were recognized and appreciated by both the prison administration and their fellow inmates. Events like the pinning of H.F.C. buttons were marked by humorous and light-hearted interactions, highlighting the positive impact of the women's presence in the prison community. These moments of recognition underscored the importance of their roles in maintaining a positive atmosphere and fostering a sense of belonging within the prison.
