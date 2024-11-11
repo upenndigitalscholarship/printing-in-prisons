@@ -21,9 +21,9 @@ Disability Services in Eastern State Penitentary
 <p>Inmate Sterling B. James argues against the legitimacy of individual therapy services offered by Eastern State Penitentiary. The therapy provided by Eastern State was described as unscientific and equated to “hypnotism” by James, who stated that he surveyed the “John Q. Population” (the average person in Eastern state) to come to this conclusion. </p>
 <p>James finds further fault in the acquisition of therapy. Inmates were required to self-enroll in therapy, which James believed few men who needed therapy would. Additionally, James argued that poverty and lack of education were the main causes of crime. Treating these aspects, James asserted, would be more of a useful factor than therapy.<p>
 <p>Although the therapy in James' article was not only aimed at supporting those with disabilities, therapy is a service that many people with disabilities utilize. The description of its distribution by James indicated that it was inaccessible. Therapy was self acquired, meaning that prisoners had to take action to sign themselves up for therapy.<p>
-<p>Prisoners would:
-1. Have to recognize that they needed mental therapy</li>
-2. Sign themselves up for this therapy</li> 
+<p>Prisoners would:<p>
+<p>1. Have to recognize that they needed mental therapy<p>
+<p>2. Sign themselves up for this therapy<p>
     
 <p> This would be difficult for people with serious mental health conditions or cognitive disabilities. Furthermore, mental healthcare was not normalized in the 1950s as it is in the 2020s, meaning that many prisoners could have felt higher levels of self-internalized stigma as a personal barrier to therapy.<p>
 <p>James’ argument regarding the importance of educational and vocational services reflected an overarching argument of the time. The Vocational Rehabilitation Act of 1954 was passed two years prior with the same importance placed on rehabilitation to provide vocational training to disabled inmates. However, mention of the services appeared ten years later, described as “new” in later Eastern Echo articles.<p>
