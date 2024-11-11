@@ -59,63 +59,62 @@ Eastern Echo, Summer 1963, Page 14.
 
 Eastern Echo, Summer 1963, Page 20. 
 
-![test image](/assets/img/Echo-summer-1963-page31.jpeg)
-
+<img src="/assets/img/Echo-summer-1963-page31.jpeg" width="500">
 
 Eastern Echo, Summer 1963, Page 31. 
 
-![test image](/assets/img/Echo-Summer-1963-Pg15.jpeg)
+<img src="/assets/img/Echo-Summer-1963-Pg15.jpeg" width="500">
 
 Eastern Echo, Summer 1963, Page 15. 
 
-![test image](/assets/img/Echo-Summer-1964-Page09.jpeg)
+<img src="/assets/img/Echo-Summer-1964-Page09.jpeg" width="500">
 
 Eastern Echo, Summer 1964, Page 9.
 
-![test image](/assets/img/Echo-Summer-1965-Page10.jpeg)
+<img src="/assets/img/Echo-Summer-1965-Page10.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 10.
 
-![test image](/assets/img/Echo-Summer-1965-page11.jpeg)
+<img src="/assets/img/Echo-Summer-1965-page11.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 11.
 
-![test image](/assets/img/Echo-Summer-1965-page12.jpeg)
+<img src="/assets/img/Echo-Summer-1965-page12.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 12. 
 
-![test image](/assets/img/Echo-summer-1965-page16.jpeg)
+<img src="/assets/img/Echo-summer-1965-page16.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 16. 
 
-![test image](/assets/img/Echo-summer-1965-page21.jpeg)
+<img src="/assets/img/Echo-summer-1965-page21.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 21.
 
-![test image](/assets/img/Echo-summer-1965-page31.jpeg)
+<img src="/assets/img/Echo-summer-1965-page31.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 31.
 
-![test image](/assets/img/Echo-Summer-1965-page33.jpeg)
+<img src="/assets/img/Echo-Summer-1965-page33.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 33.
 
-![test image](/assets/img/Echo-summer-1965-page38.jpeg)
+<img src="/assets/img/Echo-summer-1965-page38.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 38.
 
-![test image](/assets/img/Echo-Summer-1965-pg11.jpeg)
+<img src="/assets/img/Echo-Summer-1965-pg11.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 11.
 
-![test image](/assets/img/Echo-summer-1966-page7.jpeg)
+<img src="/assets/img/Echo-summer-1966-page7.jpeg" width="500">
 
 Eastern Echo, Summer 1966, Page 7.
 
-![test image](/assets/img/Echo-Summer-1966-page16.jpeg)
+<img src="/assets/img/Echo-Summer-1966-page16.jpeg" width="500">
 
 Eastern Echo, Summer 1966, Page 16.
 
-![test image](/assets/img/Echo-Summer-1966-page22.jpeg)
+<img src="/assets/img/Echo-Summer-1966-page22.jpeg" width="500">
 
 Eastern Echo, Summer 1966, Page 22.

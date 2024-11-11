@@ -1,5 +1,5 @@
 ---
-title: Prisoner B-6861. A Respectful Poet Who Loved Baseball
+title: Howard Housel, A Respectful Poet Who Loved Baseball
 author: Youbin Park
 description: The blog post describes the life of B-6861 and a deep analysis into his writings in The Umpire.
 thumbnail: HowardHousel-2.jpg
@@ -49,11 +49,6 @@ tags:
 </head>
 <body>
   
-<p>Click on different bases to learn more about Howard Housel
-<p>First Base: Background & Incarceration</p>
-<p>Second Base: "You will be Glad"</p>
-<p>Third Base: "Hustling Ball Players"</p>
-<p>Home Base: Life After Eastern State Penitentiary</p>
 <!-- Baseball field image with image map -->
 <img src="/assets/img/baseballfield.jpg" alt="Baseball Field" usemap="#baseball-map" width="951" id="baseball-map">
 
@@ -71,6 +66,12 @@ tags:
   <!-- Third Base -->
   <area shape="circle" coords="251,255,38" href="#third" alt="Third Base" title="Third Base">
 </map>
+
+<p>Click on different bases to learn more about Howard Housel
+<p>First Base: Background & Incarceration</p>
+<p>Second Base: "You will be Glad"</p>
+<p>Third Base: "Hustling Ball Players"</p>
+<p>Home Base: Life After Eastern State Penitentiary</p>
 
 <!-- Sections for each base -->
 <section id="first">

@@ -12,7 +12,7 @@ tags:
 
 # The Rev. Joseph Welch, Moral Instructor
 <p style="text-align:justify;">
-The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral Instructor” of the facility. Welch was responsible for not only the spiritual needs of the inmates, but also for the moral reformation of the incarcerated individuals in the prison. At this time, it was ESP’s mission to reform the incarcerated, and Welch was a critical component in this internal moral reformation. Welch would speak at services, Bible studies, and events about “inducing a higher ideal of life and a desire for moral betterment.”<sup>1</sup> The *Umpire* repeatedly reported on Welch’s insistence on a moral life when he spoke at events:</p>
+The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral Instructor” of the facility. Welch was responsible for not only the spiritual needs of the inmates, but also for the moral reformation of the incarcerated individuals in the prison. At this time, it was ESP’s mission to reform the incarcerated, and Welch was a critical component in this internal moral reformation. Welch would speak at services, Bible studies, and events about “inducing a higher ideal of life and a desire for moral betterment.”<sup>1</sup> The <i>Umpire</i> repeatedly reported on Welch’s insistence on a moral life when he spoke at events:</p>
 <div style="text-align:justify;">
 
 > Chaplain Joseph Welch addressed the inmates present, urging the necessity of constant effort to secure a right attitude of mind, so that lasting results will follow on going into the outer world. ‘By constant effort we build and grow, which is only following out the Universal law. He who hesitates or stops, and no longer tries to improve, is lost; and that is the weakness which must be checked before it is too late.’<sup>2</sup>
@@ -99,7 +99,7 @@ He also provides some successful cases of released prisoners succeeding post-inc
 Welch was depicted in the *Umpire* as being much beloved, although they likely would not have published any negative sentiment about him even if some harbored it. In one instance, in 1918, he was presented with a “silver loving cup” by “almost every church in the city” to celebrate “his efforts to cooperate with them in looking after the spiritual needs of the prisoners in that institution.” At the time of this award, Welch had just turned 82 years old and had served as chaplain of ESP for 27 years.<sup>10</sup> 
 
 <p style="text-align:justify;">
-In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate \[the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup> </p>
+In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate [the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup> </p>
 
 <p style="text-align:justify;">
 The prisoners of ESP were distraught by the investigation into him, offering to write letters to the committee on his behalf. Upon his death and interment at Laurel Hill Cemetery in Philadelphia’s Fairmount Park, ESP prisoners sent flowers and a letter “expressing the unanimous sentiment of all the inmates” of their regret over Welch’s passing.<sup>12</sup> </p>
@@ -119,11 +119,6 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <hr>
 <br>
