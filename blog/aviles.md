@@ -9,20 +9,21 @@ layout: post
 tags:
   - blog
 --- 
-<img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 40%; float:right;">
+<img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 40%; float:right;margin-left:10px;">
    
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls. 
 
 ### Historical Context 
+
 *In 1898, the U.S. took control of Puerto Rico and its archipelago which included Vieques and Culebra. Although the island did not undergo a name change, many American writers would refer to it as Porto Rico because of the difference in the English and Spanish sound systems.   Later on March 2nd, 1917, the Jones-Shafroth Act was passed placing Puerto Rico under U.S. colonial rule, granting American citizenship to its residents. <sup>2</sup>  The U.S. bought the West Indies from Denmark in January of the same year. These islands are St. Thomas, St. Croix, and St. John (St. Jan in Danish). After the US took control, they renamed the group of islands the US Virgin Islands.* 
 
 With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
 
-<div style="width: 40%; float: left; margin-left: 50px:">
-  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 75%;">
-    </div>
-    <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
-   <blockquote style="font-style: italic; margin: 5px 0;">
+  <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 75%;float:left;margin-right:10px;">
+    
+<h3>Quote from "Our New Possessions</h3>
+
+<blockquote style="font-style: italic; margin: 5px 0;">
     "It is to be expected that a new name for the Danish West Indies, the title to which has now passed to the United States, will be called for," says a writer in the <strong>Transcript</strong>, and it has already "been suggested that they be called the Dewey Islands, in honor not only of the part which Admiral Dewey had in endowing us with an island empire… Administratively, these new islands might well enough be made a part of Puerto Rico, in which case they would never need a separate name, each one being called, of course, by its present title--St. Thomas, St. Croix, St. Jean. If Porto Rico is given full territorial status in the American union, it will undoubtedly include these islands, just as it already includes the other Virgin Islands, once Spanish-Culebra and Vieques…"
     </blockquote>
 
