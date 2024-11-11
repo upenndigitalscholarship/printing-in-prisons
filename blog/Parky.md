@@ -232,8 +232,8 @@ With the power to organize the league and teams amongst themselves, the baseball
 
 <h3 class="baseball"> Image References </h3>
 <ol>
-<li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=747167&collectionId=61173&tid=&pid=&queryId=483164ee-d45b-438f-9500-8497b650a9ce&_phsrc=VFw138&_phstart=successSource" target="_blank">Baseball Field</a> </li>
-<li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=161445&collectionId=61173&tid=&pid=&queryId=00fabb3a-e30e-4e5a-b8c5-bfa829d32987&_phsrc=VFw140&_phstart=successSource" target="_blank">Image 1 </a> </li>
+<li> <a href="https://media.istockphoto.com/id/1266614641/photo/baseball.jpg?s=612x612&w=0&k=20&c=DPheg0Hnd4I_EeIsJu4O2RkvpsjHtjh9uualFPgF3gM=" target="_blank">Baseball Field</a> </li>
+<li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=747167&collectionId=61173&tid=&pid=&queryId=483164ee-d45b-438f-9500-8497b650a9ce&_phsrc=VFw138&_phstart=successSource" target="_blank">Image 1 </a> </li>
 <li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=161445&collectionId=61173&tid=&pid=&queryId=00fabb3a-e30e-4e5a-b8c5-bfa829d32987&_phsrc=VFw140&_phstart=successSource" target="_blank">Image 2 </a> </li>
 <li> <a href="https://www.easternstate.org/about-eastern-state/blog/20-years-stories-our-final-alumni-reunion" target="_blank">Image 6 </a> </li>
 <li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=32508013&collectionId=6482&tid=&pid=&queryId=a1406554-f84f-4765-b877-9c3405c06bae&_phsrc=VFw142&_phstart=successSource" target="_blank">Image 7 </a> </li>
