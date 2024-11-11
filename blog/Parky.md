@@ -1,5 +1,5 @@
 ---
-title: Prisoner B-6861. A Respectful Poet Who Loved Baseball
+title: Howard Housel, A Respectful Poet Who Loved Baseball
 author: Youbin Park
 description: The blog post describes the life of B-6861 and a deep analysis into his writings in The Umpire.
 thumbnail: HowardHousel-2.jpg
