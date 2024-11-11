@@ -17,11 +17,11 @@ tags:
 
 <span class="highlight-text">
 
-### Mentions of John Metzler’s miniature carousel in *The Umpire*:</span>
+## Mentions of John Metzler’s miniature carousel in *The Umpire*:</span>
 <br/>
 <img src="/assets/img/blank-sources.png" alt="Here are images of articles that discussed the carousel model in The Umpire" width="750px">
 
-## Image sources:
+### Image sources:
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Old_Carousel_restored_%2830396172308%29.jpg/640px-Old_Carousel_restored_%2830396172308%29.jpg 
 https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_11.JPG
 https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_04.JPG
