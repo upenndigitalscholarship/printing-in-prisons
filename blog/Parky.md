@@ -196,7 +196,7 @@ solid #ccc; border-radius: 5px;">
 <p>The inclusion of dialogue between the two managers, each arguing that their teams are unbeatable, reflect the competitive environment between two baseball teams. The rivalry between the two teams indicates that baseball was not just a way to pass their time. Rather, it was a way to reconnect back to the passion outside of the prison. Despite the lack of monetary compensation, baseball was popular among inmates because of the shift of the value from money to joy as a reward. Not only baseball brought excitement among the inmates but also gave the sense of autonomy and hope of “becoming reintegrated into American society.” <sup><a href="#ref4">[4]</a></sup>
 With the power to organize the league and teams amongst themselves, the baseball empowered them to “assume authority and responsibility” <sup><a href="#ref4">[4]</a></sup> which were denied in the prison.</p>
 
-<img src="baseball.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<img src="baseballhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 <figcaption>Image 6. Prisoners of ESP playing baseball in the prison</figcaption>
 <p>Housel also provides short advice to the managers before he leaves the prison. He warns the managers not to sign anyone randomly but choose a player wisely. This reveals that Howard himself was also actively involved in the baseball league and shows his passion for the baseball league in the prison, even when he was being released in a few months.</p>
 
@@ -221,7 +221,7 @@ With the power to organize the league and teams amongst themselves, the baseball
 
 <!-- Wrap the image in a div for better control over layout -->
 <div class="image-container">
-    <img src="graveyard.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="graveyardhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
     <figcaption>Image 9. Graveyard where Howard Otis Housel is buried, located in Neptune Township, New Jersey.</figcaption>
 </div>
 
