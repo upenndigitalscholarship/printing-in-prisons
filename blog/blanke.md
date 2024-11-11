@@ -17,9 +17,21 @@ tags:
 
 <span class="highlight-text">
 
-Mentions of John Metzler’s miniature carousel in *The Umpire*:</span>
+###Mentions of John Metzler’s miniature carousel in *The Umpire*:</span>
 <br/>
 <img src="/assets/img/blank-sources.png" alt="Here are images of articles that discussed the carousel model in The Umpire" width="750px">
+
+##Image sources:
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Old_Carousel_restored_%2830396172308%29.jpg/640px-Old_Carousel_restored_%2830396172308%29.jpg 
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_11.JPG
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_04.JPG
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_14.JPG
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_09.JPG
+https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_07.JPG
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_10.JPG
+https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_05.JPG
+https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_06.JPG
+https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_04.JPG
 
 <br/><br/><br/><br/>
 
@@ -34,15 +46,3 @@ Mentions of John Metzler’s miniature carousel in *The Umpire*:</span>
 </style>
 
 
-<br/>
-**Image sources:**
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Old_Carousel_restored_%2830396172308%29.jpg/640px-Old_Carousel_restored_%2830396172308%29.jpg 
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_11.JPG
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_04.JPG
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_14.JPG
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_09.JPG
-https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_07.JPG
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_10.JPG
-https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_05.JPG
-https://commons.wikimedia.org/wiki/File:Pullen_Park_Carousel_06.JPG
-https://commons.wikimedia.org/wiki/File:Weona_Park_Carousel_Animals_04.JPG
