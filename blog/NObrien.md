@@ -10,7 +10,6 @@ tags:
   - blog
 ---
 ![This is a thumbnail](/assets/img/Obrien-thumbnail.jpg)
-
 ![Third image](/assets/img/Obrien.3.jpg)
 
 
