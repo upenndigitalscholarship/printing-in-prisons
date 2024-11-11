@@ -10,15 +10,12 @@ tags:
   - blog
 ---
 # Canaries in Eastern State
-<br></br>
 <img src="/assets/img/canary_bird_1.jpg" width="267" height="201" style="display:block">
 <img src="/assets/img/black_canary.jpg"  width="267" height="201" style="display:block">
-<img src="/assets/img/bird_cage.jpg" width="266" height="177" style="display:block">
 <br></br>
 Eastern State Penitentiary is a former prison in Pennsylvania that was open between 1829 and 1971. The prison is now considered a US landmark. The collection of media written at the prison uncovered many mentions of canary birds. The historic structure report made by Eastern State noted over 2x the number of pets compared to incarcerated people in 1884. The Eastern State website also stated that the incarcerated men were allowed to have these canaries as pets. 
 
 ## Birds as Currency
-<br></br>
 <img src="/assets/img/forsale.jpeg" width="333" height="43">
 <img src="/assets/img/lostcanary.jpeg"  width="333" height="41">
 <br></br>
@@ -29,7 +26,6 @@ Canary birds were mentioned over 30 times in the local Eastern State newspaper, 
 <br></br>
 
 ## Canary Bird Singers
-<br></br>
 Consistently, articles written by the incarcerated men in The Umpire mentioned the canaries, explicitly highlighting their beautiful singing in poems and stories. One can assume that these canaries could sing and make melodies, making them more valuable to the prison and more comforting to the incarcerated men in these small, dark cells.
 <br></br>
 <img src="/assets/img/forsalesinger.jpeg" width="285" height="53">
@@ -45,7 +41,6 @@ Your browser does not support the audio element.
 <br></br>
 
 ## The Bird King
-<br></br>
 <img src="/assets/img/birdking1.jpeg" width="203" height="41">
 <img src="/assets/img/birdking2.jpeg" width="427" height="79">
 <br></br>
@@ -55,7 +50,6 @@ Carl Hoffman, labeled B 5575, was an incarcerated person who the Eastern State i
 <br></br>
 
 ## Emotional Impact of Birds
-<br></br>
 Although not a typical pet outside of Eastern State, canary birds have been shown to have a significant emotional impact on the men in the penitentiary. The canaries were a ray of sweetness, colorfulness, and light compared to the solitude and darkness within these buildings and cells. However, this stark contrast between the incarcerated men's crime and these innocent birds could hint at why they cared for them this much. There were instances of reporting on the deaths of a canary bird that would lay a heavy hand, signifying the influence these pets had on the them. 
 <br></br>
 <img src="/assets/img/canarystory.jpeg" width="307" height="347">
