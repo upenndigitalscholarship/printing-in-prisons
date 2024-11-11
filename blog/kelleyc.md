@@ -39,6 +39,8 @@ Article 4002; Volume V; Issue 27; Page 4
 ![Image Twentytwo](/assets/img/kelley22.png)
 
 
+_______________________________________________
+
 
 ## Analysis & Reflection
 
