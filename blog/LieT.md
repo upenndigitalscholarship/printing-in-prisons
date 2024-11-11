@@ -36,7 +36,7 @@ One notable individual found in The Umpire was John H. Evans (B-6765). Evans was
 
 Evans’ contribution to the HFC as a bugle and cornet player is evidence that music was an impactful pastime of life within ESP. Evans was given the opportunity to participate in events and gatherings that broke the motions of isolation and social deprivation through his performances. Evans likely looked forward to rehearsals and performances, which may have provided him a sense of normalcy. The HFC not only impacted Evans but many other people as well. The shared activities by the club served as a catalyst for interaction and escape from the cold, lifeless atmosphere of each cell. How music and the HFC individual impacted each incarcerated individual at ESP is hard to tell, but it is no doubt that both were evidence that life within ESP’s walls existed and that the cells couldn’t bring friendships apart.
 
-![EvansRecord](/assets/img/JohnEvansRecord.png)
+<img src="/assets/img/JohnEvansRecord.png" style="width:90%;" alt="Record for Evans">
 
 ### References
 <ol>
