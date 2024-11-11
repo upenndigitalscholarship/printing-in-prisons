@@ -17,7 +17,7 @@ tags:
 <div style="text-align: left;">
 
 ## **Background Information**
-#### Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pennsylvania, just like any other Christians living all around the world, practiced and pursued their faith within the prison facilities. During the chaotic years of 1916-1917, nearing the end of World War I, Christian inmates prayed to Lord the Savior for the preservation of mankind and urged for patriotism, as well as praying for the renewal of their lives and repentance for their previous wrongdoings. Countless Christians in the Penitentiary wrote prayers, confessed to their faiths and beliefs, and held gatherings spearheaded by well-known priests in the local Philadelphia community.  
+Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pennsylvania, just like any other Christians living all around the world, practiced and pursued their faith within the prison facilities. During the chaotic years of 1916-1917, nearing the end of World War I, Christian inmates prayed to Lord the Savior for the preservation of mankind and urged for patriotism, as well as praying for the renewal of their lives and repentance for their previous wrongdoings. Countless Christians in the Penitentiary wrote prayers, confessed to their faiths and beliefs, and held gatherings spearheaded by well-known priests in the local Philadelphia community.  
 
 ## **Lesson #1: Praying for Repentence**
 **Let us begin with the Prayer from Elizabeth Stuart Phelps:**
