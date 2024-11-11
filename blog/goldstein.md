@@ -19,13 +19,14 @@ tags:
             This is a screenshot of Harry Haspel's incraceration record from The Eastern State Penitentiary
         </p>
     </div>
+</div>
+  
 Harry Haspel was a white male born September 13th, 1886. He was a native of Romania with 
 Austrian ancestry. It appears that he carried his heritage and Jewish religion with him as 
 he navigated life in America. Harry settled down with his wife, Rose Haspel, and their one 
 child. At the age of 26, he had both his mother and father still living, which instilled his
 strong and traditional family identity. This identity would end up shaping his future 
 contributions to his community, specifically his religious values and rituals.
-</div>
 
 ## Learning and Leadership
 
@@ -36,8 +37,8 @@ contributions to his community, specifically his religious values and rituals.
             This is an article from the Newspaper, the Umpire, which mentions Harry Haspel.
         </p>
     </div>
-Harry had an educational background of about 4 years in public school, where he learned reading and writing. Harry’s life took an unexpected turn when he was incarcerated at Eastern State Penitentiary in 1913. Despite the isolating and harsh conditions of a prison, he drew on his background to provide religious leadership to the community he shared with fellow prisoners. On the Jewish High Holidays, specifically Rosh Hashanah, the Jewish New Year, he acted as the Cantor and led his community in Hebrew prayer and song. Although he was accompanied by a choir, he ultimately was the one leading his congregation in beautiful melodies. His background allowed him to share his wisdom and comprehension of religious texts with his Jewish community during services, enhancing their understanding and connection to Judaism.
 </div>
+Harry had an educational background of about 4 years in public school, where he learned reading and writing. Harry’s life took an unexpected turn when he was incarcerated at Eastern State Penitentiary in 1913. Despite the isolating and harsh conditions of a prison, he drew on his background to provide religious leadership to the community he shared with fellow prisoners. On the Jewish High Holidays, specifically Rosh Hashanah, the Jewish New Year, he acted as the Cantor and led his community in Hebrew prayer and song. Although he was accompanied by a choir, he ultimately was the one leading his congregation in beautiful melodies. His background allowed him to share his wisdom and comprehension of religious texts with his Jewish community during services, enhancing their understanding and connection to Judaism.
 
 In Judaism, the cantor plays a crucial role alongside the rabbi, guiding the congregation spiritually through music. The rabbi teaches and interprets Jewish law and customs from the Torah, while the cantor guides worship through song. During services, the cantor will chant and sing prayers, which typically include Hebrew verses and melodies that have been passed down through generations. Together, the rabbi and cantor create a unified worship experience that strengthens the congregation’s ties to their faith and heritage.
 
