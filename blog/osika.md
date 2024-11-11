@@ -11,11 +11,6 @@ tags:
 ---
 
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>William Marvel and the Pursuit of Reform</title>
-</head>
 <body>
     <p><strong>William Marvel’s life defies the stereotypical image of a prisoner.</strong> Born in Wilmington, Delaware, in 1863, Marvel was well-educated, having completed ten years of public schooling and six years of private education (1). Despite this background, he found himself repeatedly in conflict with the law, first convicted of larceny in 1893 and ultimately imprisoned five times over a span of 24 years, several of which were at Eastern State Penitentiary (1). Through his experiences, Marvel emerged not only as an inmate but also as a voice for reform, contributing to prison publications and advocating for a parole system focused on dignity, responsibility, and rehabilitation – a perspective which was shaped by his own complicated journey within the legal system.</p>
     <figure>
