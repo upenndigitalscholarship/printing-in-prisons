@@ -49,3 +49,8 @@ The answer isn't clear, but as a whole, the prison system has, and will continue
 ![Second image](obrien.2.jpg)
 
 All in all, these articles express many different views on the prison system, and the difference of time periods. The difference between reform vs rehabilitation, and the difference of time periods play a crucial role in assessing these types of situations. These pieces of history display reveal the complexity surrounding incarcerated individuals, and if the prison system was, and if it is, for the better of the person and the outside world. Through stereotypes, analysis of different audiences and surroundings, we can explore the complicated history of incarceration in America and therefore address ongoing problems. 
+
+Further readings- 
+https://pubmed.ncbi.nlm.nih.gov/35530429/
+https://www.nber.org/reporter/2020number1/benefits-rehabilitative-incarceration
+
