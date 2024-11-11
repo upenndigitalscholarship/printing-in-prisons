@@ -9,6 +9,11 @@ layout: post
 tags:
   - blog
 ---
+<style>
+body {
+    font-size: 0.9em;
+}
+</style>
 
 # The Rev. Joseph Welch, Moral Instructor
 
