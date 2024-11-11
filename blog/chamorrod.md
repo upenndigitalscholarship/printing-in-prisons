@@ -1,7 +1,7 @@
 ---
 title: Canaries at Eastern State
 author: Dominique Chamorro
-description: An exploration ofhte relationship between canary birds and the incarcerated men at the Eastern State Penitentiary as seen through The Umpire. An in depth look at the different publications and mentions of the birds written by the men of the prison.
+description: An exploration of the relationship between canary birds and the incarcerated men at the Eastern State Penitentiary as seen through The Umpire. An in depth look at the different publications and mentions of the birds written by the men of the prison.
 thumbnail: chamorro-thumbnail.jpg
 alt-text: vintage image of a yellow canary bird 
 date: 2024-11-11
