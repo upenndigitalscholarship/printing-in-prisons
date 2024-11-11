@@ -15,7 +15,7 @@ tags:
 Article 4002; Volume V; Issue 27; Page 4
 7/10/1918
 
-![Image One](assets/img/kelley1.png)
+![Image One](assets/img/kelleychase-pip.png)
 ![Image Two](assets/img/kelley2.png)
 ![Image Three](assets/img/kelley3.png)
 ![Image Four](assets/img/kelley4.png)
