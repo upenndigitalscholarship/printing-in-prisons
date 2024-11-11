@@ -49,7 +49,7 @@ Eastern Echo/January (1967) Pg 31
 
 <style>
   img{
-    width: 50%;
+    width: 40%;
   }
 </style>
 
