@@ -11,11 +11,7 @@ tags:
 ---
 ![This is a thumbnail](Obrien-thumbnail.jpg)
 
-![Second image](obrien.2.jpg)
-
 ![Third image](Obrien.3.jpg)
-
-![Fourth image](Obrien.4.jpg)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -29,6 +25,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 
 Geno Ferranao was 21-year-old Italian man who was imprisoned at Eastern State Penitentiary for assault, battery and rape in the year 1911. He was sentenced to a maximum 15 years in prison, but only served seven. He was a Catholic man who was a baker for a living, with a wife and no children.
+
+![Fourth image](Obrien.4.jpg)
 
 This page from “Eastern Echoes” emphasizes prisons lack of progression throughout the years, which has been a failure. Eastern State Penitentiary was managed by a system of incarceration that emphasized moral reform. Under this method prisons were thought to transform the individual by making them more moral, which would naturally make them turn away from their crime and not commit any more offenses upon their release. It would “alter character traits, motivation or dispositions.” In the 1950’s, when this article was written and published in Eastern Echoes, prisons were shifting their methods toward a model called rehabilitation. This refers to improving someone's skills, capacities, and opportunities, which expands to psychological interventions aimed at correcting offenders. The difference between this and reform is that rehabilitation aims at “improvement of skills, capacities, and opportunities” rather than altering it. 
 
@@ -47,5 +45,7 @@ This comparison between the two different time periods suggests the differences 
 So why do we have this case? Geno, where he was put through the method of reform, and the evidence provided to us shows signs of change and regret, but on the Eastern Echoes page, 50+ years after Geno, the prison system is still a failure? 
 
 The answer isn't clear, but as a whole, the prison system has, and will continue to fail people inside and outside of prison. “The report examined the existing evidence on prisoner rehabilitation programs and came to the conclusion that “nothing works.” Still to this day,  the fact that recidivism rates are so high shows how the prison system in our country is a failure, and a change is needed. 
+
+![Second image](obrien.2.jpg)
 
 All in all, these articles express many different views on the prison system, and the difference of time periods. The difference between reform vs rehabilitation, and the difference of time periods play a crucial role in assessing these types of situations. These pieces of history display reveal the complexity surrounding incarcerated individuals, and if the prison system was, and if it is, for the better of the person and the outside world. Through stereotypes, analysis of different audiences and surroundings, we can explore the complicated history of incarceration in America and therefore address ongoing problems. 
