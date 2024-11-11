@@ -27,7 +27,6 @@ As a percussionist in the concert band, Cantoral also served as a personal super
 
 Socrates Raymond Cantoral was a high-achieving perfectionistic model of rehabilitation efforts of the penitentiary, making use of nearly every program and activity the site offered. A model of rehabilitative success, Cantoral’s search to reclaim his identity and become a successful member of the “real world” shines through in his creative endeavors. A beacon of light, humor, and optimism, Cantoral’s illustrations and artistic accomplishments are a journey to make light of a dark incarcerated existence. 
 
-Footnotes:
 [^1]: Williams, Thomas. "Profile of Socrates R. Cantoral," The Eastern Echo. Winter 1964, Page 8.
 [^2]: “Mr. Socrates Cantoral,” Dinan Funeral Home, February 2017. https://www.dinanfuneralhome.com/obituaries/Socrates-Cantoral/#!/TributeWall.
 [^3]: Heinemann, Robert. "Individual Therapy," The Eastern Echo. March 1956, Page 16.
