@@ -10,9 +10,8 @@ tags:
   - blog
 ---
 # Canaries in Eastern State
-<img src="/assets/img/canary_bird_1.jpg" width="267" height="201" style="display:block">
+<img src="/assets/img/canary_bird_1.jpg" width="267" height="200" style="display:block">
 <img src="/assets/img/black_canary.jpg"  width="267" height="201" style="display:block">
-<br></br>
 Eastern State Penitentiary is a former prison in Pennsylvania that was open between 1829 and 1971. The prison is now considered a US landmark. The collection of media written at the prison uncovered many mentions of canary birds. The historic structure report made by Eastern State noted over 2x the number of pets compared to incarcerated people in 1884. The Eastern State website also stated that the incarcerated men were allowed to have these canaries as pets. 
 
 ## Birds as Currency
