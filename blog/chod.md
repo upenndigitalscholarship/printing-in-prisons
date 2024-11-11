@@ -59,7 +59,7 @@ Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pe
 >*Be born in the divinest power to feel,*
 >*That never hurts the nerve it cannot heal.*
 
-This prayer was written in the Christmas day of 1917 by inmate Elizabeth Stuart Phelps, who was praying for the "hunger of the sons of men" indicating the soldiers who are fighting the cold winters in the European battlefront. She also professed to God to forgive her sins and make her "born anew". For Christmas, she asked God to fill "the weak" inmates with much needed strength, hope, and friendliness. Being in a prison during a festive season might have weakened the inmates' souls but Phelps prayed to be reborn in the "diviniest power" to feel and to heal their wounds.
+This prayer was written in the Christmas day of 1917 by inmate Elizabeth Stuart Phelps, who was praying for the "hunger of the sons of men" indicating the soldiers who are fighting the cold winters in the European battlefront. She also professed to God to forgive her sins and make her "born anew." For Christmas, she asked God to fill "the weak" inmates with much needed strength, hope, and friendliness. Being in a prison during a festive season might have weakened the inmates' souls but Phelps prayed to be reborn in the "diviniest power" to feel and to heal their wounds.
 
 **Let us move onto how inmate B7291 Joseph Y. Russell professes to his fellow male inmates, asking them to forgive each other's trespasses:**
 >*FORGIVE US OUR TRESPASSES (1916)*
