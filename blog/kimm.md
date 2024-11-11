@@ -11,7 +11,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-<img src="/Users/matthew/Documents/24-25/COML/printingprisonsproject/mkconcertprogram.jpg" alt="Clickable Image" usemap="#image-map" style="width:100%; max-width:600px;">
+<img src="/assets/img/mkconcertprogram.jpg" alt="Clickable Image" usemap="#image-map" style="width:100%; max-width:600px;">
 
 <map name="image-map">
     <area shape="rect" coords="60,149,165,175" href="#section1" alt="Section 1">
