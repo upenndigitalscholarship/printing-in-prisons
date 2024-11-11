@@ -191,6 +191,7 @@ With the power to organize the league and teams amongst themselves, the baseball
 
 <img src="/assets/img/baseballhousel.jpg" alt="Image Description" style="max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 <figcaption>Image 6. Prisoners of ESP playing baseball in the prison</figcaption>
+
 <p>Housel also provides short advice to the managers before he leaves the prison. He warns the managers not to sign anyone randomly but choose a player wisely. He advises that managers should look at the personality of the players and "learn a little of your man" before choosing them into their team. This lines with the advice in the "You Will Be Glad": maintaining good relationships between the inmates. The advice also reveals that Howard himself was also actively involved in the baseball league and shows his passion for the baseball league in the prison, even when he was being released in a few months.</p>
 
 <p>In summary, baseball was a crucial aspect of Eastern State Penitentiary for inmates during the early 20th century, shown through Housel’s passion. Baseball brought excitement, unitement, competitiveness, and a feeling of autonomy to the inmates and acted as an emotional relief to stress of the confinement. 
