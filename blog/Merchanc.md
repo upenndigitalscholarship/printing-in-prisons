@@ -10,6 +10,7 @@ tags:
   - blog
 ---
 <h2>Eastern State Penitentiary:</h2>	
+
 During the early 1900s, Eastern State Penitentiary emerged as a pioneering institution in prisoner reform, adopting strategies that were ahead of their time in both philosophy and implementation. The penitentiary’s approach was transformative, focusing not just on punishment, but on rehabilitation and the potential for societal reintegration of inmates. Central to this reformative agenda was the establishment of the Honor and Friendship Club, a novel initiative within the prison system designed to foster a sense of community, mutual respect, and self-improvement among inmates.
 
 The Honor and Friendship Club was more than a mere social gathering; it was a structured program that encouraged inmates to earn privileges through good behavior. This merit-based system was instrumental in promoting discipline and morale, giving inmates tangible goals and the motivation to pursue them. The club organized meetings and events that provided inmates with opportunities to engage in meaningful interactions, exchange ideas, and support one another in their rehabilitative journeys.
