@@ -19,6 +19,8 @@ tags:
 ## **Background Information**
 Christian inmates in the Eastern State Penitentiary, located in Philadelphia, Pennsylvania, just like any other Christians living all around the world, practiced and pursued their faith within the prison facilities. During the chaotic years of 1916-1917, nearing the end of World War I, Christian inmates prayed to Lord the Savior for the preservation of mankind and urged for patriotism, as well as praying for the renewal of their lives and repentance for their previous wrongdoings. Countless Christians in the Penitentiary wrote prayers, confessed to their faiths and beliefs, and held gatherings spearheaded by well-known priests in the local Philadelphia community.  
 
+<hr style="border: 2px solid #4CAF50;">
+
 ## **Lesson #1: Praying for Repentence**
 **Let us begin with the Prayer from Elizabeth Stuart Phelps:**
 
@@ -76,6 +78,7 @@ Joseph Y. Russell was sentenced for the first time in September of 1914 for sodo
 
 As seen from two different confessions of faith from Phelps and Russell, inmates, whether in solitude or as a group, professed to God and one another to practice the virtues of mercy, forgiveness, and graciousness. 
 
+<hr style="border: 2px solid #4CAF50;">
 
 ## **Lesson #2: How Influential Religious Leaders Gathered and United Inmates**
 
@@ -101,6 +104,8 @@ Though not much was known about the specifics of Father Deckenbrock's lessons in
 
 The first two photos to the left are chapels used for Catholic masses, Confessions, and Episcopal services, while the photo to the very right is a mini-scaled synagogue for Jewish services. *The Umpire* also highlights that the Episcopal service every month highlights the Rev. Thomas J. Taylor, assisted by the Rev. H. M. Peck, conducting the service. An edifying sermon was addressed to the inmates with the purport of inducing a higher ideal of life and a desire for moral betterment. The services were well-attended and communion was administered to sixty-four or less inmate members of the church. The choir existed and did well in song, showing improvement day after day. In the afternoons, Baptismal services were conducted by the Rev. T. J. Taylor, at which time sixteen inmates at a time were baptized. Chaplain Joseph Welch, Mrs. Keen, Mrs. Connoly and a number of religious scholars and priests were present at the services as a rotation. It is very surprising that Holy Communion were conducted regularly, as it is a signal of blessing and a new beginning for inmates. The Rev. T. J. Taylor and the Rev. Dr. Perry, of Germantown, were the most prominent and often-mentioned figures who visited the Eastern State Penitentiary often and preached with passion, clear and earnest sermon from the text, including "He is able to save the uttermost all who come unto God by Him."
 
+<hr style="border: 2px solid #4CAF50;">
+
 ## **Lesson #3: How Religion Spurred Patriotism in the Penitentiary**
 
 We all know that the time period 1916-1917 were troubled years for both inmates and Americans fighting in World War I battlefronts across the Atlantic. *The Umpire*  reported that the inmates financed the purchase of an ambulance for the Red Cross, as well as noting that female inmates at Eastern State donated $5 towards the war effort, given that the average inmate during the time of war were earning $8 a month. Additionally, inmates produced games (one was called "Go-Bang"), cut bathrobes, and knitted sweaters, socks, and other clothings for the soldiers sacrificing their lives. Below is a World War I plaque at the historic site of the Eastern State, honoring the lives of the American soldiers.
@@ -119,6 +124,7 @@ Given this background, we know that inmates in the Eastern State were passionate
 Here, the inmate compares patriotism and Christianity and highlights how these two beliefs are analogous. The "devotion of the spirit to something nobler" is a strong concept that guides both Christianity, service to neighbors, family, and loved ones, and patriotism, service to the nation. Rather than thinking of the war as an event distant from their lives, the inmates actively helped out the war effort, and the Christian inmates spread their philosophical beliefs regarding the war and their religious commitments.
 
 <div style="text-align: left;">
+<hr style="border: 2px solid #4CAF50;">
 
 ## **Citations**
 1. Pennsylvania Historical and Museum Commission; Harrisburg, Pennsylvania; Bertillion Hand Books; Series: 15.52
