@@ -358,7 +358,6 @@ input:focus {
 }
 .blogpost img{
 	max-width:50%;
-	float:right;
 }
 .container-collections ul{
 	list-style-type: none;
