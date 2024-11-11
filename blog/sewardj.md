@@ -41,7 +41,7 @@ As a Methodist elder, Welch represents the largest religious movement at the tim
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture2.jpg" alt="Image of the dilapidated chapel of ESP after the facility was abandoned." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 2: Dilapidated chapel of ESP after the facility was abandoned.
         </figcaption>
     </figure>
@@ -58,7 +58,7 @@ Welch describes his day-to-day actions in a journal article published by the Pen
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture3.jpg" alt="Image of abandoned chaplain's office with broken furniture and peeling paint." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 3: Abandoned chaplain's office with broken furniture and peeling paint.
         </figcaption>
     </figure>
@@ -89,7 +89,7 @@ He also provides some successful cases of released prisoners succeeding post-inc
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture4.jpg" alt="Image of abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 4: Abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets.
         </figcaption>
     </figure>
@@ -107,7 +107,7 @@ The prisoners of ESP were distraught by the investigation into him, offering to 
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 30%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture5.png" alt="Image of the article from the Umpire that was referenced." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 5: Article from the <i>Umpire</i> that was referenced.
         </figcaption>
     </figure>
@@ -134,11 +134,11 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 
 2. 1581 “Choir and Orchestra Give Song Service,” *Umpire*, June 28, 1916.
 
-3. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days,” Philadelphia Inquirer, January 19, 1920.
+3. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days,” *Philadelphia Inquirer*, January 19, 1920.
 
 4. 2856 “Honor Cub Notes,” *Umpire*, July 18, 1917.
 
-5. Pennsylvania Prison Society, Journal of Prison Discipline and Philanthropy, vol. 40, 1901, https://www.gutenberg.org/files/56904/56904-h/56904-h.htm.
+5. Pennsylvania Prison Society, *Journal of Prison Discipline and Philanthropy*, vol. 40, 1901, https://www.gutenberg.org/files/56904/56904-h/56904-h.htm.
 
 6. Pennsylvania Prison Society.
 
@@ -152,7 +152,7 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 
 11. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
 
-12. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days”; “Bury Prison Chaplain,” Philadelphia Inquirer, January 22, 1920.
+12. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days”; “Bury Prison Chaplain,” *Philadelphia Inquirer*, January 22, 1920.
 
 13. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
 
