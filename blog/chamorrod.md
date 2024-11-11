@@ -26,10 +26,10 @@ Canary birds were mentioned over 30 times in the local Eastern State newspaper, 
 <img src="/assets/img/forexchange.jpeg" width="333" height="42">
 
 ## Canary Bird Singers
-
+<img src="/assets/img/forsalesinger.jpeg" width="285" height="53">
+<br></br>
 Consistently, articles written by the incarcerated men in The Umpire mentioned the canaries, explicitly highlighting their beautiful singing in poems and stories. One can assume that these canaries could sing and make melodies, making them more valuable to the prison and more comforting to the incarcerated men in these small, dark cells.
 <br></br>
-<img src="/assets/img/forsalesinger.jpeg" width="285" height="53">
 <img src="/assets/img/tombsangel.jpeg" width="219" height="104">
 <br></br>
 Below is an audio of a canary bird singing a melody recorded through a microphone. This audio gives a peek into what made canary birds so “sweet singing,” as mentioned by the men
@@ -48,11 +48,11 @@ Carl Hoffman, labeled B 5575, was an incarcerated person who the Eastern State i
 <img src="/assets/img/ancestry.jpeg" width="181" height="267">
 
 ## Emotional Impact of Birds
-
+<img src="/assets/img/funeralbird.jpeg" width="464" height="149">
+<br></br>
 Although not a typical pet outside of Eastern State, canary birds have been shown to have a significant emotional impact on the men in the penitentiary. The canaries were a ray of sweetness, colorfulness, and light compared to the solitude and darkness within these buildings and cells. However, this stark contrast between the incarcerated men's crime and these innocent birds could hint at why they cared for them this much. There were instances of reporting on the deaths of a canary bird that would lay a heavy hand, signifying the influence these pets had on the them. 
 <br></br>
 <img src="/assets/img/canarystory.jpeg" width="307" height="347">
-<img src="/assets/img/funeralbird.jpeg" width="464" height="149">
 <br></br>
 On the other hand, even when speaking and telling stories about these birds, they would project actual human emotions onto them. These stories could be interpreted as the incarcerated men trying to humanize these animals. Although these birds offered joy and companionship at Eastern State, it's still hard to reconcile the contrast to some of the major crimes these men committed. A solid underlying tension tells two sides and perspectives to these birds and men.
 
