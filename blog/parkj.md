@@ -12,7 +12,7 @@ tags:
 The Eastern Echo magazine, leveraged color in a restrained yet impactful way, influenced significantly by the printing technologies available at the time. The magazine’s layout was a single gathering of bifolium stapled in the middle. Thus each sheet was folded to create two leaves of the magazine. There were different types of binding methods however, commonly used was the saddle wire stitch. 
 
 ![test image](/assets/img/parkj-1.jpeg)
-![test image](/assets/img/parkj-22.jpeg)
+![test image](/assets/img/parkj-2.jpeg)
 
 For example, this is the first and last page of the magazine, but they would have been printed on the same sheet, which is why the color and even designs look similar. Walter Stepper and John Greco, photographers, and Robert Cullen, William Wright, and Robert Yurkin, artists, created the visuals for the Spring 1958 edition. 
 
