@@ -17,14 +17,14 @@ I was in your shoes just a few days ago, my first time encountering anything rel
 In this short excerpt, I hope to guide you through the life of a particular incarcerated person. “Yeap” -his real name George Washington Yeaple- who was someone more than just four tiny prints of character in *The Umpire*. The listed questions before each “eras” are my intuitive thoughts that lead the research. Hopefully my thoughts resemble that of yours, and we are able to resolve our curiosities together. 
 
 ### [Table of Content]
-1. Before Prison Era  *1880 - 1904*
-2. B2927 to B6031 Era  *1905 - 1912*
-3. Development Era  *1912 - 1913*
-4. Discharge Era  *1913*
-5. Settling Down Era  *1914 - 1957*
+*1880 - 1904* Before Prison Era
+*1905 - 1912* B2927 to B6031 Era
+*1912 - 1913* Development Era
+*1913* Discharge Era
+*1914 - 1957* Settling Down Era
 
-### {Before Prision Era}
-![ad image](printing-in-prisons/assets/img/hkimSales.png) 
+### [Before Prision Era]
+![ad image](/assets/img/hkimSales.png) 
 *The Umpire 1913_149*
 
 Who are these people behind these ads? 
@@ -33,15 +33,15 @@ Who is “Yeap”-*what an interesting nickname!*-and is that his real name?
 On January 27th, 1880, George Washington Yeaple was born in York county, Pennsylvania.
 Yeaple inherited not only his parent’s blue gray eyes, but also brown hair. His darker complexion settled as he went to both public and private school until he was 15 years old, or as he was working as an apprentice printer. 
 
-### {B2927 to B6031 Era}
+### [B2927 to B6031 Era]
 
 So why was Yeap in prison? 
 
 Yeaple had a tendency for larceny. 
 Attempted robbery landed him in Eastern State Penitentiary (ESP) for the first time when he was 23 years old as B2927. He was imprisoned twice more for larceny before returning to ESP as a 31 year old– now as B6031 and “Yeap”.
 
-### {Development Era}
-![the umpire](assets/img/hkimtheumpire-1.png)
+### [Development Era]
+![the umpire](/assets/img/hkimtheumpire-1.png)
 *The Umpire 1913_025*
 
 What was so special about Yeap? 
@@ -50,19 +50,19 @@ Why did he get a nickname?
 Yeap is mentioned in The Umpire, an internally created and distributed magazine in ESP. Fitting to the title, included were weekly updates about baseball games organized within. 
 From a printer who “fanned” in his first game, Yeap grows as a “star baseball pitcher”, who features in an all-star team!
 
-![shawl](assets/img/hkimshawl.jpg)
+![shawl](/assets/img/hkimshawl.jpg)
 
 Another column Yeap often appears in is FOR SALES, where he sells custom order shawls and tidies. Within the time he was incarcerated, he gained a “reputation for making some of the best”.
 
-### {Discharge Era}
-![discharge](assets/img/hkimdischarge-1.png)
+### [Discharge Era]
+![discharge](/assets/img/hkimdischarge-1.png)
 *The Umpire 1913_174*
 
 As a star baseball player and talented artist, Yeap builds his name, more widely known as “Yeap” than George, and connection in ESP, “leaving a host of friends who wish him well”. This included William Mitchell, the author and editor of the section wishing Yeap farewell “into the cold world”. 
 Whether that was literal -*his discharge was during the winter*- or not, Mitchell highlights his friendship with Yeap, and how well Yeap was integrated into the ESP community. 
 He is discharged as a 32 year old. 
 
-### {Settling Down Era}
+### [Settling Down Era]
 
 What happened to Yeap after he was discharged?
 
@@ -70,7 +70,7 @@ Within the span of 3 years after discharge, Yeaple not only moved out of his par
 
 After Yeap’s incarceration at ESP, he did not commit any more larceny, became financially independent from his parents, and built a loving family with Margaret. His time at ESP marked a turning point in his life, from a frequent convict of larceny to a patriarch of a family. 
 
-![eel](assets/img/hkimeel.png)
+![eel](/assets/img/hkimeel.png)
 
 Yeaple is not mentioned in *The Umpire* after his release. The only other time Yeaple is featured in printing is in the newspaper *The Harrisburg Telegraph*, in which he is praised for catching an “immense eel”. 
 
