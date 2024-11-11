@@ -96,7 +96,7 @@ He also provides some successful cases of released prisoners succeeding post-inc
 </div>
 
 <p style="text-align:justify;">
-Welch was depicted in the *Umpire* as being much beloved, although they likely would not have published any negative sentiment about him even if some harbored it. In one instance, in 1918, he was presented with a “silver loving cup” by “almost every church in the city” to celebrate “his efforts to cooperate with them in looking after the spiritual needs of the prisoners in that institution.” At the time of this award, Welch had just turned 82 years old and had served as chaplain of ESP for 27 years.<sup>10</sup> 
+Welch was depicted in the <i>Umpire</i> as being much beloved, although they likely would not have published any negative sentiment about him even if some harbored it. In one instance, in 1918, he was presented with a “silver loving cup” by “almost every church in the city” to celebrate “his efforts to cooperate with them in looking after the spiritual needs of the prisoners in that institution.” At the time of this award, Welch had just turned 82 years old and had served as chaplain of ESP for 27 years.<sup>10</sup> 
 
 <p style="text-align:justify;">
 In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate [the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup> </p>
@@ -130,13 +130,13 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 
 **References**
 
-1. 1579 “Episcopal Services and Baptism,” Umpire, June 21, 1916. 
+1. 1579 “Episcopal Services and Baptism,” *Umpire*, June 21, 1916. 
 
-2. 1581 “Choir and Orchestra Give Song Service,” Umpire, June 28, 1916.
+2. 1581 “Choir and Orchestra Give Song Service,” *Umpire*, June 28, 1916.
 
 3. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days,” Philadelphia Inquirer, January 19, 1920.
 
-4. 2856 “Honor Cub Notes,” Umpire, July 18, 1917.
+4. 2856 “Honor Cub Notes,” *Umpire*, July 18, 1917.
 
 5. Pennsylvania Prison Society, Journal of Prison Discipline and Philanthropy, vol. 40, 1901, https://www.gutenberg.org/files/56904/56904-h/56904-h.htm.
 
@@ -148,7 +148,7 @@ Welch’s dismissal and demise being so close together is curious, and the *Phil
 
 9. Pennsylvania Prison Society.
 
-10. 4437 “Penitentiary Chaplain Presented with Silver Loving Cup,” Umpire, December 4, 1918. 
+10. 4437 “Penitentiary Chaplain Presented with Silver Loving Cup,” *Umpire*, December 4, 1918. 
 
 11. “Prison Chaplain 28 Years; Ousted; Dies in 4 Days.”
 
