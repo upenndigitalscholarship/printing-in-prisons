@@ -17,7 +17,7 @@ tags:
     <title>Life of Howard Housel or B-6861</title>
  <style>
         /* Style for the section titles */
-        h3 {
+        h3.baseball {
             font-size: 2em; /* Makes the title larger */
             margin-top: 0.5em;
             margin-bottom: 0.5em;
@@ -74,7 +74,7 @@ tags:
 
 <!-- Sections for each base -->
 <section id="first">
-    <h3>First Base: Background & Incarceration</h3>
+    <h3 class="baseball">First Base: Background & Incarceration</h3>
     <p>Howard Otis Housel, better known as Inmate B-6861 in the Eastern State Penitentiary, was an inmate that was imprisoned from 1913 to 1916. During his time in the Eastern State Penitentiary, he published one piece of advice and a poem, showing that he was an active writer in the prison.
 Howard Otis Housel was born on March 22, 1887 in Trenton, New Jersey and the record indicates that he received 12 years of education, which was not common during the 1890s when the percentage of 17 year olds that graduated from high school was around 3.5%. <sup><a href="#ref1">[1]</a></sup> This level of literacy allowed Housel to actively publish his writing in the Umpire, a newspaper published in the Eastern State Penitentiary. He was sentenced to two years and six months along with a fine of $1.00 for uttering a forgery. Though the document he forged remains unclear, it is possible that his high level of literacy played a huge role in a forgery.</p>
 <!-- Add the image here -->
@@ -92,7 +92,7 @@ solid #ccc; border-radius: 5px;">
 <a href="#baseball-map" class="back-to-map">Back to Baseball Map</a>
 
 <section id="second">
-    <h3>Second Base: You Will Be Glad</h3>
+    <h3 class="baseball">Second Base: You Will Be Glad</h3>
     <p><strong>YOU WILL BE GLAD</strong></p>
    <!-- Centered Audio Player -->
 <div class="audio-container">
@@ -133,7 +133,7 @@ solid #ccc; border-radius: 5px;">
 
 
 <section id="third">
-    <h3>Third Base: Hustling Ball Players</h3>
+    <h3 class="baseball">Third Base: Hustling Ball Players</h3>
     <p><strong>HUSTLING BALL PLAYERS</strong></p>
     <!-- Centered Audio Player -->
 <div class="audio-container">
@@ -199,7 +199,7 @@ With the power to organize the league and teams amongst themselves, the baseball
 </section>
 
 <section id="Home Plate">
-    <h3>Home Base: Life After Eastern State Penitentiary</h3>
+    <h3 class="baseball">Home Base: Life After Eastern State Penitentiary</h3>
     <p>It is unclear when he was released but with the selling of mandolin in the March 1916 publication of The Umpire and the minimum sentence being 2 years and 6 months, it can be guessed that he was released on May 10th, 1916. </p> 
 
 <p>Despite the limited evidence of his life after Eastern State Penitentiary, his name was found in the local newspaper of New Jersey as one of the men that was enlisted and sent to Camp Greenleaf. He was enlisted to serve in World War I, confirmed by the U.S. World War I Draft Registration Cards written in 1917. His dedication to serve for the nation reflects the change in values after serving his sentence in the Eastern State Penitentiary. As reflected in the “You will be Glad” section, he valued respect and integrity during his imprisonment and his service in World War I well reflects his core values. Perhaps, he sought serving for the nation as a way to compensate for the wrongdoings in the past.</p> 
@@ -221,7 +221,7 @@ With the power to organize the league and teams amongst themselves, the baseball
 <a href="#baseball-map" class="back-to-map">Back to Baseball Map</a>
 
 </section>
-<h3>References</h3>
+<h3 class="baseball">References</h3>
 <ol>
     <li id="ref1">Mintz, Steven. “Statistics: Education in America, 1860-1950.” Statistics: Education in America, 1860-1950 | Gilder Lehrman Institute of American History. Accessed November 11, 2024. <a href="https://www.gilderlehrman.org/history-resources/teacher-resources/statistics-education-america-1860-1950" target="_blank">https://www.gilderlehrman.org/history-resources/teacher-resources/statistics-education-america-1860-1950</a> </li>
     <li id="ref2">U.S. Bureau of Labor Statistics. “CPI Inflation Calculator.” U.S. Bureau of Labor Statistics. Accessed November 11, 2024. <a href="https://data.bls.gov/cgi-bin/cpicalc.pl?cost1=7.50&year1=191603&year2=202409" target="_blank">https://data.bls.gov/cgi-bin/cpicalc.pl?cost1=7.50&year1=191603&year2=202409</a> </li>
@@ -229,7 +229,7 @@ With the power to organize the league and teams amongst themselves, the baseball
     <li id="ref4">Hayburn, Tim. “Baseball Behind Bars: Prison Baseball at Eastern State Penitentiary in the Early Twentieth Century.” Journal of Sport History 34, no. 2 (2007): 253–70. <a href="http://www.jstor.org/stable/43610019" target="_blank">http://www.jstor.org/stable/43610019</a> </li>
 </ol>
 
-<h3> Image References </h3>
+<h3 class="baseball"> Image References </h3>
 <ol>
 <li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=747167&collectionId=61173&tid=&pid=&queryId=483164ee-d45b-438f-9500-8497b650a9ce&_phsrc=VFw138&_phstart=successSource" target="_blank">Baseball Field</a> </li>
 <li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=161445&collectionId=61173&tid=&pid=&queryId=00fabb3a-e30e-4e5a-b8c5-bfa829d32987&_phsrc=VFw140&_phstart=successSource" target="_blank">Image 1 </a> </li>

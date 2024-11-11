@@ -11,8 +11,10 @@ tags:
 ---
 # Socrates Cantoral, A Jack of All Trades
 ### Artist Socrates Cantoral is a model of self-reclamation and morality at Eastern State Penitentiary.
-![Alt text](/assets/img/Echo-Fall-1966-page-036.jpeg)
+
 ## About the Artist
+![Alt text](/assets/img/Echo-Fall-1966-page-036.jpeg) 
+
 Socrates Raymond “Sook” Cantoral was the epitome of the rehabilitation effort that Eastern State Penitentiary sought to initiate for all prisoners. As an illustrator, a drummer, a Dental lab employee, and a “known and respected” man by “inmates and personnel alike”[^1^], he sought to transcend the limitations of his crime and better himself through education, art, and athletic activity—a relentless effort for self-reclamation. A generous man with a big heart, he even contributed the majority of his prison earnings to his mother, the main person whose pride he hoped to reclaim[^1]. Cantoral was a dedicated family man, forming a bond with his nephew John Cantoral that extended “past ordinary family ties” [^2^]. A humble, decent, and motivated man, Socrates Cantoral was a model of penitence and achievement at Eastern State. 
 
 Cantoral’s artistic journey through the Eastern Echo evokes a struggle to attain a sense of optimism which he admits to not have possessed prior, while simultaneously seeking to mold his image in the eyes of those who controlled the length of his sentence[^1^]. Cantoral’s body of work demonstrates a series of pieces that would not have existed without the experience of incarceration–Socrates was pushed into new creative pursuits as a means of passing his time and reclaiming a sense of identity and self-esteem. After having completed only grammar school before his sentence, he knew that attaining a true education and embarking in new creative pursuits would help him become a functioning member of the real world[^1^].
@@ -41,23 +43,24 @@ A man only thinks something is difficult if he is doing it with reluctance and a
 [1]: Williams, Thomas. “Profile of Socrates Cantoral,” The Eastern Echo, 1964.
 
 ## Works
-  <img src="/assets/img/Echo-summer-1965-page1.png" width="700">
+  <img src="/assets/img/Echo-summer-1965-page1.png" width="500">
   
   Eastern Echo, Summer 1965, Page 1. 
 
-<img src="/assets/img/Echo-Summer-1965-Page06.jpeg" width="700">
+<img src="/assets/img/Echo-Summer-1965-Page06.jpeg" width="500">
 
 Eastern Echo, Summer 1965, Page 6.
 
-<img src="/assets/img/Echo-Summer-1963-Page14.jpeg" width="700">
+<img src="/assets/img/Echo-Summer-1963-Page14.jpeg" width="500">
 
 Eastern Echo, Summer 1963, Page 14. 
 
-![test image](/assets/img/Echo-summer-1963-page20.jpeg)
+<img src="/assets/img/Echo-summer-1963-page20.jpeg" width="500">
 
 Eastern Echo, Summer 1963, Page 20. 
 
 ![test image](/assets/img/Echo-summer-1963-page31.jpeg)
+
 
 Eastern Echo, Summer 1963, Page 31. 
 
