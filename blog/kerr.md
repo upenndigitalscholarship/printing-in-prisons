@@ -1,5 +1,5 @@
 ---
-title: This is my first post.
+title: B-6594's Moral Essays
 author: Rachel Ker
 description: My Blog about agile frameworks.
 thumbnail: testimage.jpg
@@ -9,12 +9,21 @@ layout: post
 tags:
   - blog
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+![test image](1.png)
+![test image](3.png)
+![test image](4.png)
+![test image](5.png)
+![test image](6.png)
+![test image](7.png)
+![test image](8.png)
+![test image](9.png)
+![test image](10.png)
+![test image](11.png)
+![test image](12.png)
+![test image](13.png)
+![test image](14.png)
+![test image](15.png)
+![test image](16.png)
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-![test image](/assets/img/brahms-topright.jpeg)
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
