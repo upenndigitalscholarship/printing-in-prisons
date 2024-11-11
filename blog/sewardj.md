@@ -39,9 +39,9 @@ Welch served in the Union army as a chaplain throughout the American Civil War a
 As a Methodist elder, Welch represents the largest religious movement at the time which is unique as a distinctly American Protestant denominational affiliation. The emphasis on reform in prisons is highly related to Christian and specifically Protestant ideals, as Max Weber would suggest. It would not be a mistake that the “Moral Instructor” of the prison was a Methodist, especially as Methodists and other mainline Protestant groups became enamored with the social gospel—the public theology which suggests Christians should work to improve society through legal and personal reform.</p>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 40%;">
+    <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 45%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture2.jpg" alt="Image of the dilapidated chapel of ESP after the facility was abandoned." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 2: Dilapidated chapel of ESP after the facility was abandoned.
         </figcaption>
     </figure>
@@ -58,7 +58,7 @@ Welch describes his day-to-day actions in a journal article published by the Pen
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture3.jpg" alt="Image of abandoned chaplain's office with broken furniture and peeling paint." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 3: Abandoned chaplain's office with broken furniture and peeling paint.
         </figcaption>
     </figure>
@@ -89,7 +89,7 @@ He also provides some successful cases of released prisoners succeeding post-inc
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: left; display: flex; flex-direction: column; align-items: center; margin: 20px 20px 20px 0; width: 40%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture4.jpg" alt="Image of abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 4: Abandoned chaplain's office with religious murals on the wall surrounded by peeling paint and empty cabinets.
         </figcaption>
     </figure>
@@ -101,24 +101,27 @@ Welch was depicted in the *Umpire* as being much beloved, although they likely w
 <p style="text-align:justify;">
 In the beginning of 1920, after 28 years as chaplain, he was suddenly dismissed from his position. The governor had started an investigation into him and Prison Inspector William A. Dunlap for conspiring against Warden Robert McKenty. In what turns out to be the very last letter Welch ever writes, he responds to the Rev. Thomas Latimer, “I had no idea of being involved in any controversy about the prison until the Governor announced his intention to make an investigation and that it was ‘a close corporation with a one-man power’—those were his words.” In response to Latimer writing to Welch that he was on his side, Welch wrote, “I appreciate \[the] sympathy. But you are off about ‘my side.’ I have no side. It is God’s or nothing.” Welch concluded his last letter with the statement: “I am satisfied; my case is with God, not the Governor.”  Only four days after his abrupt dismissal, Welch died at the age of 83.<sup>11</sup> </p>
 
-<p style="text-align:justify;">
-The prisoners of ESP were distraught by the investigation into him, offering to write letters to the committee on his behalf. Upon his death and interment at Laurel Hill Cemetery in Philadelphia’s Fairmount Park, ESP prisoners sent flowers and a letter “expressing the unanimous sentiment of all the inmates” of their regret over Welch’s passing.<sup>12</sup> </p>
-
 <div style="text-align: justify; margin-bottom: 20px;">
     <figure style="float: right; display: flex; flex-direction: column; align-items: center; margin: 20px 0 20px 20px; width: 30%;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/seward-picture5.png" alt="Image of the article from the Umpire that was referenced." style="width: 100%;">
-        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: inherit;">
+        <figcaption style="font-size: 0.7em; color: gray; text-align: center; margin-top: 5px; width: 100%;">
             Image 5: Article from the <i>Umpire</i> that was referenced.
         </figcaption>
     </figure>
 </div>
 
 <p style="text-align:justify;">
+The prisoners of ESP were distraught by the investigation into him, offering to write letters to the committee on his behalf. Upon his death and interment at Laurel Hill Cemetery in Philadelphia’s Fairmount Park, ESP prisoners sent flowers and a letter “expressing the unanimous sentiment of all the inmates” of their regret over Welch’s passing.<sup>12</sup> </p>
+
+<p style="text-align:justify;">
 Welch’s dismissal and demise being so close together is curious, and the *Philadelphia Inquirer* addressed this by publishing the account of Joseph Welch’s son, B. Harvey Welch, who claimed his father’s health had been failing for years and that he had been “exceptionally cheerful of late and had accepted his discharge.”  It remains interesting that as soon as Welch’s vocation and charge in life was over, he also passed.<sup>13</sup> </p>
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
