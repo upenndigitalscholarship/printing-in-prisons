@@ -58,5 +58,6 @@ On the other hand, even when speaking and telling stories about these birds, the
 
 ## Image and Information Sources
 All images and audio are fair use and come from The Umpire, Creative Commons, Ancestry Database and/or before 1924
+Images and audio of Canary birds come from Creative Commons, and article images from The Umpire.
 
 Information gathered from easternstate.org and their historic structures report
