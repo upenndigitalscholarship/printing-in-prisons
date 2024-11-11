@@ -14,7 +14,7 @@ tags:
 
 <div style="text-align: justify; margin-bottom: 20px;">
    
-  <div style="float: right; margin-left: 20px; width: 30%; clear: both;">
+  <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/recordgoldstein.png" alt="Incarceration Record" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
             This is a screenshot of Harry Haspel's incraceration record from The Eastern State Penitentiary
