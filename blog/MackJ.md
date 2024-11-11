@@ -1,5 +1,5 @@
 ---
-title: Barbershops Talks Behind Bars
+title: Barbershop Talks Behind Bars
 author: Jayson Mack
 description: I will illustrate how barbers served to defy the dehumanizing standards of Eastern State Penitentiary
 thumbnail: Mack-1.png
