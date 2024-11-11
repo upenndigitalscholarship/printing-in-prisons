@@ -4,7 +4,7 @@ author: Timothy Lie
 description: Music, as we know it, is often used for entertainment. However, for incarcerated individuals at Eastern Statement Penitentiary, music was a lifeline for social interaction and a mode for finding community in isolation.
 thumbnail: Lie-thumbnail.jpg
 alt-text: an image of a cell block corridor within Eastern State Penitentiary
-date: 2018-11-11
+date: 2024-11-11
 layout: post
 tags:
   - blog
