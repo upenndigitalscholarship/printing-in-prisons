@@ -13,7 +13,7 @@ tags:
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="/assets/img/smith-thumbnail.png" alt="This is an image of an ad section from The Umpire">
+    <img src="/assets/img/smith-thumbnail.png/" alt="This is an image of an ad section from The Umpire" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of an ad section from <em>The Umpire</em>
     </p>
@@ -29,12 +29,17 @@ When we think about prisons, including Eastern State Penitentiary, we often imag
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: left; margin-right: 20px;">
-    <img src="./assets/img/smith-card.png" alt="This is an image of a Christmas Card from 1913" style="width: 100%;">
+    <img src="/assets/img/smith-card.png/" alt="This is an image of a Christmas Card from 1913" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of a Christmas card from <em>1913</em>
     </p>
 </div>
-
+<div style="width: 40%; float: left; margin-right: 20px;">
+    <img src="/assets/img/smith-bob.png" alt="This is an example poem written by Jingles" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is an example poem written by <em>Jingles</em>
+    </p>
+</div>
 Edward Franklin, better known as "Jingles," was a passionate poet from New York City whose talents reached far beyond poetry. His love for creating and sharing his passions did not end following his sentencing. At the age of 24, Edward continued to focus his creativity into writing heartfelt poems, which can be seen by the image on the right, and making cards that brought moments of light to his peers. Jingles’s poems were published a number of times throughout his time at Eastern State which implies that his work was well received. These poems, as seen by the example, were often positive and upbeat, offering a lighthearted outlet for readers. The example poem describes “Bob,” who we can assume is a fellow incarcerated person at Eastern State who led a convict band. Through his band, Bob fostered a spirit of companionship and demonstrated how individuals used their talents to create feelings of hope and positivity. Through his poems and cards, Jingles spread joy, reminding everyone around him that their lives held meaning far beyond the physical prison walls. His cards celebrated holidays, milestones, and small triumphs, helping his fellow inmates feel connected to a world that often felt far off. Jingles’ efforts highlighted the need for community and love, even in the most isolated circumstances. His legacy portrays how creativity and human connection can flourish in unlikely places, challenging the belief of prison as solely a place of punishment and correction.
 
 </div>
@@ -45,7 +50,7 @@ Edward Franklin, better known as "Jingles," was a passionate poet from New York 
 <div style="text-align: justify;">
 
 <div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="./assets/img/gracie-scarf.png" alt="This is an image of a woman wearing a scarf in the early 20th century" style="width: 100%;">
+    <img src="/assets/img/gracie-scarf.png" alt="This is an image of a woman wearing a scarf in the early 20th century" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of a woman wearing a scarf in the early 20th century.
     </p>
