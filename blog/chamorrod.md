@@ -26,6 +26,7 @@ Canary birds were mentioned over 30 times in the local Eastern State newspaper, 
 <img src="/assets/img/forexchange.jpeg" width="333" height="42">
 
 ## Canary Bird Singers
+
 Consistently, articles written by the incarcerated men in The Umpire mentioned the canaries, explicitly highlighting their beautiful singing in poems and stories. One can assume that these canaries could sing and make melodies, making them more valuable to the prison and more comforting to the incarcerated men in these small, dark cells.
 <br></br>
 <img src="/assets/img/forsalesinger.jpeg" width="285" height="53">
@@ -47,6 +48,7 @@ Carl Hoffman, labeled B 5575, was an incarcerated person who the Eastern State i
 <img src="/assets/img/ancestry.jpeg" width="181" height="267">
 
 ## Emotional Impact of Birds
+
 Although not a typical pet outside of Eastern State, canary birds have been shown to have a significant emotional impact on the men in the penitentiary. The canaries were a ray of sweetness, colorfulness, and light compared to the solitude and darkness within these buildings and cells. However, this stark contrast between the incarcerated men's crime and these innocent birds could hint at why they cared for them this much. There were instances of reporting on the deaths of a canary bird that would lay a heavy hand, signifying the influence these pets had on the them. 
 <br></br>
 <img src="/assets/img/canarystory.jpeg" width="307" height="347">
