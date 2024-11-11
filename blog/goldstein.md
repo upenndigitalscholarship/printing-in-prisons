@@ -39,8 +39,8 @@ contributions to his community, specifically his religious values and rituals.
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
             This is an article from the Newspaper, the Umpire, which mentions Harry Haspel.
         </p>
-    
   </div>
+
 </div>
 
 Harry had an educational background of about 4 years in public school, where he learned reading and writing. Harry’s life took an unexpected turn when he was incarcerated at Eastern State Penitentiary in 1913. Despite the isolating and harsh conditions of a prison, he drew on his background to provide religious leadership to the community he shared with fellow prisoners. On the Jewish High Holidays, specifically Rosh Hashanah, the Jewish New Year, he acted as the Cantor and led his community in Hebrew prayer and song. Although he was accompanied by a choir, he ultimately was the one leading his congregation in beautiful melodies. His background allowed him to share his wisdom and comprehension of religious texts with his Jewish community during services, enhancing their understanding and connection to Judaism.
@@ -52,12 +52,14 @@ In the prison community, where Harry was incarcerated, the Jewish population was
 ## Legacy and Tradition
 
 <div style="text-align: justify; margin-bottom: 20px;">
-    <div style="float: right; margin-left: 20px; width: 50%; clear: both;">
+    
+  <div style="float: right; margin-left: 20px; width: 50%; clear: both;">
         <img src="https://raw.githubusercontent.com/upenndigitalscholarship/printing-in-prisons/main/assets/img/synagoguegoldstein.png" alt="Photo taken from Eastern State Penitentiary" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
             This is a photo taken from Eastern State Penitentiary in October of 2024. It is a display of the synagogue in 1959, which was built in 1924. 
         </p>
     </div>
+
 </div>
 
 Even in challenging times, the Jewish community found a place of sanctuary and enduring  connection. Harry’s leadership and participation in Jewish practices, specifically on the high holidays, contributed to a larger legacy of Judaism within his community. His efforts helped to preserve tradition that would continue beyond his time.
