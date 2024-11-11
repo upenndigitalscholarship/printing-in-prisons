@@ -53,8 +53,8 @@ In the prison community, where Harry was incarcerated, the Jewish population was
             This is a photo taken from Eastern State Penitentiary in October of 2024. It is a display of the synagogue in 1959, which was built in 1924. 
         </p>
     </div>
-Even in challenging times, the Jewish community found a place of sanctuary and enduring  connection. Harry’s leadership and participation in Jewish practices, specifically on the high holidays, contributed to a larger legacy of Judaism within his community. His efforts helped to preserve tradition that would continue beyond his time.
 </div>
+Even in challenging times, the Jewish community found a place of sanctuary and enduring  connection. Harry’s leadership and participation in Jewish practices, specifically on the high holidays, contributed to a larger legacy of Judaism within his community. His efforts helped to preserve tradition that would continue beyond his time.
 
 <p style="margin-top: 20px;"></p>
 
