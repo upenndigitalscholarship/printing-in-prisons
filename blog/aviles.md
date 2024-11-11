@@ -10,9 +10,9 @@ tags:
   - blog
 ---
 <div style="display: flex; align-items: flex-start;">
-   <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 200px; height: auto; margin-left: 20px;">
+   <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 250px; height: auto; margin-left: 20px;">
 
-  <div style="width: 500px;">
+  <div style="width: 600px;">
 <p style="margin: 10px 0;">    
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls.
   </p> 
@@ -28,7 +28,7 @@ With this historical context in mind, we can compare what happened to these isla
 
   <!-- Image -->
   <img src="/assets/img/aviles-picture2.png" alt="Picture from The Umpire article Our New Possesions" style="width: 300px; height: auto; margin-right: 20px;">
-  <div style="width: 200px;" >
+  <div style="width: 300px;" >
     <h3 style="margin: 0;">Quote from "Our New Possessions"</h3>
 
    <blockquote style="font-style: italic; margin: 5px 0;">
