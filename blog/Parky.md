@@ -92,13 +92,6 @@ solid #ccc; border-radius: 5px;">
 <!-- Back to Map Button on a new line -->
 <a href="#baseball-map" class="back-to-map">Back to Baseball Map</a>
 
-<style>
-    /* Optional: Add margin to create space between the image and the button */
-    .image-container {
-        margin-bottom: 1em; /* Adjust spacing as needed */
-    }
-</style>
-
 <section id="second">
     <h3>Second Base: You Will Be Glad</h3>
     <p><strong>YOU WILL BE GLAD</strong></p>
@@ -228,12 +221,6 @@ With the power to organize the league and teams amongst themselves, the baseball
 <!-- Back to Map Button on a new line -->
 <a href="#baseball-map" class="back-to-map">Back to Baseball Map</a>
 
-<style>
-    /* Optional: Add margin to create space between the image and the button */
-    .image-container {
-        margin-bottom: 1em; /* Adjust spacing as needed */
-    }
-</style>
 </section>
 <h3>References</h3>
 <ol>
