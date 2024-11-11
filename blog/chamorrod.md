@@ -34,8 +34,7 @@ Consistently, articles written by the incarcerated men in The Umpire mentioned t
 Below is an audio of a canary bird singing a melody recorded through a microphone. This audio gives a peek into what made canary birds so “sweet singing,” as mentioned by the men
 <br></br>
 <audio controls>
-  <source src="assets/img/audiobird.ogg" type="audio/ogg">
-  <source src="assets/img/audiobird.mp3" type="audio/mpeg">
+  <source src="/assets/img/audiobird.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
