@@ -15,7 +15,7 @@ Eastern State Penitentiary, one of the most infamous prisons in early 20th-centu
 
 ![facade image](/assets/img/facade_sourcecc.jpg)
 
-Excerpt from the Umpire: "Someone has said, "It takes all kinds of people to make a world.” It may aptly be said, It takes all kinds of people to make a prison. To prove this, we have all kinds in the Honor and Friendship Club. Among them is Jimmie Double-O, who on July 25th celebrated the first year of his life—and in the Eastern State Penitentiary. He is the youngest member of the H. F. C."
+Excerpt from the Umpire: "Someone has said, 'It takes all kinds of people to make a world.' It may aptly be said, It takes all kinds of people to make a prison. To prove this, we have all kinds in the Honor and Friendship Club. Among them is Jimmie Double-O, who on July 25th celebrated the first year of his life—and in the Eastern State Penitentiary. He is the youngest member of the H. F. C."
 
 Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
 
