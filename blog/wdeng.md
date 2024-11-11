@@ -35,5 +35,13 @@ The Eastern State Penitentiary (ESP) stands as a historical monument, not only f
 5. Recognition and Appreciation
   The contributions of the women at ESP did not go unnoticed. Their efforts were recognized and appreciated by both the prison administration and their fellow inmates. Events like the pinning of H.F.C. buttons were marked by humorous and light-hearted interactions, highlighting the positive impact of the women's presence in the prison community. These moments of recognition underscored the importance of their roles in maintaining a positive atmosphere and fostering a sense of belonging within the prison.
 
+  <div style="width: 300px;" >
+    <h3 style="margin: 0;">Quote from Representative Delegate of the 2nd Block</h3>
+
+   <blockquote style="font-style: italic; margin: 5px 0;">
+    "We, the girls of the 2nd Block, wish to extend to you our sincere and heartfelt thanks for the entertainment furnished to us recently. Words cannot express to you our high appreciation of this courtesy which was extended to us and we congratulate you most cordially on the excellent result of the same."
+    </blockquote>
+  </div>
+
 ## Summary
 The involvement of women in the print shop at Eastern State Penitentiary illustrates their adaptability and willingness to contribute to the prison community in meaningful ways. By supporting the print shop's operations, women played a crucial role in the production of "The Umpire," demonstrating their ability to impact the prison's cultural and educational landscape. Their contributions, though often behind the scenes, were integral to the success of the print shop and the broader mission of fostering learning and creativity within the prison walls.
