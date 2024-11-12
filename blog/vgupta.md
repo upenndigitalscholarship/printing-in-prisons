@@ -26,7 +26,7 @@ During his life in prison Weber worked developing himself. He was an active part
 
 
 
-<img src="/assets/Vasuimg2.jpeg" alt="Honor Club notice written by Weber" width="500" height="700">
+<img src="/assets/img/Vasuimg2.jpeg" alt="Honor Club notice written by Weber" width="500" height="700">
 
 
 ## Becoming a Leader and Helping His Fellow Inmates:
