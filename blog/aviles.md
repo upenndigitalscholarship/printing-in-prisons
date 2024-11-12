@@ -10,7 +10,7 @@ tags:
   - blog
 --- 
 <div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="/assets/img/aviles-thumbnail.png/" alt="This is an image of an issue from The Umpire" style="width: 100%;">
+    <img src="/assets/img/aviles-thumbnail.jpg/" alt="This is an image of an issue from The Umpire" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of <em>The Umpire</em> issue of March 7th 1917
     </p>
