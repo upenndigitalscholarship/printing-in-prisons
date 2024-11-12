@@ -1,5 +1,5 @@
 ---
-title: American Expansionism at Eastern State
+title: American Expansionism at Eastern State Penitentiary
 author: Laura Aviles Rivera
 description: Reprinting in prisons and its effects on worldviews.
 thumbnail: aviles-thumbnail.jpg
