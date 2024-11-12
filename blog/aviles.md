@@ -1,6 +1,6 @@
 ---
-'title: American Expansionism at Eastern State
-a'uthor: Laura Aviles Rivera
+title: American Expansionism at Eastern State
+author: Laura Aviles Rivera
 description: Reprinting in prisons and its effects on worldviews.
 thumbnail: aviles-thumbnail.jpg
 alt-text: A picture of The Umpire
