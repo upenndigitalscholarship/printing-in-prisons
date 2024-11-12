@@ -72,6 +72,7 @@ The “lost” column created a mechanism for inmates to recover their missing i
 The Umpire’s advertisement column gives insights into the goods, services, and possessions circulating the penitentiary. In addition, it can illustrate elements of programming within the prison. Considering items like typewriters are available, we can see vocational programming and other skills may be present. Furthermore, having skilled laborers can allow other inmates to develop skills marketed in the column. Labor opportunities and the circulation of goods such as instruments demonstrate the dynamism and passion of prisoners. They strive to better themselves and fulfill their curiosity in a challenging environment. Perseverance is a prevalent motif in this advert column, and I would be curious to analyze further issues to see if this theme is sustained. 
 
 Bibliography: All images are from before the 1920s; therefore, each selection is under fair use.
+Modern photographs are fair use/have creative commons license for full usage.
 
 <style>
   img{
