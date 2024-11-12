@@ -14,18 +14,18 @@ tags:
 
 I was in your shoes just a few days ago, my first time encountering anything related to records of the incarcerated. The questions you have were also mine, the little curious voice chiming in every time I spotted something interesting. 
 
-In this short excerpt, I hope to guide you through the life of a particular incarcerated person. “Yeap” -his real name George Washington Yeaple- who was someone more than just four tiny prints of character in *The Umpire*. The listed questions before each “eras” are my intuitive thoughts that lead the research. Hopefully my thoughts resemble that of yours, and we are able to resolve our curiosities together. 
+In this short excerpt, I hope to guide you through the life of a particular incarcerated person. “Yeap” -his real name George Washington Yeaple- who was someone more than just four tiny prints of character in *The Umpire*. The listed questions associated with each “eras” are my intuitive thoughts that lead the research. Hopefully my thoughts resemble that of yours, and we are able to resolve our curiosities together. 
 
 ### [Table of Content]
-*1880 - 1904*  Before Prison Era
+Before Prison Era: *1880 - 1904*  
 
-*1905 - 1912*  B2927 to B6031 Era
+B2927 to B6031 Era: *1905 - 1912*  
 
-*1912 - 1913*  Development Era
+Development Era: *1912 - 1913*  
 
-*1913*  Discharge Era
+Discharge Era: *1913* 
 
-*1914 - 1957*  Settling Down Era
+Settling Down Era: *1914 - 1957* 
 
 ### [Before Prision Era]
 ![ad image](/assets/img/hkimSales.png) 
