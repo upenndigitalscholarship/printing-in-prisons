@@ -39,7 +39,7 @@ During his life in prison Weber worked developing himself. He was an active part
 ## Becoming a Leader and Helping His Fellow Inmates:
 Weber’s determination to improving himself wasn’t not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment to the club eventually becoming the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchase toys and other gifts for the children of those incarnated at the prison. This was just one of the many things Weber did as part of the honor club for those  incarnated with him, demonstrates Weber’s dedication to making a positive impact on those around him even from within prison while sentence to life in jail.
 
-<img src="/assets/img/Vasuimg10.jpeg" alt="Girl in a jacket" width="500" h
+<img src="/assets/img/Vasuimg10.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 
 ## The Honor Club's Support:
