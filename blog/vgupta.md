@@ -19,13 +19,6 @@ William Weber’s story in the archives starts in early 1893 when he was convict
 
 <img src="/assets/img/Vasuimg1.jpeg" alt="William Weber's record in the reformatory record" width="500" height="600">
 
-<div style="width: 40%; float: right; margin-left: 20px;">
-    <img src="/assets/img/Vasuimg1.jpeg/" alt="This is an image of William Weber's entry in the reformatory record" style="width: 100%;">
-    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        William Weber's record in the reformatory record
-    </p>
-</div>
-
 ## The Path to Rehabilitation: 
 While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life’s direction. This second chance to live seems to have sparked the beginnings of Weber’s transformation. Despite the grim circumstances, Weber didn’t allow his past to define his future. Weber instead began a journey of personal grown and rehabilitating, making the most of his time behind bars and trying to improve himself. 
 
