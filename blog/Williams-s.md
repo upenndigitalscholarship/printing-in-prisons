@@ -1,5 +1,5 @@
 ---
-title: Baseball at Estern State Penitentiary in 1913
+title: Baseball at Eastern State Penitentiary in 1913
 author: S.A.W
 description: An article discussing baseball at Eastern State Penitentiary and prominent individuals in the Eastern State Penitentiary League
 thumbnail: esp_baseball.jpg
