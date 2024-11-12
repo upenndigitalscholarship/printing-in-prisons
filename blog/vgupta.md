@@ -2,8 +2,8 @@
 title: From Death Row to Free Man
 author: Vasu Gupta
 description: Rehabilitation 
-thumbnail: testimage.jpg
-alt-text: this is a text image.
+thumbnail: Vasuimg9.jpeg
+alt-text: Record of William Weber's Parole
 date: 2024-11-11
 layout: post
 tags:
