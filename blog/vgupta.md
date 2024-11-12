@@ -1,5 +1,5 @@
 ---
-title: "From Death Row to Honor Club: The Journey of William Weber"
+title: From Death Row to Free Man
 author: Vasu Gupta
 description: Rehabilitation 
 thumbnail: testimage.jpg
@@ -10,8 +10,8 @@ tags:
   - blog
 ---
 
-## Introduction2
-The Printing in Prisons project offers a unique glimpse into the lives of incarcerated individuals, shedding light on their experiences, struggles, and triumphs. Among the many stories found within these archives, the journey of William Weber stands out as a testament to the resilience of the human spirit and the power of personal growth and rehabilitation. This essay will explore Weber's remarkable transformation from a multiple-time felon on death row to the vice president of the prison's honor club and, ultimately, to being granted parole.
+## Introduction 
+The Printing in Prisons project gives a view into the lives of incarcerated individual enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is William Weber’s journey. This essay will explore William Weber’s story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison’s honor club and later being paroled.
 
 
 ## Weber's Early Life and Convictions:
@@ -19,40 +19,45 @@ William Weber’s story in the archives starts in early 1893 when he was convict
 
 <img src="/assets/img/Vasuimg1.jpeg" alt="Girl in a jacket" width="500" height="600">
 
-The Path to Rehabilitation: 
+<div style="width: 40%; float: right; margin-left: 20px;">
+    <img src="/assets/img/Vasuimg1.jpeg/" alt="This is an image of William Weber's entry in the reformatory record" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        William Weber's record in the reformatory record
+    </p>
+</div>
+
+## The Path to Rehabilitation: 
 While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life’s direction. This second chance to live seems to have sparked the beginnings of Weber’s transformation. Despite the grim circumstances, Weber didn’t allow his past to define his future. Weber instead began a journey of personal grown and rehabilitating, making the most of his time behind bars and trying to improve himself. 
 
-During his life in prison Weber worked developing himself. He was an active participant in many prison programs and 
+During his life in prison Weber worked developing himself. He was an active participant in many prison programs that were designed to give incarcerated individuals supports in their efforts to rehabilitate themselves. Through his work with these programs including the honor club, Weber was able to earn the respect of his fellow incarcerated individuals in addition to the prison staff. 
+
 
 
 <img src="/assets/img/Vasuimg2.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 
-## Rising Through the Ranks and Making a Difference:
-Weber's commitment to personal growth did not go unnoticed. He gradually took on leadership roles within the prison community, eventually becoming the vice president of the prison's honor club. As vice president of the honor club, Weber helped to organize charitable initiatives, such as donating fifty dollars from the club's treasury to the Christmas Fund, which provided toys for the children of incarcerated individuals. This act of kindness brought joy to many young hearts and demonstrated Weber's dedication to making a positive impact, even from within the confines of the prison.
+## Becoming a Leader and Helping His Fellow Inmates:
+Weber’s determination to improving himself wasn’t not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment to the club eventually becoming the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchase toys and other gifts for the children of those incarnated at the prison. This was just one of the many things Weber did as part of the honor club for those  incarnated with him, demonstrates Weber’s dedication to making a positive impact on those around him even from within prison while sentence to life in jail.
 
-<img src="/assets/img/Vasuimg3.jpeg" alt="Girl in a jacket" width="500" height="600">
-<img src="/assets/img/Vasuimg4.jpeg" alt="Girl in a jacket" width="500" height="600">
-<img src="/assets/img/Vasuimg5.jpeg" alt="Girl in a jacket" width="500" height="600">
-
+<img src="/assets/img/Vasuimg10.jpeg" alt="Girl in a jacket" width="500" h
 
 
 ## The Honor Club's Support:
-Weber's transformation and leadership within the honor club earned him the trust and support of his fellow members. Believing in his rehabilitation and potential, the honor club used their funds to assist Weber in his applications for parole. They went a step further by writing a letter in support of his release, highlighting his personal growth, contributions to the prison community, and readiness to reintegrate into society. 
+Weber’s dedication to the honor club and transformation to someone with a passion for helping those around earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
 
 <img src="/assets/img/Vasuimg6.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 ## The Long Road to Freedom:
-Despite the unwavering support of the honor club, Weber's journey to freedom was not an easy one. He applied for parole six times before finally being granted release. Each denial was a setback, but Weber remained focused on his goals, drawing strength from the belief and encouragement of his fellow honor club members.
+Despite the letter of support written by the honor club, Weber’s journey towards freedom was not straightforward or without strife. Weber applied for parole six time before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal relying on the support and strength given to him by the encouragement by his honor club peers. 
 
 <img src="/assets/img/Vasuimg7.jpeg" alt="Girl in a jacket" width="500" height="600">
 
-## Reflections on Weber's Story:
-William Weber's experiences highlight the complexity of the criminal justice system and the importance of personal growth and rehabilitation. His story is a powerful reminder of the resilience of the human spirit and the transformative potential of support, education, and opportunity. It also underscores the significance of preserving and sharing stories from prison archives, as they offer valuable insights into the lives of those who have been incarcerated and the challenges they face.
+## Reflecting on Weber's Life in prison
+William Weber’s story is just one of many that highlights the positive impacts incarcerated  individuals can have on other and the important of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about all they after they were written off by society.
 
 <img src="/assets/img/Vasuimg8.jpeg" alt="Girl in a jacket" width="500" height="600">
 <img src="/assets/img/Vasuimg9.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 ## Conclusion:
-The story of William Weber serves as an inspiration, demonstrating that change is possible, even in the darkest of circumstances. His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief of the honor club played a crucial role in Weber's transformation, highlighting the significance of human connection and community in the face of adversity. As we reflect on Weber's experiences, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of the criminal justice system and work towards creating a more compassionate and restorative society.
+The story of William Weber serves as an inspiration, demonstrating that change is possible, even from the darkest of circumstances His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief from his fellow incarcerated men in the honor club played an important role Weber's rehabilitation and transformation, highlighting the importance of human connection and community when faced by adversity. As we consider Weber's experiences and connect them to modern day, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. If William Weber could change his life for the better who else currently stuck behind bars could benefit from someone support them. By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of the criminal justice system and work towards creating a more compassionate and restorative society.
 
