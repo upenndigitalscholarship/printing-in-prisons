@@ -23,7 +23,7 @@ In contrast to modern newspapers, which rely on journalists in the field collect
       </div>
       
 ### Historical Context 
-<p style="font-size": 1.0em >
+<p style="font-size": 0.9em >
   <i>In 1898, the U.S. took control of Puerto Rico and its archipelago which included Vieques and Culebra. Although the island did not undergo a name change, many American writers would refer to it as Porto Rico because of the difference in the English and Spanish sound systems.   Later on March 2nd, 1917, the Jones-Shafroth Act was passed placing Puerto Rico under U.S. colonial rule, granting American citizenship to its residents. <sup>2</sup>  The U.S. bought the West Indies from Denmark in January of the same year. These islands are St. Thomas, St. Croix, and St. John (St. Jan in Danish). After the US took control, they renamed the group of islands the US Virgin Islands.</i>
 </p>
  
