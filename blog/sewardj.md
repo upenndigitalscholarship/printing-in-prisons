@@ -117,8 +117,14 @@ The prisoners of ESP were distraught by the investigation into him, offering to 
 Welch’s dismissal and demise being so close together is curious, and the *Philadelphia Inquirer* addressed this by publishing the account of Joseph Welch’s son, B. Harvey Welch, who claimed his father’s health had been failing for years and that he had been “exceptionally cheerful of late and had accepted his discharge.”  It remains interesting that as soon as Welch’s vocation and charge in life was over, he also passed.<sup>13</sup> </p>
 
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <hr>
 <br>
