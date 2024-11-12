@@ -9,10 +9,12 @@ layout: post
 tags:
   - blog
 --- 
+<div>
 <img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 40%; float:right;margin-left:10px;">
  <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of <em>The Umpire</em> issue of March 7th 1917
     </p>
+</div>
 <div style="text-align: justify" >
   <p style="font-size": 1.3em >
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls. 
@@ -20,9 +22,9 @@ In contrast to modern newspapers, which rely on journalists in the field collect
       </div>
       
 ### Historical Context 
-
+<p style="font-size": 1.0em >
 *In 1898, the U.S. took control of Puerto Rico and its archipelago which included Vieques and Culebra. Although the island did not undergo a name change, many American writers would refer to it as Porto Rico because of the difference in the English and Spanish sound systems.   Later on March 2nd, 1917, the Jones-Shafroth Act was passed placing Puerto Rico under U.S. colonial rule, granting American citizenship to its residents. <sup>2</sup>  The U.S. bought the West Indies from Denmark in January of the same year. These islands are St. Thomas, St. Croix, and St. John (St. Jan in Danish). After the US took control, they renamed the group of islands the US Virgin Islands.* 
-
+ </p>
 With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
   
 The article, titled “Our New Possessions”, was published in the March 7th, 1917 issue of The Umpire. This piece is reprinted almost verbatim from what is believed to be the Boston Evening Transcript, a newspaper referenced a couple of times in The Umpire. Throughout its issues, the editors of the Umpire refer to it as the Transcript or the Boston Transcript, indicating the influence and importance of this source of information for the prison circulation newspaper.  
