@@ -72,7 +72,7 @@ What happened to Yeap after he was discharged?
 
 Within the span of 3 years after discharge, Yeaple not only moved out of his parent’s house, but married Margaret M. Wolfred who gave birth to his firstborn Evelyn Romaine Yeaple. Unfortunately, his firstborn passed away 9 months after birth, but his second child George Washington Yeaple Jr. lived healthy. Although Yeaple Jr. was enlisted during World War 2, he was discharged before the burial of his mother Margaret M. Yeaple first, then George Washington Yeaple Sr.
 
-After Yeap’s incarceration at ESP, he did not commit any more larceny, became financially independent from his parents, and built a loving family with Margaret. His time at ESP marked a turning point in his life, from a frequent convict of larceny to a patriarch of a family. 
+After Yeaple’s incarceration at ESP, he did not commit any more larceny, became financially independent from his parents, and built a loving family with Margaret. His time at ESP marked a turning point in his life, from a frequent convict of larceny to a patriarch of a family. 
 
 ![eel](/assets/img/hkimeel.png)
 
