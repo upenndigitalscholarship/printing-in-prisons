@@ -1,6 +1,6 @@
 ---
-title: American Expansionism at Eastern State
-author: Laura Aviles Rivera
+'title: American Expansionism at Eastern State
+a'uthor: Laura Aviles Rivera
 description: Reprinting in prisons and its effects on worldviews.
 thumbnail: aviles-thumbnail.jpg
 alt-text: A picture of The Umpire
@@ -9,13 +9,12 @@ layout: post
 tags:
   - blog
 --- 
-<div>
-<img src="/assets/img/aviles-thumbnail.jpg" alt="Picture from The Umpire Nespaper" style="width: 40%; float:right;margin-left:10px;">
-   <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+<div style="width: 40%; float: right; margin-left: 20px;">
+    <img src="/assets/img/smith-thumbnail.png/" alt="This is an image of an ad section from The Umpire" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of <em>The Umpire</em> issue of March 7th 1917
     </p>
 </div>
-
 <div style="text-align: justify" >
   <p style="font-size": 1.3em >
 In contrast to modern newspapers, which rely on journalists in the field collecting firsthand information and creating original articles,  The Umpire, a prison newspaper, relied on reprinting outside sources to fill its pages with information. Like many prison newspapers, The Umpire would reprint materials due to the lack of resources preventing original content creation. The idea of reprinting was also common practice in small newspaper firms of the antebellum period. <sup>1</sup>  This would allow the firms to overcome resource constraints, gain credibility, and create shared content. For The Umpire, reprinting allowed them to have access to that shared content, enabling its readers to gain access to popular ideas of the time. By examining the information The Umpire has reprinted on Puerto Rico and the West Indies, we can gain an insight into the types of resources they had access to while in prison and how these shaped their ideas of the world beyond prison walls. 
