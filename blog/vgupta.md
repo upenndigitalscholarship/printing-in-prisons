@@ -16,7 +16,13 @@ The Printing in Prisons project gives a view into the lives of incarcerated indi
 ## Weber's Early Life and Convictions:
 William Weber's story in the archives starts in early 1893 when he was convicted and sentenced to one year in prison for possession of stolen goods. Once released in early 1894, he was quickly back in trouble with the law, this time for a much more serious offense. On June 7th, 1894, Weber purchased a gun, and just four days later, on June 11th, he used that gun to kill his father-in-law. After standing trial Weber was convicted of first-degree murder and sentenced to death by hanging on December 19th 1895.
 
-<img src="/assets/img/Vasuimg1.jpeg" alt="William Weber's record in the reformatory record" width="500" height="600">
+
+<div style="width: 40%; float: left; margin-right: 20px;">
+    <img src="/assets/img/Vasuimg1.jpeg/" alt="William Weber's record in the reformatory record" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is an image of William Weber's prison record in the ESP
+    </p>
+</div>
 
 ## The Path to Rehabilitation: 
 While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life's direction. This second chance to live seems to have sparked the beginnings of Weber's transformation. Despite the grim circumstances, Weber didn't allow his past to define his future. Weber instead began a journey of personal growth and rehabilitation, making the most of his time behind bars and trying to improve himself.
