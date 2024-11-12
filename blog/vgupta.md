@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-## Introduction2 
+## Introduction
 The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is William Weber's journey. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later being paroled.
 
 ## Weber's Early Life and Convictions:
