@@ -42,12 +42,12 @@ tags:
 
     <h2><strong>Further Reading</strong></h2>
     <ol>
-        <li>Convict reception register for B7542, entered Eastern State Penitentiary [date], PA State Archives. Accessed through Ancestry U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.</li>
+        <li>Convict reception register for B7542, entered Eastern State Penitentiary February 2nd, 1915, PA State Archives. Accessed through Ancestry U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.</li>
         <li>B-7542. "A Novel Parole Method." <em>The Umpire</em>, edited by B-7413, vol. 3, no. 5, 29 Mar. 1916, p. 13.</li>
         <li>"Notice." <em>The Umpire</em>, edited by B-7413, vol. 11, no. 6, 4 Apr. 1917, p. 15.</li>
         <li>B-8266. "Honor Club Notes." <em>The Umpire</em>, edited by B-7413, vol. 15, no. 6, 8 Aug. 1917, p. 32.</li>
         <li>B-8266. "Honor Club Notes." <em>The Umpire</em>, edited by B-7413, vol. 11, no. 6, 21 Nov. 1917, p. 46.</li>
-        <li>Marvel, Alan. "<a href="https://alan.marvelfamily.net/genealogy-welcome-page/newspaper-articles/newspaper-articles-across-america/miscellaneous-information-on-the-marvelous-marvel/">Information on William Marvel</a>."</li>
+        <li>Marvel, Alan. "<a href="https://alan.marvelfamily.net/genealogy-welcome-page/newspaper-articles/newspaper-articles-across-america/miscellaneous-information-on-the-marvelous-marvel/">Information on William Marvel</a>, a personal genealogical website, last updated 2024. "</li>
     </ol>
 
 </body>
