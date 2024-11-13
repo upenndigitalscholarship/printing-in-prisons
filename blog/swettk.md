@@ -54,3 +54,23 @@ Robert Heinemann found further community in the Eastern State Penitentiary’s l
 ![This is a photo of messages sent to the editors of the Eastern Echo from prisoners and citizens.](/assets/img/mail.png)
 
 As Robert Heinemann’s life within the penitentiary has shown his creative outlets and integration into a new community, one must not forget the impact of his past. Robert has proved it possible to find joy and life within imprisonment, gaining the respect of others through his work with the Eastern Echo. Shown on the left are over 10 messages left for Robert, from both prisoners and civilians, that document the positive impact Eastern Echo has had on countless individuals. For example, “Dear Bob: All my Penal Press friends are watching EASTERN ECHO with cheers.” This is just one of many words of admiration for Robert’s impact within the prison, a new life he was able to make the best of. However, while this great adaptation to prison life is admirable, one must grapple with the thought that Robert has also afforded these experiences at the expense of a young girl’s life. While his work spread joy in dark times, the world will never get to know Edith Snyder as an adult or what she had to contribute to our society. This account of Robert’s life in the Eastern State Penitentiary is a prime example of how prisons didn’t house emotionless robots, they were also communities and mini societies for those needing time to reconcile. An individual can be HUMAN and have meaningful experiences even while secluded from society with the burden of their crimes weighing upon them. 
+
+## Works Cited 
+
+Cuff, Joseph. “Happiness is Just a Dog Called Snoopy.” Eastern Echo, Mar. 1958.
+
+Culp, Jerry, editor. “The Eastern Echo Asks.” Eastern Echo, Mar. 1956.
+
+Culp, Jerry. “Themes and Variations.” Eastern Echo, Mar. 1956.
+
+Heinemann, Robert, editor. “The Eastern Echo Mail Bag.” Eastern Echo, Dec. 1957.
+
+Heinemann, Robert. “Happiness is Just a Dog Called Snoopy.” Eastern Echo, Mar. 1957.
+
+Heinemann, Robert, editor. “Staff Members of the Eastern Echo.” Eastern Echo, Mar. 1957. 
+
+Heinemann, Robert. “Cage One.” Eastern Echo, Mar. 1957.
+
+Kerr, Barbara. Photo of Edith Snyder. 2021. Find a Grave, https://www.findagrave.com/memorial/145562233/edith_isabella-snyder. Accessed 2024. 
+
+"Newspaper account of murder" Newspapers.com, The Philadelphia Inquirer, May 21, 1940, https://www.newspapers.com/article/the-philadelphia-inquirer-newspaper-acco/9050345/
