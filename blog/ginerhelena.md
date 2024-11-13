@@ -50,7 +50,7 @@ tags:
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders second page" style="width: 100%; height: 50%;">
+        <img src="/assets/eastern_echo_fall1965_body0029..jpg.png/" alt="Disabled Public Offenders second page" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 
