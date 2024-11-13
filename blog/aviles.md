@@ -25,9 +25,13 @@ In contrast to modern newspapers, which rely on journalists in the field collect
 <p style="font-size": 0.9em >
   <i>In 1898, the U.S. took control of Puerto Rico and its archipelago which included Vieques and Culebra. Although the island did not undergo a name change, many American writers would refer to it as Porto Rico because of the difference in the English and Spanish sound systems. Later, on March 2nd, 1917, the Jones-Shafroth Act was passed placing Puerto Rico under U.S. colonial rule, granting American citizenship to its residents. <sup>2</sup>  The U.S. bought the West Indies from Denmark in January of the same year. These islands are St. Thomas, St. Croix, and St. John (St. Jan in Danish). After the US took control, they renamed the group of islands the "US Virgin Islands."</i>
 </p>
- 
-With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
 
+ <div style="text-align: justify" >
+  <p style="font-size": 1.3em >
+With this historical context in mind, we can compare what happened to these islands to what is written in The Umpire. If what is written in the prison newspaper does not reflect what happened, it can be concluded that there were popular shared opinions present in society that differed from what ultimately occurred. Since The Umpire participated in reprinting practices, it can be assumed that the ideas present in the article are not from within prison walls but from the outside. 
+  </p>
+      </div>
+      
 ## Analysis 
 <div style="text-align: justify" >
   <p style="font-size": 1.3em >
@@ -44,12 +48,14 @@ In addition to renaming, the piece mentions the idea of integrating the Danish W
 The ideas expressed in this article reflect mainstream perspectives, particularly of American expansionism. People in Eastern State were more likely to receive curated versions of current events shaped by cultural attitudes of the time. By examining this article, we can understand how The Umpire provided the people imprisoned at Eastern State access to mainstream narratives that promoted American expansionism in a positive light. In this way,  The Umpire had an important role in shaping the worldview of those within the prison. They were exposed to curated information that aligned with U.S. ideologies, ultimately shaping their ideas of the world beyond the walls of Eastern State Penitentiary. 
 </p>
       </div>
+      
 ### From the Boston Evening Transcript to The Umpire
 <div style="text-align: justify" >
   <p style="font-size": 1.3em >
 Remembering that Eastern State Penitentiary heavily depended on outside newspapers to inform their readers on world news, I was able to narrow down the month of the Boston Evening Transcript article they used for their piece. Reviewing the historical context, the Danish West Indies were purchased on January 17th, 1917. The Umpire issue discussed above was published on March 7th, 1917. The article mentioned Puerto Rico not being under full territorial status, however, the island was given this status on March 2nd 1917. This signifies that there is a lag in information transmission. The Boston Evening Transcript must have written their article soon after the purchase was made in mid-January. Assuming the original article was published late January, it had to make its way all the way down to Philadelphia, specifically Eastern State Penitentiary. When it arrived at the prison, it must have been read, analyzed, and picked for the specific issue, procedures that take more than a day to achieve. With all of these facts in mind, I hypothesize that the Boston Evening Transcript issue was written late January of 1917 and Eastern State Penitentiary received it in mid to late February for it to be reprinted in their March 7th issue. 
   </p>
       </div>
+      
 ### Works Cited
 1. Cordell, Ryan C. "Reprinting, Circulation, and the Network Author in Antebellum Newspaper" *American Literary History*, 2015.
 2. Jones-Shafroth Act, Pub. L. No. 64-368, 39 Stat. 951 (1917).
