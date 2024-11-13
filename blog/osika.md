@@ -24,7 +24,7 @@ tags:
     
     <figure style="text-align: center;">
       <img src="/assets/img/marvel2.jpg" alt="This is an image of <em>The Umpire</em> newspaper containing the article 'A Novel Parole Method' by William Marvel." style="width: 70%; margin: auto;">
-      <figcaption>This page of <em>The Umpire</em>, from volume 5, issue 13 published on March 29th, 1916, contains the article "A Novel Parole Method" written by William Marvel (B7542). The prison record for prisoner B7542 contains detailed information on William Marvel, current as of his final term of imprisonment at Eastern State</figcaption>
+      <figcaption>This page of <em>The Umpire</em>, from volume 5, issue 13 published on March 29th, 1916, contains the article "A Novel Parole Method" written by William Marvel (B7542). The prison record for prisoner B7542 contains detailed information on William Marvel, current as of his final term of imprisonment at Eastern State. </figcaption>
     </figure>  
 
     
