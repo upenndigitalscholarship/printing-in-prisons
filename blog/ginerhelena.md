@@ -2,8 +2,8 @@
 title: "Disability Services in Eastern State Penitentary"
 author: Helena Giner
 description: Mention of disability services in Eastern Echo are analyzed
-thumbnail: 
-alt-text: 
+thumbnail: assets/img/Eastern_echo_fall1965_bodyclip.png
+alt-text: This is an image of prisoners with disabilities from the article "Disabled Public Offenders
 date: 2024-11-11
 layout: post
 tags:
@@ -17,15 +17,15 @@ tags:
     </p>
 </div>
 
-<p>Individuals with disabilities face disproportionate incarceration in our American penal system.  Historically, prisons were pipelines for those with disabilities who were unable to find jobs, live independently, or deemed “unfit” for their communities. Although disability programs have increased in quality and scope over recent years, people with disabilities continue to make up a sizable proportion of the penal population. As of 2016, nearly 40% of state and federal prisoners have reported having at least one disability and a quarter indicated participating in special education programs.</p>
-<p>The condition of penal life for those with disabilities is dismal. Disabled prisoners face a high likelihood of abuse, physical, and sexual violence in the penal system. Unless stringent safety measures are applied by prison staff, there is a high chance for violent targeting. Furthermore, people with disabilities require support/services such as physical, occupational, and behavioral therapy, adaptive equipment, and sensory adaptations. Although this support is protected under the Americans with Disabilities Act of 1999 (ADA), reports show that prisoners with disabilities are frequently denied medical programs, therapy, and accommodations.</p>
+<p>Individuals with disabilities face disproportionate incarceration in our American penal system.  Historically, prisons were pipelines for those with disabilities who were unable to find jobs, live independently, or deemed “unfit” for their communities<sup>[1]</sup>. Although disability programs have increased in quality and scope over recent years, people with disabilities continue to make up a sizable proportion of the penal population. As of 2016, nearly 40% of state and federal prisoners have reported having at least one disability and a quarter indicated participating in special education programs<sup>[2]</sup>.</p>
+<p>The condition of penal life for those with disabilities is dismal. Disabled prisoners face a high likelihood of abuse, physical, and sexual violence in the penal system. Unless stringent safety measures are applied by prison staff, there is a high chance for violent targeting. Furthermore, people with disabilities require support/services such as physical, occupational, and behavioral therapy, adaptive equipment, and sensory adaptations. Although this support is protected under the Americans with Disabilities Act of 1999 (ADA)<sup>[3]</sup>, reports show that prisoners with disabilities are frequently denied medical programs, therapy, and accommodations<sup>[4]</sup>.</p>
 <p>The question of conditions for prisoners with disabilities at the Eastern State Penitentiary during its history is largely a mystery. Few statistics are published regarding how many prisoners had disabilities and their treatment in the prison. Further complicating the matter, the definition of disability has been modified over time, suggesting that statistics may Because disabilities often pose challenges which may be barriers to written expression, few prisoners with disclosed disabilities are recorded to have authored written works which could have voiced their situation. However, evidence of support programs were mentioned sparsely in the <em>Eastern Echo</em>, a prison newspaper in circulation between the 1950s to 1968. Drawing on writing of these support programs, I analyze three different articles about disability services found in the Eastern Echo to investigate the type of disability services found in Eastern State Penitentiary and the possible extent of their implementation. </p>
 
 <h2>INDIVIDUAL THERAPY...REBUTTAL</h2>
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_june1956_body0008.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <img src="/assets/img/eastern_echo_june1956_body0008.jpg/" alt="This is an article entitled Individual Therapy...Rebuttal from the Eastern Echo" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 <h3>by Sterling B. James</h3>
@@ -44,13 +44,13 @@ tags:
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="This is an article entitled Disabled Public Offenders from the Eastern Echo" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <img src="/assets/img/eastern_echo_fall1965_body0006.jpg/" alt="Disabled Public Offenders second page" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 
@@ -62,13 +62,13 @@ tags:
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_fall1965_body0007.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <img src="/assets/img/eastern_echo_fall1965_body0007.jpg/" alt="This is an article entitled Vocational Rehabilitation from the Eastern Echo" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 <div style="text-align: justify; margin-bottom: 20px;">
    
   <div style="float: right; margin-left: 20px; width: 50%; height: 50%; clear: both;">
-        <img src="/assets/img/eastern_echo_fall1965_body0030.jpg/" alt="Disabled Public Offenders" style="width: 100%; height: 50%;">
+        <img src="/assets/img/eastern_echo_fall1965_body0030.jpg/" alt="Vocational Rehabilitation Second Page" style="width: 100%; height: 50%;">
         <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
 </div>
 <h3>by Mary E. Switzer</h3>
@@ -81,3 +81,12 @@ tags:
 <p>The writing in the articles poses questions regarding who the target audience was. “Disabled Public Offenders” was written factually, assessing pros and cons while explaining to prisoners that there might be barriers to entry into the program. “Vocational Rehabilitation” was written as a letter, mainly to convince prisoners to take initiative into joining the program. <p>
 <p>Taken as a whole, this poses a complicated message to incarcerated people with disabilities. Some may have been discouraged by “Disabled Public Offenders” concession of difficulties, whereas some may have been intimidated by the responsibility placed upon them in “Vocational Rehabilitation.” Some may have only read “Disabled Public Offenders” and missed the instruction for involvement mentioned once in “Vocational Rehabilitation.”<p>
 <p>Some may have not been able to read the articles. Whether these programs were advertised beyond the scope of newspapers is unknown. Since prisoners were obligated to pursue the services themselves, it seems that word regarding services could also have been acquired through self-sufficiency. If blind individuals, individuals with developmental disabilities, or those who were illiterate were notified was questionable, but it is nearly impossible that they could have been notified through a newspaper article in the <em>Eastern Echo</em>.<p>
+<p>---------------------------------</p>
+
+<p>The Eastern Echo provided indirect insight into the lives of prisoners with disabilities in Eastern State Penitentiary through the discussion of service programs. Therapy and vocational training were incredibly progressive programs to be given to inmates. However, the description in the Eastern Echo, services were something requiring self-advocacy and self-awareness. Whether this was accessible to inmates and whether the programs were successful is largely unknown. Yet, the contents of the Eastern Echo suggest a prison environment that is accessible to some individuals with disabilities. But the emphasis on self sufficiency, self-advocacy, and proof of the ability to "benefit" from these programs indicates that it was not accessible to all. </p>
+
+<h2>Works Cited </h2>
+<p><sup>[1]</sup>Ben-Moshe, L., Chapman, C., & Carey, A. C. (2014). Disability incarcerated: Imprisonment and disability in the United States and Canada. New York, NY: Palgrave Macmillan.</p>
+<p><sup>[2]</sup>Laberis, B. (2020). How does the US prison system handle people with disabilities? Retrieved from https://www.accessibility.com/blog/how-does-the-us-prison-system-handle-people-with-disabilities</p>
+<p><sup>[3]</sup>(N.d.). Retrieved from https://www.disabilityrightspa.org/wp-content/uploads/2018/04/ADA-2E-Inmste-Rights-ADA.pdf</p>
+<p><sup>[4]</sup>Vallas, R. (2024). Disabled behind bars. Retrieved from https://www.americanprogress.org/article/disabled-behind-bars/</p>
