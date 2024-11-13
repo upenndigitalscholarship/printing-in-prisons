@@ -42,8 +42,7 @@ tags:
 
     <h2><strong>Further Reading</strong></h2>
     <ol>
-        <li>B7542 search. Ancestry.com. Pennsylvania, U.S., Prison, Reformatory, and Workhouse Records, 1829-1971 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016.
-            Original data: Prison Records. Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania.</li>
+        <li>Convict reception register for B7542, entered Eastern State Penitentiary [date], PA State Archives. Accessed through Ancestry U.S., Prison, Reformatory, and Workhouse Records, 1829-1971.</li>
         <li>B-7542. "A Novel Parole Method." <em>The Umpire</em>, edited by B-7413, vol. 3, no. 5, 29 Mar. 1916, p. 13.</li>
         <li>"Notice." <em>The Umpire</em>, edited by B-7413, vol. 11, no. 6, 4 Apr. 1917, p. 15.</li>
         <li>B-8266. "Honor Club Notes." <em>The Umpire</em>, edited by B-7413, vol. 15, no. 6, 8 Aug. 1917, p. 32.</li>
