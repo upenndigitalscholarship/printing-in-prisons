@@ -15,7 +15,7 @@ The Printing in Prisons project gives a view into the lives of incarcerated indi
 
 ## Weber's Early Life and Convictions:
 
-<div style="width: 40%; float: right; margin-right: 20px;">
+<div style="width: 30%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg1.jpeg/" alt="William Weber's record in the reformatory record" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of William Weber's prison record in the ESP
@@ -28,11 +28,18 @@ William Weber's story in the archives starts in early 1893 when he was convicted
 
 
 ## The Path to Rehabilitation: 
+
+<div style="width: 30%; float: right; margin-right: 20px;">
+    <img src="/assets/img/Vasuimg2.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is an image of Honor Club Meeting Notes written by Willaim Weber
+    </p>
+</div>
+
 While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life's direction. This second chance to live seems to have sparked the beginnings of Weber's transformation. Despite the grim circumstances, Weber didn't allow his past to define his future. Weber instead began a journey of personal growth and rehabilitation, making the most of his time behind bars and trying to improve himself.
  
 During his life in prison Weber worked on developing himself. He was an active participant in many prison programs that were designed to give incarcerated individuals support in their efforts to rehabilitate themselves. Through his work with these programs including the honor club, Weber was able to earn the respect of his fellow incarcerated individuals in addition to the prison staff.
 
-<img src="/assets/img/Vasuimg2.jpeg" alt="Honor Club notice written by Weber" width="500" height="700">
 
 
 ## Becoming a Leader and Helping His Fellow Inmates:
