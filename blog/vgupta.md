@@ -22,9 +22,14 @@ The Printing in Prisons project gives a view into the lives of incarcerated indi
     </p>
 </div>
 
+<br>
+<br>
+
 William Weber's story in the archives starts in early 1893 when he was convicted and sentenced to one year in prison for possession of stolen goods. Once released in early 1894, he was quickly back in trouble with the law, this time for a much more serious offense. On June 7th, 1894, Weber purchased a gun, and just four days later, on June 11th, he used that gun to kill his father-in-law. After standing trial Weber was convicted of first-degree murder and sentenced to death by hanging on December 19th 1895.
 
 
+<br>
+<br>
 
 
 ## The Path to Rehabilitation: 
