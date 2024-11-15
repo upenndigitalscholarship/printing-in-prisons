@@ -106,8 +106,9 @@ Despite the letter of support written by the honor club, Weber's journey towards
 
 <br>
 
+
+
 ## Reflecting on Weber's Life in Prison
-William Weber's story is just one of many that highlight the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
 
 <div style="width: 40%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg8.jpeg/" alt="Newspaper clipping about Weber recieving parole" style="width: 100%;">
@@ -116,15 +117,19 @@ William Weber's story is just one of many that highlight the positive impacts in
     </p>
 </div>
 
+William Weber's story is just one of many that highlight the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
+
+
+
 
 ## Conclusion:
 The story of William Weber serves as an inspiration, demonstrating that change is possible, even in the darkest of circumstances. His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief from his fellow incarcerated men in the honor club played an important role in Weber's rehabilitation and transformation, highlighting the importance of human connection and community when faced with adversity. As we consider Weber's experiences and connect them to the modern day, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. If William Weber could change his life for the better, who else currently stuck behind bars could benefit from someone supporting them? By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of the criminal justice system and work towards creating a more compassionate and restorative society.
 
 
-<div style="width: 40%; float: center; margin-right: 20px;">
+<div style="width: 60%; float: center; margin-right: 20px;">
     <img src="/assets/img/Vasuimg9.jpeg/" alt="weber's parole record in reformatory record" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is handwritten note recording Weber's parole in the reformatory record. 
+        This is a handwritten note recording Weber's parole in the reformatory record. 
     </p>
 </div>
 
