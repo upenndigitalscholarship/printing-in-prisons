@@ -13,9 +13,9 @@ tags:
 ## Introduction
 The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is William Weber's journey. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later being paroled.
 
-## Weber's Early Life and Convictions:
 
-<div style="width: 30%; float: right; margin-right: 20px;">
+
+<div style="width: 40%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg1.jpeg/" alt="William Weber's record in the reformatory record" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of William Weber's prison record in the ESP
@@ -25,32 +25,51 @@ The Printing in Prisons project gives a view into the lives of incarcerated indi
 <br>
 <br>
 
+## Weber's Early Life and Convictions:
+
 William Weber's story in the archives starts in early 1893 when he was convicted and sentenced to one year in prison for possession of stolen goods. Once released in early 1894, he was quickly back in trouble with the law, this time for a much more serious offense. On June 7th, 1894, Weber purchased a gun, and just four days later, on June 11th, he used that gun to kill his father-in-law. After standing trial Weber was convicted of first-degree murder and sentenced to death by hanging on December 19th 1895.
 
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-## The Path to Rehabilitation: 
-
-<div style="width: 30%; float: right; margin-right: 20px;">
+<div style="width: 40%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg2.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of Honor Club Meeting Notes written by Willaim Weber
     </p>
 </div>
 
+## The Path to Rehabilitation: 
+
+
+
 While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life's direction. This second chance to live seems to have sparked the beginnings of Weber's transformation. Despite the grim circumstances, Weber didn't allow his past to define his future. Weber instead began a journey of personal growth and rehabilitation, making the most of his time behind bars and trying to improve himself.
  
 During his life in prison Weber worked on developing himself. He was an active participant in many prison programs that were designed to give incarcerated individuals support in their efforts to rehabilitate themselves. Through his work with these programs including the honor club, Weber was able to earn the respect of his fellow incarcerated individuals in addition to the prison staff.
+
+<br>
+<br>
 
 
 
 ## Becoming a Leader and Helping His Fellow Inmates:
 Weber's determination to improve himself was not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment to the club eventually became the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchased toys and other gifts for the children of those incarcerated at the prison. This was just one of the many things Weber did as part of the honor club for those incarcerated with him. It demonstrates Weber's dedication to making a positive impact on those around him even from within prison while sentenced to life in prison.
 
-<img src="/assets/img/Vasuimg10.jpeg" alt="Example of causes supported by Honor Club on the left and record of Weber becoming Vice Presdient on Right" width="1200" height="600">
+
+<div style="width: 100%; float: center;">
+    <img src="/assets/img/Vasuimg10.jpeg/" alt="Example of causes supported by Honor Club on the left and record of Weber becoming Vice Presdient on Right" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is an image containing Honor Cub notes containing causes supported by the Honor Club on the left and record of Weber becoming the club's Vice Presdient on right
+    </p>
+</div>
+
 
 ## The Honor Club's Support:
 Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
