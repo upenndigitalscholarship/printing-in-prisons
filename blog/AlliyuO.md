@@ -17,7 +17,7 @@ Among the shadows of confinement at Eastern State Penitentiary, records reveal a
 
 Jimmie O O, whose name appears frequently in The Umpire, was a child whose interactions within Eastern State hint at his impact on the prison's inhabitants. The Umpire doesn't go into details of his background, but his mention among adults who were incarcerated suggests that he may have been a source of joy or escape for the community. He appears less as an inmate and more as a figure that many prisoners loved. 
 
-<div style="width: 20%; float: right; margin-left: 20px;">
+<div style="width: 40%; float: right; margin-left: 40px;">
     <img src="/assets/img/jobirth.jpg/" alt="This is an image of an issue from The Umpire" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
         This is an image of <em>The Umpire</em> issue of August 1st 1917
