@@ -29,6 +29,7 @@ Jimmie O O, whose name appears frequently in The Umpire, was a child whose inter
 Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
   </p>
   </div>
+The impact of his presence was profound and far-reaching. Men would stand in open-mouthed wonder at the sight of him, their amazement captured in the candid observation of one inmate who marveled, "Who ever heard of a kid in a can before?" This simple, unpolished expression revealed the extraordinary nature of having a child within the prison walls. From the highest-ranking officials like Warden McKenty to the fourteen hundred "cons" and countless visitors, Jimmie's presence touched everyone who encountered him, inspiring a universal affection that transcended the usual barriers of prison life.
 
 For Jimmie, the prison community was his world, his normal. The care shown by inmates like "Happy," who acted as a careful nurse, and the collective effort to provide him with gifts and necessities, demonstrate how the prison population came together to create a semblance of family for the child. The community fully embraced Jimmie, outfitting him with his own uniform cap and treating him as a true part of their unusual family.
 
