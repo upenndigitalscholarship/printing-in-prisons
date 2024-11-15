@@ -48,6 +48,9 @@ Jimmie's "strutting" around the yard and attempts to roll a ball in the "Old Man
     <img src="/assets/img/jplay2.jpg" alt="Mountains" style="width:100%;">
   </div>
   <div style="clear: both;"></div> <!-- Clear floats after columns -->
+  <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        These are images of <em>Jimmie O</em> being admired as he plays in the courtyard(Issue of August 8th 1917.
+    </p>
 </div>
 
 This unique situation underscores the complex social dynamics within the penitentiary, where moments of humanity and connection could flourish even in the most unlikely circumstances. Jimmie's story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
