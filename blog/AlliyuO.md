@@ -17,7 +17,7 @@ Among the shadows of confinement at Eastern State Penitentiary, records reveal a
 
 Jimmie O O, whose name appears frequently in The Umpire, was a child whose interactions within Eastern State hint at his impact on the prison's inhabitants. The Umpire doesn't go into details of his background, but his mention among adults who were incarcerated suggests that he may have been a source of joy or escape for the community. He appears less as an inmate and more as a figure that many prisoners loved. 
 
-![Jimmie's birth record in umpire](/assets/img/jbirth.jpg)
+![Jimmie's birth record in umpire](/assets/img/jobirth.jpg)
 
 Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
 
