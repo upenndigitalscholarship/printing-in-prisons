@@ -11,7 +11,7 @@ tags:
 ---
 ## Jimmie Double-O
 
-Eastern State Penitentiary, one of the most infamous prisons in early 20th-century America, [was known for housing some of the country's most dangerous criminals]. But among the shadows of confinement, records reveal unexpected inhabitants: children like "Jimmie O O" (sometimes called "Jimmy Double-O") and "Toddler Mary." These children, mentioned in prison publication The Umpire in 1916, offer a glimpse into the lives of the incarcerated that we rarely consider. This essay reflects on the presence of these young ones within the prison, exploring how their existence in such a severe place brings [humanity] to an otherwise rigid institution.
+Among the shadows of confinement at Eastern State Penitentiary, records reveal a surprising figure: a child known as 'Jimmie O O' (or 'Jimmy Double-O'). Mentioned in the prison publication The Umpire in 1916, Jimmie's presence adds an unexpected dimension to the institution's history. This essay explores Jimmie's life within the prison, offering a rare glimpse into how the experiences of one young resident intersect with the rigid structures of such an austere environment.
 
 ![facade image](/assets/img/facade_sourcecc.jpg)
 
