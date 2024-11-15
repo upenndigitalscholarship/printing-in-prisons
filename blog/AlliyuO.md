@@ -36,16 +36,17 @@ For Jimmie, the prison community was his world, his normal. The care shown by in
 
 Jimmie's "strutting" around the yard and attempts to roll a ball in the "Old Man's Playground" highlight how he actively engaged with his surroundings, oblivious to the stark contrast between his innocence and the harsh realities of incarceration. His presence served as a bridge between the confined world of the prison and the outside, offering inmates a chance to express nurturing instincts and experience moments of lightheartedness.
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/jplay1.jpg/" alt="umpire exceprt" style="width:100%">
+<div style="overflow: hidden;">
+  <div style="float: left; width: 33.33%; padding: 5px;">
+    <img src="/assets/img/jplay1.jpg" alt="umpire excerpt" style="width:100%;">
   </div>
-  <div class="column">
-    <img src="/assets/img/yard(LOC).jpg/" alt="Forest" style="width:100%">
+  <div style="float: left; width: 33.33%; padding: 5px;">
+    <img src="/assets/img/yard(LOC).jpg" alt="Forest" style="width:100%;">
   </div>
-  <div class="column">
-    <img src="/assets/img/jplay2.jpg/" alt="Mountains" style="width:100%">
+  <div style="float: left; width: 33.33%; padding: 5px;">
+    <img src="/assets/img/jplay2.jpg" alt="Mountains" style="width:100%;">
   </div>
+  <div style="clear: both;"></div> <!-- Clear floats after columns -->
 </div>
 
 This unique situation underscores the complex social dynamics within the penitentiary, where moments of humanity and connection could flourish even in the most unlikely circumstances. Jimmie's story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
