@@ -47,7 +47,8 @@ One installation, *Solitary Watch*, is a unique, ongoing project that allows pri
 </html>
 
 
-<img src="/assets/img/mirzaian-thumbnail.jpeg" alt="Mural in Eastern State Penitentiary Cell" width="400" height="500" style=float:right>
+<img src="/assets/img/mirzaian-thumbnail.jpeg" alt="Mural in Eastern State Penitentiary Cell" width="400" height="500" style="float: right; margin: 10px;">
+
 
 Another installation featured a mural constructed entirely from magazine clippings and hair gel (pictured right), which visually accomplished piecing together fragments of the outside world within the confines of a prison cell. For me, it sparked curiosity about how inmates must deeply feel isolated from the outside, compelling them to create a new version of it that feels close and accessible with whatever resources they can find. When the outside world is so far beyond reach, images become a powerful tool to recreate a world that is within reach. However, this use of images as a form of expression isn’t new to prison life; it even traces back to the early days of the Penitentiary.
 
