@@ -71,8 +71,6 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
 </div>
 
 
-## The Honor Club's Support:
-Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
 
 
 <div style="width: 40%; float: right; margin-right: 20px;">
@@ -82,8 +80,10 @@ Weber's dedication to the honor club and transformation to someone with a passio
     </p>
 </div>
 
-## The Long Road to Freedom:
-Despite the letter of support written by the honor club, Weber's journey towards freedom was not straightforward or without strife. Weber applied for parole six times before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal relying on the support and strength given to him by the encouragement of his honor club peers.
+## The Honor Club's Support:
+Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
+
+
 
 <div style="width: 40%; float: left; margin-right: 20px;">
     <img src="/assets/img/Vasuimg7.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
@@ -91,6 +91,12 @@ Despite the letter of support written by the honor club, Weber's journey towards
         This is an newspaper clipping about Weber's petition for parole.
     </p>
 </div>
+
+
+## The Long Road to Freedom:
+Despite the letter of support written by the honor club, Weber's journey towards freedom was not straightforward or without strife. Weber applied for parole six times before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal relying on the support and strength given to him by the encouragement of his honor club peers.
+
+
 
 ## Reflecting on Weber's Life in Prison
 William Weber's story is just one of many that highlight the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
