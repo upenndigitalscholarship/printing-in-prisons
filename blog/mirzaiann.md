@@ -11,14 +11,12 @@ tags:
 ---
 
 
-<p style = text-align:center>
-
-“Don’t you feel home-sick at times, Albert?’’ asked wifey. “Sure, but I look at your photograph, and then I don’t feel home-sick any more.’’
-
-<p style = text-align:center>
-
-– The Umpire Vol. V, Issue 27, 1918 
-
+<p style="text-align: center;">
+    “Don’t you feel home-sick at times, Albert?’’ asked wifey. “Sure, but I look at your photograph, and then I don’t feel home-sick any more.’’
+</p>
+<p style="text-align: center;">
+    – The Umpire Vol. V, Issue 27, 1918
+</p>
 
 I can imagine the inmate who wrote this joke–presumably Albert– feeling a moment of lightheartedness, but beneath the humor, there’s a bittersweet truth: when you really miss someone, even their photograph can bring a sense of comfort. In the joke, Albert teasingly suggests that looking at his wife’s picture cures his homesickness in a backhanded way, yet there’s a tender side to it, too. For many, seeing the face of a loved one can be a powerful comfort, providing a small but meaningful sense of connection when physical closeness is impossible. While a photograph may not change the reality of separation, it can bring temporary relief to ease even the worst case of homesickness.
 
