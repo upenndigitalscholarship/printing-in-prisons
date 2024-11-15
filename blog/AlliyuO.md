@@ -14,7 +14,6 @@ tags:
 Among the shadows of confinement at Eastern State Penitentiary, records reveal a surprising figure: a child known as 'Jimmie O O' (or 'Jimmy Double-O'). Mentioned in the prison publication The Umpire in 1916, Jimmie's presence adds an unexpected dimension to the institution's history. This essay explores Jimmie's life within the prison, offering a rare glimpse into how the experiences of one young resident intersect with the rigid structures of such an austere environment.
 
 <img src="/assets/img/facade_sourcecc.jpg" alt="Facade of Eastern State" class="center">
-![facade image](/assets/img/facade_sourcecc.jpg)
 
 Jimmie O O, whose name appears frequently in The Umpire, was a child whose interactions within Eastern State hint at his impact on the prison's inhabitants. The Umpire doesn't go into details of his background, but his mention among adults who were incarcerated suggests that he may have been a source of joy or escape for the community. He appears less as an inmate and more as a figure that many prisoners loved. 
 
