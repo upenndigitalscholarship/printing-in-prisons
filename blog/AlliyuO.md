@@ -38,3 +38,5 @@ Jimmie's "strutting" around the yard and attempts to roll a ball in the "Old Man
 ![playgraound image](/assets/img/yard(LOC).jpg)
 
 This unique situation underscores the complex social dynamics within the penitentiary, where moments of humanity and connection could flourish even in the most unlikely circumstances. Jimmie's story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
+
+Jimmie's presence served as a bridge between the harsh realities of incarceration and the outside world, offering inmates a chance to express nurturing instincts and experience moments of lightheartedness. His story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
