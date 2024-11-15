@@ -80,17 +80,23 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
     </p>
 </div>
 
+<br>
+<br>
+
+
 ## The Honor Club's Support:
 Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
 
 <br>
 <br>
+<br>
+
 
 
 <div style="width: 40%; float: left; margin-right: 20px;">
     <img src="/assets/img/Vasuimg7.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an newspaper clipping about Weber's petition for parole.
+        This is a newspaper clipping about Weber's petition for parole.
     </p>
 </div>
 
@@ -98,17 +104,29 @@ Weber's dedication to the honor club and transformation to someone with a passio
 ## The Long Road to Freedom:
 Despite the letter of support written by the honor club, Weber's journey towards freedom was not straightforward or without strife. Weber applied for parole six times before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal relying on the support and strength given to him by the encouragement of his honor club peers.
 
-
+<br>
 
 ## Reflecting on Weber's Life in Prison
 William Weber's story is just one of many that highlight the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
 
-<img src="/assets/img/Vasuimg8.jpeg" alt="newspaper clipping about weber's parole" width="600" height="600">
-<img src="/assets/img/Vasuimg9.jpeg" alt="weber's parole record in reformatory record" width="600" height="600">
+<div style="width: 40%; float: right; margin-right: 20px;">
+    <img src="/assets/img/Vasuimg8.jpeg/" alt="Newspaper clipping about Weber recieving parole" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is a newspaper clipping about Weber recieving parole
+    </p>
+</div>
+
 
 ## Conclusion:
 The story of William Weber serves as an inspiration, demonstrating that change is possible, even in the darkest of circumstances. His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief from his fellow incarcerated men in the honor club played an important role in Weber's rehabilitation and transformation, highlighting the importance of human connection and community when faced with adversity. As we consider Weber's experiences and connect them to the modern day, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. If William Weber could change his life for the better, who else currently stuck behind bars could benefit from someone supporting them? By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of the criminal justice system and work towards creating a more compassionate and restorative society.
 
+
+<div style="width: 40%; float: center; margin-right: 20px;">
+    <img src="/assets/img/Vasuimg9.jpeg/" alt="weber's parole record in reformatory record" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+        This is handwritten note recording Weber's parole in the reformatory record. 
+    </p>
+</div>
 
 
 
