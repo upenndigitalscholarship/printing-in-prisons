@@ -83,6 +83,8 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
 ## The Honor Club's Support:
 Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
 
+<br>
+<br>
 
 
 <div style="width: 40%; float: left; margin-right: 20px;">
