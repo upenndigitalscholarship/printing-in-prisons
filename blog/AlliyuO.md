@@ -49,7 +49,7 @@ Jimmie's "strutting" around the yard and attempts to roll a ball in the "Old Man
   </div>
   <div style="clear: both;"></div> <!-- Clear floats after columns -->
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        These are images of <em>Jimmie O</em> being admired as he plays in the courtyard(Issue of August 8th 1917.
+        These are images of <em>Jimmie O</em> being admired as he plays in the courtyard(Issue of August 8th 1917).
     </p>
 </div>
 
