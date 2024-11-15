@@ -15,14 +15,12 @@ Among the shadows of confinement at Eastern State Penitentiary, records reveal a
 
 <img src="/assets/img/facade_sourcecc.jpg" alt="Facade of Eastern State" style="display: block; margin: 0 auto;">
 
-
-
 Jimmie O O, whose name appears frequently in The Umpire, was a child whose interactions within Eastern State hint at his impact on the prison's inhabitants. The Umpire doesn't go into details of his background, but his mention among adults who were incarcerated suggests that he may have been a source of joy or escape for the community. He appears less as an inmate and more as a figure that many prisoners loved. 
 
 <div style="width: 50%; float: right; margin-left: 20px;">
     <img src="/assets/img/jobirth.jpg/" alt="This is an image of an issue from The Umpire" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image of <em>The Umpire</em> issue of August 1st 1917
+        Issue of <em>The Umpire</em>, August 1st, 1917 – This prison publication often featured updates on Jimmie’s activities and interactions with inmates.
     </p>
 </div>
 
@@ -31,6 +29,11 @@ Jimmie O O, whose name appears frequently in The Umpire, was a child whose inter
 Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
   </p>
   </div>
+
+  
+<h1><em>"Who ever heard of a kid in a can before?"</em></h1>
+
+
 The impact of his presence was profound and far-reaching. Men would stand in open-mouthed wonder at the sight of him, their amazement captured in the candid observation of one inmate who marveled, "Who ever heard of a kid in a can before?" This simple, unpolished expression revealed the extraordinary nature of having a child within the prison walls. From the highest-ranking officials like Warden McKenty to the fourteen hundred "cons" and countless visitors, Jimmie's presence touched everyone who encountered him, inspiring a universal affection that transcended the usual barriers of prison life.
 
 For Jimmie, the prison community was his world, his normal. The care shown by inmates like "Happy," who acted as a careful nurse, and the collective effort to provide him with gifts and necessities, demonstrate how the prison population came together to create a semblance of family for the child. The community fully embraced Jimmie, outfitting him with his own uniform cap and treating him as a true part of their unusual family.
@@ -53,8 +56,7 @@ Jimmie's "strutting" around the yard and attempts to roll a ball in the "Old Man
     </p>
 </div>
 
+Jimmie's presence offered inmates moments of lightheartedness and the chance to express nurturing instincts, bridging the harsh realities of incarceration with glimpses of humanity and connection. His story sheds light on the inherent humanity that exists even within confined walls, giving us a nuanced perspective on prison life without diminishing the gravity of its circumstances.
 
-This unique situation underscores the complex social dynamics within the penitentiary, where moments of humanity and connection could flourish even in the most unlikely circumstances. Jimmie's story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
-
-Jimmie's presence served as a bridge between the harsh realities of incarceration and the outside world, offering inmates a chance to express nurturing instincts and experience moments of lightheartedness. His story provides a nuanced perspective on prison life, reminding us of the inherent humanity of those within the system, without diminishing the seriousness of their circumstances.
+The story of Jimmie O O, preserved in the pages of <em>The Umpire</em>, reminds us that even in the harshest settings, moments of innocence and connection can emerge, offering a rare glimpse of humanity behind the prison walls.
 
