@@ -26,7 +26,7 @@ Jimmie O O, whose name appears frequently in The Umpire, was a child whose inter
 
 <div style="text-align: justify">
     <p style="font-size": 1.3em >
-Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. <sup>1</sup>At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
+Jimmie O, born within the walls of Eastern State Penitentiary, became an unexpected source of joy and normalcy in an otherwise austere environment. At just one year old, he had already endeared himself to the inmates and staff, serving as a beloved figure who brought a touch of innocence to the prison yard. His presence offered glimpses of childhood that likely reminded many of their own children or siblings outside the prison walls.
   </p>
   </div>
 
