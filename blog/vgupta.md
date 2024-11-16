@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Introduction
-The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is William Weber's journey. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later being paroled.
+The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is the life of William Weber. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later paroled.
 
 
 
@@ -50,17 +50,18 @@ William Weber's story in the archives starts in early 1893 when he was convicted
 
 
 
-While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life's direction. This second chance to live seems to have sparked the beginnings of Weber's transformation. Despite the grim circumstances, Weber didn't allow his past to define his future. Weber instead began a journey of personal growth and rehabilitation, making the most of his time behind bars and trying to improve himself.
- 
-During his life in prison Weber worked on developing himself. He was an active participant in many prison programs that were designed to give incarcerated individuals support in their efforts to rehabilitate themselves. Through his work with these programs including the honor club, Weber was able to earn the respect of his fellow incarcerated individuals in addition to the prison staff.
+While Weber was on death row, his sentence was commuted to life in prison giving him another chance to live and change life's direction. This second chance seems to have sparked the beginnings of Weber's transformation. Despite the grim circumstances, Weber didn't allow his past to define his future. Weber instead began a journey of personal growth and rehabilitation, making the most of his time behind bars and trying to improve himself. He was an active participant in many prison programs that were designed to give incarcerated individuals support in their efforts to rehabilitate themselves. Through his work with these programs including the honor club, Weber was able to earn the respect of his fellow incarcerated individuals in addition to the prison staff.
 
 <br>
 <br>
+<br>
+<br>
+
 
 
 
 ## Becoming a Leader and Helping His Fellow Inmates:
-Weber's determination to improve himself was not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment to the club eventually became the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchased toys and other gifts for the children of those incarcerated at the prison. This was just one of the many things Weber did as part of the honor club for those incarcerated with him. It demonstrates Weber's dedication to making a positive impact on those around him even from within prison while sentenced to life in prison.
+Weber's determination to improve himself was not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment eventually became the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchased toys and other gifts for the children of those incarcerated at the prison. This was just one of the many things Weber did as part of the honor club for those incarcerated with him. It demonstrated Weber's dedication to making a positive impact on those around him even from within prison while sentenced to life.
 
 
 <div style="width: 100%; float: center;">
@@ -85,7 +86,7 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
 
 
 ## The Honor Club's Support:
-Weber's dedication to the honor club and transformation to someone with a passion for helping those around him earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
+Weber's dedication to the honor club and transformation into someone with a passion for helping those around him, earned him the support and respect of his fellow honor club members. Believing in Weber and his rehabilitation, the honor club voted to use their funds to help Weber complete his application for parole. Weber wanted to be paroled so he could be with his 87-year-old mother during the last few years of her life.
 
 <br>
 <br>
@@ -117,7 +118,10 @@ Despite the letter of support written by the honor club, Weber's journey towards
     </p>
 </div>
 
-William Weber's story is just one of many that highlight the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
+William Weber's story is just one of many that highlights
+
+
+the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
 
 
 
