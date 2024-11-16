@@ -48,7 +48,7 @@ Adding to the intrigue was the involvement of Edmund Guenkle, the bartender Frie
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/ChristianHartmanArticle .jpeg" alt="Article Mentioning Christian Hartmann" style="width: 100%; height: auto;">
+    <img src="/assets/img/TheSundayAritcle.png" alt="Article Mentioning Christian Hartmann" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Newspaper article where Christian Hartmann expresses his suspicions
     </p>
