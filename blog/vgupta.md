@@ -103,7 +103,7 @@ Weber's dedication to the honor club and transformation into someone with a pass
 
 
 ## The Long Road to Freedom:
-Despite the letter of support written by the honor club, Weber's journey towards freedom was not straightforward or without strife. Weber applied for parole six times before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal relying on the support and strength given to him by the encouragement of his honor club peers.
+Despite the letter of support written by the honor club, Weber's journey towards freedom was not straightforward or without strife. Weber applied for parole six times before finally being granted release. Each denial must have been difficult, being told you are not fit to be part of society, but Weber remained steadfast on achieving his goal, relying on the support and strength given to him by the encouragement of his honor club peers.
 
 <br>
 
@@ -118,10 +118,7 @@ Despite the letter of support written by the honor club, Weber's journey towards
     </p>
 </div>
 
-William Weber's story is just one of many that highlights
-
-
-the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
+William Weber's story is just one of many that highlights the positive impacts incarcerated individuals can have on others and the importance of allowing these individuals the opportunity for personal growth and rehabilitation. Preserving and sharing these stories from prison archives is important to remember the lives of these incarcerated individuals and learning about them even after they were written off by society.
 
 
 
