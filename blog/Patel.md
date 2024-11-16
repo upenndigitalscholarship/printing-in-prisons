@@ -65,7 +65,7 @@ Following her conviction, Frieda was sent to Moyamensing Prison, where her healt
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/FredaTrostEasternState .jpeg" alt="Prison Record of Frieda Trost" style="width: 100%; height: auto;">
+    <img src="/assets/img/FredaTrostEasternState.png" alt="Prison Record of Frieda Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Prison record of Frieda Trost at Eastern State Penitentiary
     </p>
