@@ -1,7 +1,7 @@
 ---
 title: Frieda Trost - A Life of Loss, Scandal, and Redemption
 author: Anonymous
-description: Frieda Trost's life was marked by heartbreak, scandal, and redemption. After losing three of her four children, she became the focus of a sensational murder trial, accused of poisoning her second husband. Vilified by the media, her story reveals resilience and compassion, challenging the harsh narratives of her time. This article revisits her journey, exploring themes of loss, bias, and redemption through a modern perspective.
+description: Frieda Trost's life was marked by heartbreak, scandal, and redemption. After losing three of her four children, she became the focus of a sensational murder trial, accused of poisoning her second husband.
 thumbnail: testimage.jpg
 alt-text: An image related to Frieda Trost's story.
 date: 2018-05-01
