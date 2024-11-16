@@ -27,8 +27,6 @@ Born Frieda Goetz in Germany in 1881, she immigrated to the United States in 188
 
 In 1911, fate dealt another cruel blow. Frederick Hartman died suddenly from typhoid pneumonia or a congested lung, leaving Frieda a widow with $5,000 in insurance money and the family saloon, which she managed with the bartender, Guenkle. Frieda initially lived extravagantly, enjoying the financial cushion while it lasted. However, her lavish spending soon caught up with her, and within 18 months of Frederick’s death, she found herself in debt. The saloon, struggling to bring in income, offered little reprieve.
 
-## The Second Marriage and Accusations
-
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
     <img src="/assets/img/WilliamTrostDeathCertificate.jpg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
@@ -38,6 +36,8 @@ In 1911, fate dealt another cruel blow. Frederick Hartman died suddenly from typ
   </div>
 </div>
 
+
+## The Second Marriage and Accusations
 Frieda then remarried on August 1st, 1912, and her new husband, William Trost, was a baker like her first husband. However, this second marriage proved even more disastrous than the first. Just six days after their wedding, on August 7th, William Trost died, and whispers of foul play quickly grew into an uproar.
 
 Initially, it was reported that Trost had died in a trolley accident. However, an autopsy revealed traces of arsenic in his stomach. Within a week of her marriage, Frieda was charged with Trost’s murder, accused of poisoning him with arsenic. Investigators speculated that Frieda, overwhelmed by the debts she had accumulated, killed Trost to inherit his estate, valued at around $10,000, and possibly $15,000 in life insurance.
