@@ -14,7 +14,7 @@ tags:
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/AnnaMayHartmanDeathCertificate.jpeg" alt="Death Certificate of Anna May Hartman" style="width: 100%; height: auto;">
+    <img src="/assets/img/AnnaMayHartmanDeathCertificate .jpeg" alt="Death Certificate of Anna May Hartman" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Death Certificate of Anna May Hartman
     </p>
