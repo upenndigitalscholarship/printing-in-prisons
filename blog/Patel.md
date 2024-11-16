@@ -1,6 +1,3 @@
-Sure, here is the markdown file:
-
-```markdown
 ---
 title: Frieda Trost - A Life of Loss, Scandal, and Redemption
 author: Anonymous
