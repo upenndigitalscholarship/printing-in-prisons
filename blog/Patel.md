@@ -31,7 +31,7 @@ In 1911, fate dealt another cruel blow. Frederick Hartman died suddenly from typ
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/WilliamTrostDeathCertificate.jpeg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
+    <img src="/assets/img/WilliamTrostDeathCertificate .jpeg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Death Certificate of William Trost
     </p>
@@ -48,7 +48,7 @@ Adding to the intrigue was the involvement of Edmund Guenkle, the bartender Frie
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/ChristianHartmanArticle.jpeg" alt="Article Mentioning Christian Hartmann" style="width: 100%; height: auto;">
+    <img src="/assets/img/ChristianHartmanArticle .jpeg" alt="Article Mentioning Christian Hartmann" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Newspaper article where Christian Hartmann expresses his suspicions
     </p>
@@ -65,7 +65,7 @@ Following her conviction, Frieda was sent to Moyamensing Prison, where her healt
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/FredaTrostEasternState.jpeg" alt="Prison Record of Frieda Trost" style="width: 100%; height: auto;">
+    <img src="/assets/img/FredaTrostEasternState .jpeg" alt="Prison Record of Frieda Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Prison record of Frieda Trost at Eastern State Penitentiary
     </p>
