@@ -12,6 +12,8 @@ tags:
 
 ## Early Life and Tragedy
 
+
+Born Frieda Goetz in Germany in 1881, she immigrated to the United States in 1885. She married Frederick Hartman, a baker, in 1900, and together they settled into a modest life at 1301 Germantown Avenue. However, their life was marred by profound tragedy. Three of their four children died in infancy or early childhood, leaving only their daughter, Irene, born in 1904, to survive. Their first child, Frederick, was born in 1901 but lived only seven weeks, passing away on July 6, 1901. Their second child, Freda Helen, born in 1902, tragically died at just five months and seven days old on December 7, 1902. A third child, Anna May, born in 1909, was stillborn or died shortly after birth. The repeated loss cast a heavy shadow over the young family's existence.
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
     <img src="/assets/img/AnnaMayHartmanDeathCertificate .jpeg" alt="Death Certificate of Anna May Hartman" style="width: 100%; height: auto;">
@@ -20,8 +22,6 @@ tags:
     </p>
   </div>
 </div>
-
-Born Frieda Goetz in Germany in 1881, she immigrated to the United States in 1885. She married Frederick Hartman, a baker, in 1900, and together they settled into a modest life at 1301 Germantown Avenue. However, their life was marred by profound tragedy. Three of their four children died in infancy or early childhood, leaving only their daughter, Irene, born in 1904, to survive. Their first child, Frederick, was born in 1901 but lived only seven weeks, passing away on July 6, 1901. Their second child, Freda Helen, born in 1902, tragically died at just five months and seven days old on December 7, 1902. A third child, Anna May, born in 1909, was stillborn or died shortly after birth. The repeated loss cast a heavy shadow over the young family's existence.
 
 ## The Death of Frederick Hartman
 
