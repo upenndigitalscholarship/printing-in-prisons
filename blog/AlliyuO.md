@@ -70,4 +70,10 @@ This portrayal also sheds light on the broader history of children in prisons, a
 
 Ultimately, the story of toddlers like Jimmie O. O. reveals the uncomfortable truth that prisons were never designed with families in mind. Their presence within these walls underscores the systemic oversight of women’s roles as mothers and highlights how children have historically been collateral damage in the carceral system. This legacy calls for a more critical examination of how prisons impact families and a reimagining of justice systems that take into account the interconnectedness of those they incarcerate.
 
+## References
+The Umpire, 157 (1918)
+The Umpire, 128 (1917)
+The Umpire, 124 (1917)
+The Umpire, 142 (1917)
+The Umpire, 012 (1918)
 
