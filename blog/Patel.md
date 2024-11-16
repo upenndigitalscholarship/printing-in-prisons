@@ -123,4 +123,3 @@ Her case raises vital questions about the ethics of justice, the influence of me
 - "Held for Murder." *The Citizen*, 14 Aug. 1912, p. 8.
 - "WOMAN SENTENCED TO DEATH: Mrs. Frieda Trost Convicted of Killing Husband Ten Day." *The Washington Post*, 1 Mar. 1913, p. 4.
 - "When Justice Triumphed." *The Sunday News*, 26 Apr. 1925, pp. 34-35.
-```
