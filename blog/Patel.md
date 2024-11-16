@@ -16,7 +16,7 @@ tags:
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
     <img src="/assets/img/AnnaMayHartmanDeathCertificate .jpeg" alt="Death Certificate of Anna May Hartman" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
-      Death Certificate of Anna May Hartman
+      <i>Death Certificate of Anna May Hartman</i>
     </p>
   </div>
 </div>
@@ -33,7 +33,7 @@ In 1911, fate dealt another cruel blow. Frederick Hartman died suddenly from typ
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
     <img src="/assets/img/WilliamTrostDeathCertificate.jpg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
-      Death Certificate of William Trost
+      <i>Death Certificate of William Trost</i>
     </p>
   </div>
 </div>
@@ -50,7 +50,7 @@ Adding to the intrigue was the involvement of Edmund Guenkle, the bartender Frie
   <div style="float: right; margin-left: 20px; width: 40%; clear: both;">
     <img src="/assets/img/TheSundayAritcle.png" alt="Article Mentioning Christian Hartmann" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
-      Newspaper article where Christian Hartmann expresses his suspicions
+      <i>Newspaper article about Christian Hartmann's suspicions</i>
     </p>
   </div>
 </div>
@@ -67,7 +67,7 @@ Following her conviction, Frieda was sent to Moyamensing Prison, where her healt
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
     <img src="/assets/img/FredaTrostEasternState.png" alt="Prison Record of Frieda Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
-      Prison record of Frieda Trost at Eastern State Penitentiary
+      <i>Prison record of Frieda Trost at Eastern State Penitentiary</i>
     </p>
   </div>
 </div>
