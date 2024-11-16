@@ -73,8 +73,12 @@ Ultimately, the story of toddlers like Jimmie O. O. reveals the uncomfortable tr
 ## References
 
 The Umpire, 157 (1918)
+
 The Umpire, 128 (1917)
+
 The Umpire, 124 (1917)
+
 The Umpire, 142 (1917)
+
 The Umpire, 012 (1918)
 
