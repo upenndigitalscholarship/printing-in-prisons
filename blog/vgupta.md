@@ -77,7 +77,7 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
 <div style="width: 40%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg6.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image the letter written by Weber thanking his fellow honor club memebers for their supoort in his application for parole
+        This is an image of the letter written by Weber thanking his fellow honor club memebers for their supoort in his application for parole
     </p>
 </div>
 
@@ -97,7 +97,7 @@ Weber's dedication to the honor club and transformation into someone with a pass
 <div style="width: 40%; float: left; margin-right: 20px;">
     <img src="/assets/img/Vasuimg7.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is a newspaper clipping about Weber's petition for parole.
+        This is a newspaper clipping about Weber's petition for parole
     </p>
 </div>
 
