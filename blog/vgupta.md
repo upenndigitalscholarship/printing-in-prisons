@@ -11,7 +11,7 @@ tags:
 ---
 
 ## Introduction
-The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling us to learn more about their experiences in prison. One of the stories embedded in these archives is the life of William Weber. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later paroled.
+The Printing in Prisons project gives a view into the lives of incarcerated individuals enabling readers to learn more about their experiences in prison. One of the stories embedded in these archives is the life of William Weber. This essay will explore William Weber's story and incredible transformation from a multiple-time felon who was on death row to becoming vice president of the prison's honor club and later paroled.
 
 
 
@@ -61,13 +61,13 @@ While Weber was on death row, his sentence was commuted to life in prison giving
 
 
 ## Becoming a Leader and Helping His Fellow Inmates:
-Weber's determination to improve himself was not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment eventually became the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchased toys and other gifts for the children of those incarcerated at the prison. This was just one of the many things Weber did as part of the honor club for those incarcerated with him. It demonstrated Weber's dedication to making a positive impact on those around him even from within prison while sentenced to life.
+Weber's determination to improve himself was not unnoticed by others. He was given roles of responsibility and leadership in the prison, specifically as part of the honor club. He started in the club as a delegate and through his commitment eventually became the vice president. In his role as vice president, Weber was involved in the organization of several charitable initiatives including using funds raised by the honor club to contribute to the Christmas Fund which purchased toys and other gifts for the children of those incarcerated at the prison. This was just one of the many things Weber did as part of the honor club for his fellow incarcerated individuals. It demonstrated Weber's dedication to making a positive impact on those around him even from within prison while sentenced to life.
 
 
 <div style="width: 100%; float: center;">
     <img src="/assets/img/Vasuimg10.jpeg/" alt="Example of causes supported by Honor Club on the left and record of Weber becoming Vice Presdient on Right" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image containing Honor Cub notes containing causes supported by the Honor Club on the left and record of Weber becoming the club's Vice Presdient on right
+        This is an image containing Honor Cub notes containing causes supported by the Honor Club on the left and record of Weber becoming the club's Vice President on right
     </p>
 </div>
 
@@ -124,7 +124,7 @@ William Weber's story is just one of many that highlights the positive impacts i
 
 
 ## Conclusion:
-The story of William Weber serves as an inspiration, demonstrating that change is possible, even in the darkest of circumstances. His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief from his fellow incarcerated men in the honor club played an important role in Weber's rehabilitation and transformation, highlighting the importance of human connection and community when faced with adversity. As we consider Weber's experiences and connect them to the modern day, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. If William Weber could change his life for the better, who else currently stuck behind bars could benefit from someone supporting them? By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of the criminal justice system and work towards creating a more compassionate and restorative society.
+The story of William Weber serves as an inspiration, demonstrating that change is possible, even in the darkest of circumstances. His journey from death row to honor club vice president and, ultimately, to freedom, is a testament to the power of personal growth, rehabilitation, and the importance of second chances. The support and belief from his fellow incarcerated men in the honor club played an important role in Weber's rehabilitation and transformation, highlighting the importance of human connection and community when faced with adversity. As we consider Weber's experiences and connect them to the modern day, we are reminded of the need for a more rehabilitative approach to justice, one that recognizes the humanity and potential within every individual. If William Weber could change his life for the better, who else currently stuck behind bars could benefit from someone supporting them? By preserving and sharing stories like William Weber's, we can foster a deeper understanding of the complex realities of incarceration and work towards creating a more compassionate and restorative criminal justice system.
 
 
 <div style="width: 100%; float: center;">
