@@ -31,7 +31,7 @@ In 1911, fate dealt another cruel blow. Frederick Hartman died suddenly from typ
 
 <div style="text-align: justify; margin-bottom: 20px;">
   <div style="float: left; margin-right: 20px; width: 40%; clear: both;">
-    <img src="/assets/img/WilliamTrostDeathCertificate .jpeg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
+    <img src="assets/img/WilliamTrostDeathCertificate.jpg" alt="Death Certificate of William Trost" style="width: 100%; height: auto;">
     <p style="font-size: 0.85em; text-align: center; color: gray; margin-top: 5px;">
       Death Certificate of William Trost
     </p>
