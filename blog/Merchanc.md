@@ -81,11 +81,11 @@ Overall, both Mlle. Petite Elba’s vaudeville acts and Johnny Cash’s Folsom P
 
 <h2> References:</h2> 
 
-Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+Evening public ledger. (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
-Evening public ledger. [volume] (Philadelphia [Pa.]), 23 Sept. 1916. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+Evening public ledger. (Philadelphia [Pa.]), 23 Sept. 1916. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
-The Tacoma times. [volume] (Tacoma, Wash.), 22 Sept. 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+The Tacoma times. (Tacoma, Wash.), 22 Sept. 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
 The Umpire 1917 (16) 
 
