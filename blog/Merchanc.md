@@ -56,3 +56,5 @@ One particularly memorable evening, after a performance that left the audience b
 Her farewell performance, months later, was a grand affair. The club members, many of whom had become her ardent supporters, presented her with a medal of honor. The medal, engraved with the club's emblem, was a symbol of their respect and affection. As she pinned it over her heart, Mlle. Petite Elba addressed the crowd, her voice thick with emotion. She spoke of the transformative power of art and friendship, thanking the inmates and the warden for embracing her performances and for the unexpected journey they had shared.
 
 That night, as the curtain fell, the applause was thunderous, echoing through the halls of Eastern State Penitentiary. Mlle. Petite Elba's legacy, marked by her spirit and resilience, remained long after her final bow, a testament to the enduring power of laughter and human connection in even the most unlikely places.
+
+![The Umpire](/assets/img/umpire4.png)
