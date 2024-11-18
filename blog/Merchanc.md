@@ -47,7 +47,7 @@ As a result of vaudeville incorporation into prisons, Mlle. Petite Elba made her
 
 <img src="/assets/img/elbatacoma.png" width="600" height="600">
 
-This provides historical background as to the act that Petite Elba had been performing all around the U.S. Eventually though, his acts had become so appreciated by the Honor and Friendship club that she was given an inlaid box as a gift. She was later on asked to return again to perform as she had wowed the men at the entertainment club. During her return Mlle. Petite Elba was given a medal by the club where she took the opportunity to thank them for the gift of the box.
+This provides historical background as to the act that Petite Elba had been performing all around the U.S. Eventually though, her acts had become so appreciated by the Honor and Friendship club that she was given an inlaid box as a gift. She was later on asked to return again to perform as she had wowed the men at the entertainment club. During her return Mlle. Petite Elba was given a medal by the club where she took the opportunity to thank them for the gift of the box.
 
 The small stature of Mlle. Petite Elba, coupled with her vivid expressions and nimble moves, had made her a beloved figure among the inmates. Known for her ability to weave humor and pathos into her performances, Elba's acts were more than just entertainment; they were a form of emotional release for many who witnessed them. Her routines, often featuring a mix of mime and slapstick, allowed her to connect deeply with her audience, bringing laughter and lightness to an otherwise grim environment.
 
