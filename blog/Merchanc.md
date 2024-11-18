@@ -21,6 +21,9 @@ The inclusion of vaudeville acts in prison reform efforts was groundbreaking. It
 
 In promoting these cultural and social activities, Eastern State Penitentiary provided a model for other institutions, demonstrating that reform could be achieved through dignity and enlightenment rather than through harshness and strict discipline alone. The success of the Honor and Friendship Club in transforming inmates’ lives showed that even within the constraints of a penitentiary, individuals could find room for personal growth and community building. This approach marked a significant shift in the goals of incarceration, one that would slowly permeate throughout the penal system in the decades that followed.
 
+![Honor and Friendship Club](/assets/img/honorandfriendshipclub.png)
+
+
 <h2>Vaudeville:</h2>	
 
 Vaudeville is itself its own unique history. It was its own form of entertainment that included comedians, magicians, and musicians. The newspaper from the evening Public Ledger in Philadelphia, Pennsylvania is an example of the various forms of entertainment that vaudeville provided and of the impact that it had on the rest of the world. It portrays the radical movement and some background as to why Vaudeville was seen as a form of reform for inmates. 
