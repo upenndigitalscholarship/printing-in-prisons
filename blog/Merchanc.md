@@ -60,3 +60,6 @@ Her farewell performance, months later, was a grand affair. The club members, ma
 That night, as the curtain fell, the applause was thunderous, echoing through the halls of Eastern State Penitentiary. Mlle. Petite Elba's legacy, marked by her spirit and resilience, remained long after her final bow, a testament to the enduring power of laughter and human connection in even the most unlikely places.
 
 <img src="/assets/img/umpire4.png" width="400" height="500">
+
+Rerences: 
+
