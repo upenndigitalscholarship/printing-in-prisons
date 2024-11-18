@@ -15,7 +15,7 @@ During the early 1900s, Eastern State Penitentiary emerged as a pioneering insti
 
 The Honor and Friendship Club was more than a mere social gathering; it was a structured program that encouraged inmates to earn privileges through good behavior. This merit-based system was instrumental in promoting discipline and morale, giving inmates tangible goals and the motivation to pursue them. The club organized meetings and events that provided inmates with opportunities to engage in meaningful interactions, exchange ideas, and support one another in their rehabilitative journeys.
 
-![Honor and Friendship Club](/assets/img/honorandfriendshipclub.png)
+<img src="/assets/img/honorandfriendshipclub.png" width="300" height="200">
 
 A significant aspect of the club’s activities involved incorporating vaudeville performances into the prison’s routine. Vaudeville, a highly popular form of entertainment at the time, included a variety of acts such as singing, comedy, magic, and dramatic sketches, which were seen as ideal for the prison environment due to their varied and engaging nature. These performances were not only intended for entertainment but also served as a rehabilitative tool, offering inmates a creative outlet and relief from the daily rigors of prison life.
 
@@ -59,4 +59,4 @@ Her farewell performance, months later, was a grand affair. The club members, ma
 
 That night, as the curtain fell, the applause was thunderous, echoing through the halls of Eastern State Penitentiary. Mlle. Petite Elba's legacy, marked by her spirit and resilience, remained long after her final bow, a testament to the enduring power of laughter and human connection in even the most unlikely places.
 
-![The Umpire](/assets/img/umpire4.png)
+<img src="/assets/img/umpire4.png" width="400" height="500">
