@@ -63,3 +63,10 @@ That night, as the curtain fell, the applause was thunderous, echoing through th
 
 Rerences: 
 
+Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+
+Evening public ledger. [volume] (Philadelphia [Pa.]), 23 Sept. 1916. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+
+The Tacoma times. [volume] (Tacoma, Wash.), 22 Sept. 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
+
+The Umpire 
