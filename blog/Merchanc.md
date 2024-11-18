@@ -77,6 +77,8 @@ Furthemore, Cash's performance was greatly responsible for crafting a new narrat
 
 Overall, both Mlle. Petite Elba’s vaudeville acts and Johnny Cash’s Folsom Prison concert demonstrate the power of artistic expression which can offer a path to emotional healing and solidarity. These performances underscore the idea that even within systems designed to punish and isolate, there is room for moments of connection and humanity—moments that can inspire change and leave lasting impacts on individuals and institutions alike.
 
+<img src="/assets/img/johnnycash.png" width="400" height="200">
+
 <h2> References:</h2> 
 
 Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
