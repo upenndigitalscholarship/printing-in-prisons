@@ -67,7 +67,17 @@ Through her vaudeville performances, Elba not only brought laughter and entertai
 
 Her legacy is a testament to the profound role that art and humanity can play in transforming both individuals and systems.
 
-<h2>Image References:</h2> 
+<h2>Influence:</h2> 
+
+The Vaudeville Acts of 1917 can be said to have set the stage of future entertainment acts in reformatory places like Johnny Cash's performance at Folson Prison in 1968. This performance parallels Elba's vaudeville acts because both performances were forced to transcend their surroundings and act as a temporary escape for inmates. 
+
+Johnny Cash released his first live album at Folsom Prison. This performance was part of his effort to bring attention to the struggles of incarcerated individuals, and it became one of the most famous moments in his career. Cash performed for an audience of around 2,000 prisoners in Folsom Prison's cafeteria. The setlist included some of his most iconic songs, many of which resonated deeply with the prisoners' experiences and emotions.
+
+Furthemore, Cash's performance was greatly responsible for crafting a new narrative for rehabilitation, emphasizing the importance of one's emotional and physicial-well being. It can be said that his performance revived a conversation on how to better address community-building in prisons. 
+
+Overall, both Mlle. Petite Elba’s vaudeville acts and Johnny Cash’s Folsom Prison concert demonstrate the power of artistic expression which can offer a path to emotional healing and solidarity. These performances underscore the idea that even within systems designed to punish and isolate, there is room for moments of connection and humanity—moments that can inspire change and leave lasting impacts on individuals and institutions alike.
+
+<h2> References:</h2> 
 
 Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
@@ -78,3 +88,5 @@ The Tacoma times. [volume] (Tacoma, Wash.), 22 Sept. 1917. Chronicling America: 
 The Umpire 1917 (16) 
 
 The Umpire 1917 (20) 
+
+Trail, Johnny Cash. “Why Did Johnny Cash Play at Folsom Prison?” Folsom Cash Art Trail, Folsom Cash Art Trail, 24 July 2023, folsomcasharttrail.com/the-trail/blog/why-did-johnny-cash-play-at-folsom-prison. 
