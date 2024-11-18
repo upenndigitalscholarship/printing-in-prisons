@@ -61,6 +61,12 @@ That night, as the curtain fell, the applause was thunderous, echoing through th
 
 <img src="/assets/img/umpire4.png" width="300" height="500"> <img src="/assets/img/honorandfriendshipclub16.png" width="300" height="500">
 
+The legacy of child performers like Mlle. Petite Elba demonstrates the profound and transformative impact of art in unconventional settings, such as Eastern State Penitentiary. Through her vaudeville performances, Elba brought a sense of humanity, connection, and joy to a population often denied this luxury. 
+
+Through her vaudeville performances, Elba not only brought laughter and entertainment to inmates but also embodied the broader goals of rehabilitation and emotional uplift that the institution sought to achieve.
+
+Her legacy is a testament to the profound role that art and humanity can play in transforming both individuals and systems.
+
 <h2>Image References:</h2> 
 
 Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
