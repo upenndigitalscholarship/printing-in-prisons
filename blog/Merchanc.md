@@ -61,7 +61,7 @@ That night, as the curtain fell, the applause was thunderous, echoing through th
 
 <img src="/assets/img/umpire4.png" width="400" height="500">
 
-Rerences: 
+<h2>Image References:</h2> 
 
 Evening public ledger. [volume] (Philadelphia [Pa.]), 09 June 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
