@@ -59,7 +59,7 @@ Her farewell performance, months later, was a grand affair. The club members, ma
 
 That night, as the curtain fell, the applause was thunderous, echoing through the halls of Eastern State Penitentiary. Mlle. Petite Elba's legacy, marked by her spirit and resilience, remained long after her final bow, a testament to the enduring power of laughter and human connection in even the most unlikely places.
 
-<img src="/assets/img/umpire4.png" width="400" height="500">
+<img src="/assets/img/umpire4.png" width="300" height="500"> <img src="/assets/img/honorandfriendshipclub16.png" width="300" height="500">
 
 <h2>Image References:</h2> 
 
@@ -69,4 +69,6 @@ Evening public ledger. [volume] (Philadelphia [Pa.]), 23 Sept. 1916. Chronicling
 
 The Tacoma times. [volume] (Tacoma, Wash.), 22 Sept. 1917. Chronicling America: Historic American Newspapers. Lib. of Congress. 
 
-The Umpire 
+The Umpire 1917 (16) 
+
+The Umpire 1917 (20) 
