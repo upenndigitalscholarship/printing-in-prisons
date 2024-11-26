@@ -21,7 +21,7 @@ Below is a photo of incarcerated individuals playing baseball on the field at ES
     </figure>
 </center>
 
-Each of the following sections, will cover some of the key figures that were frequently mentioned and involved in **The Umpire** as a contributor or seeming well liked individual. These sections will showcase comics of these individuals who brought joy to others via the newsletter. The goal of these paragraphs is to provide an experience to readers that humanizes the mentioned prisoners or historically underrepresented individiuals through their stories and contributions to the ESP League. 
+Each of the following sections, will cover some of the key figures that were frequently mentioned and involved in *The Umpire* as a contributor or seeming well liked individual. These sections will showcase comics of these individuals who brought joy to others via the newsletter. The goal of these paragraphs is to provide an experience to readers that humanizes the mentioned prisoners or historically underrepresented individiuals through their stories and contributions to the ESP League. 
 
 ## <center> Ducky aka Duckie </center>
 
