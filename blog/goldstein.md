@@ -69,5 +69,8 @@ Even in challenging times, the Jewish community found a place of sanctuary and e
 The image of the Jewish congregation gathered under the Torah ark, taken in 1959 and still displayed in 2024, serves as a powerful reminder of the devotion and faith upheld by individuals like Harry. The foundations laid down by leaders like Harry in the 1920's continue to inspire later generations, illustrating the lasting impact of their values and rituals. The efforts of leaders in faith ensured that these traditions would last long after their time, allowing future generations to maintain a strong religious identity. Harry’s legacy goes even further to exemplify the resilience of Jewish culture, with the synagogue on display symbolizing that the community’s traditions continue to provide meaning in modern times.
 
 
+<p style="margin-top: 10px;"></p>
+Clarification: I used Chat GPT solely for vocabulary/ synonymms. I did so, because I found myself being very repetitive, especially when trying to explain that Harry used his background and religion to connect and give to the communtiy around him in prison. There was definitely no copying/pasting or sentence/paragraph generation from Chat GPT.
+
 
 
