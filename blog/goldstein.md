@@ -70,7 +70,7 @@ The image of the Jewish congregation gathered under the Torah ark, taken in 1959
 
 
 <p style="margin-top: 10px;"></p>
-Clarification: I used Chat GPT solely for vocabulary/ synonymms. I did so, because I found myself being very repetitive, especially when trying to explain that Harry used his background and religion to connect and give to the communtiy around him in prison. There was definitely no copying/pasting or sentence/paragraph generation from Chat GPT.
+Clarification: I used Chat GPT solely for vocabulary/ synonyms. I did so, because I found myself being very repetitive, especially when trying to explain that Harry used his background and religion to connect and give to the communtiy around him in prison. There was definitely no copying/pasting or sentence/paragraph generation from Chat GPT.
 
 
 
