@@ -238,4 +238,6 @@ In addition to performing at events, Hume’s active involvement extended to par
 21. https://www.youtube.com/watch?v=OauCF5-zSv4
 22. https://www.youtube.com/watch?v=irjJiAhs9OA
 
+Note: GPT was utilized to develop ideas of how Hume's involvement within Eastern State Penitentiary contributed to a distinct identity that set him apart from other inmates. Specific vocabulary was also used to effectively convey these ideas. However, all ideas were further developed into writing without the use of GPT.
+
 <div>
