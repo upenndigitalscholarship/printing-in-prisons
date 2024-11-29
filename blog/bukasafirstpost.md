@@ -1,5 +1,5 @@
 ---
-title: Love to Prisons
+title: Lover to Prisons
 author: Charlie Clarke
 description: The poem My Penknife by Frank H. Gilson, exploring themes of redemption, love, and the complex symbolism of a penknife gifted to an imprisoned man by his wife despite his criminal past.
 thumbnail: drew-thumbnail.jpg
@@ -39,3 +39,5 @@ As he held the penknife, memories flooded his mind—moments of laughter with th
 With each line of his poem, Frank’s pen wove a narrative not just of love and redemption, but of penance and internal reckoning. "Take Thou my wasted life/ Teach me to love with all my heart the woman who is my wife," he wrote, a line that resonated as both plea and promise. This poem wasn’t just for her; it was for the man he aspired to be—someone truthful, someone steadfast.
 
 *Frank H. Gilson understood the purpose of the prison all too well. Sitting alone in his cell, he held a small, pearl-handled penknife—an object that seemed almost out of place in this stark, unforgiving environment. Yet, each night, as he turned the penknife in his hand, it served as a reminder of his past and the choices that led him here. In its cool, reflective surface, he found not only hope for redemption but the subtle edge of defiance, a hint that perhaps, even in captivity, his spirit sought freedom.*
+
+> **Note:** I used ChatGPT to get the idea of relating the reflective nature of the penknife to the poem's overall goal and its connection to Eastern State Penitentiary. Additionally, ChatGPT helped me organize my paragraphs and name the subheadings effectively.
