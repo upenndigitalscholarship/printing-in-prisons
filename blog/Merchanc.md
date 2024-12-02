@@ -92,3 +92,5 @@ The Umpire 1917 (16)
 The Umpire 1917 (20) 
 
 Trail, Johnny Cash. “Why Did Johnny Cash Play at Folsom Prison?” Folsom Cash Art Trail, Folsom Cash Art Trail, 24 July 2023, folsomcasharttrail.com/the-trail/blog/why-did-johnny-cash-play-at-folsom-prison. 
+
+Note: Chapt GPT was used to summarize certain articles from The Umpire, helping extract some of the most signifcant points of the newspaper. ChatGPT was also used to summarize some relevant historical sources and provide additional context regarding the Honor and Friendship Club at Eastern State Penitentiary, including its use of vaudeville performances as part of the prison reform efforts. The responses were analyzed and rephrased to be integrated into this essay.
