@@ -27,3 +27,7 @@ The role of the magazine's editors was crucial in this knowledge exchange. The v
 
 Another difference in the formality of the publications is that the Eastern Echo addresses the professor as Negley K. Teeters, with a notable exclusion of a title expressing his doctorate or career as a professor. This choice is also reflected in the table of contents of the article. It is not clear whether there is an intentional choice to leave out Dr. Teeter’s title, but it does contribute to an atmosphere that values diverse perspectives in an equal and less intimidating way. When reading the table of contents, it is impossible to distinguish between a professor like Dr. Teeters, someone who is incarcerated, or a warden until reading further into their particular article. As a result, the Eastern Echo was a forum in which academic scholarship was leveled with the perspective of inmates, whose philosophies and musings on prison systems and rehabilitation were equally acknowledged and essential to the editors. 
 
+References
+Eastern Echo Fall 1958
+The Lancaster County Historical Society Journal 1960
+(edited with Grammarly)
