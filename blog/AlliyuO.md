@@ -82,3 +82,5 @@ The Umpire, 142 (1917)
 
 The Umpire, 012 (1918)
 
+Made use of perplexity to help with grammar and the overall flow of the content
+
