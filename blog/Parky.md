@@ -240,6 +240,6 @@ With the power to organize the league and teams amongst themselves, the baseball
 <li> <a href="https://www.ancestrylibrary.com/discoveryui-content/view/records?recordId=32508013&collectionId=6482&tid=&pid=&queryId=a1406554-f84f-4765-b877-9c3405c06bae&_phsrc=VFw142&_phstart=successSource" target="_blank">Image 7 </a> </li>
 <li> <a href="https://chroniclingamerica.loc.gov/lccn/sn83032307/1918-02-28/ed-1/seq-1/#date1=1900&index=0&rows=20&words=Housel+Howard&searchType=basic&sequence=0&state=&date2=1963&proxtext=Howard+and+Housel&y=0&x=0&dateFilterType=yearRange&page=1" target="_blank">Image 8 </a> </li>
 <li> <a href="https://www.findagrave.com/memorial/39486051/howard-o.-housel?_gl=1*1otpb65*_gcl_au*MTg3NzAxNTQ0Mi4xNzI5NTM5NzMw" target="_blank">Image 9 </a> </li>
-
+<p>Note: I used some assistance from ChatGPT for html codes: creating a textbox (for poem) and formatting text and header in a right place.</p>
 </body>
 </html>
