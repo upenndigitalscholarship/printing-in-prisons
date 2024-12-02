@@ -13,6 +13,7 @@ The Eastern Echo magazine, leveraged color in a restrained yet impactful way, in
 
 <div>
   <img src="/assets/img/parkj-1.jpeg" alt="Image by Aline Seiler from Google" style="width: 70%;"><br/>
+Thank you to Aline Seiler for the helpful image. https://www.alineseiler.com/blog/saddlestitching-vs-machine-stitching
   <img src="/assets/img/parkj-2.jpeg" style="width: 70%;">
 </div>
 
