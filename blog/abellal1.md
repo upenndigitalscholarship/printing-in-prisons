@@ -25,7 +25,20 @@ one report noted, reflecting the deep impact of her contributions.
 
 
 ![Plaque](/assets/img/ww1plaque1.jpeg)
+# Path to the image
+image_path = "(/assets/img/ww1plaque1.jpeg)" 
 
+img = Image.open(image_path)
+
+original_width, original_height = img.size
+
+new_width = original_width // 2
+new_height = original_height // 2
+
+resized_img = img.resize((new_width, new_height))
+
+resized_img.save("resized_half_ww1plaque1.jpeg")
+print(f"Image resized to half the size: {new_width}x{new_height}")
 ## The Power of Music
 ![Marseillaise](/assets/img/frenchanthem.jpeg)
 
