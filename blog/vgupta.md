@@ -42,7 +42,7 @@ William Weber's story in the archives starts in early 1893 when he was convicted
 <div style="width: 40%; float: right; margin-right: 20px;">
     <img src="/assets/img/Vasuimg2.jpeg/" alt="Honor Club notice written by Weber" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image of Honor Club Meeting Notes written by Willaim Weber
+        This is an image of first Honor Club Meeting Note written by Willaim Weber
     </p>
 </div>
 
@@ -67,7 +67,7 @@ Weber's determination to improve himself was not unnoticed by others. He was giv
 <div style="width: 100%; float: center;">
     <img src="/assets/img/Vasuimg10.jpeg/" alt="Example of causes supported by Honor Club on the left and record of Weber becoming Vice Presdient on Right" style="width: 100%;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-        This is an image containing Honor Cub notes containing causes supported by the Honor Club on the left and record of Weber becoming the club's Vice President on right
+        On the left is an image containing Honor Cub notes discussing entertainment hosted by the club and record of Weber becoming the club's Vice President. On the right is an image containing Honor Cub notes containing causes supported by the Honor Club like their Christmas Fund.
     </p>
 </div>
 
