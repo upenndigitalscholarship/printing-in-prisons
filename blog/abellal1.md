@@ -24,10 +24,10 @@ With her encouragement, the HFC became a symbol of solidarity and reformation, e
 one report noted, reflecting the deep impact of her contributions.
 
 
-![Plaque](/assets/img/ww1plaque1.jpg)
+![Plaque](/assets/img/ww1plaque1.jpeg)
 
 ## The Power of Music
-![Marseillaise](/assets/img/frenchanthem.jpg)
+![Marseillaise](/assets/img/frenchanthem.jpeg)
 
 Music was central to Gates’ bond with the prisoners. On one occasion, she performed a communion hymn in the chapel, moving both herself and her audience to tears. Her music, whether it was hymns or the French national anthem "Marseillaise," created moments of emotional release and dignity. “To vivify the darkened soul, and point it to a better goal,”(2) one inmate wrote in an appreciation, capturing the transformative impact of these performances. Gates recognized the power of music to lift spirits and bridge emotional divides within the penitentiary walls.
 
