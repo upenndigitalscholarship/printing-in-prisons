@@ -10,6 +10,9 @@ layout: post
 tags:
   - blog, H.F.C, honor club, entertainment
 ---
+
+# Little Mother of the Forgotten - How Jane Gates Redefined Prison Outreach
+
 Mrs. Jane Gates, a philanthropist and dedicated member of the King’s Daughters, redefined prison outreach at Eastern State Penitentiary with her remarkable compassion and empathy. Known as the “Little Mother” by inmates, Gates offered hope, humanity, and a sense of community to people some would consider unredeemable. As mentioned in The Umpire, she “has been the means of causing many men with whom she has advised, with her bright cheeriness, to hope,”(1) a testament to the uplifting presence she brought to those behind bars.
 
 Gates entered Eastern State as a member of the King’s Daughters, a Christian philanthropic group focused on aiding marginalized groups. During her time volunteering, she quickly became known for her work with the prison’s Honor and Friendship Club or “HFC”, a society organized by inmates aimed at personal betterment and mutual support. Her nurturing presence within the group was so impactful that she was referred to as “The Little Mother to the H.F.C” in their book of minutes (1).
