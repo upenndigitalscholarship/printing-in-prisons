@@ -1,7 +1,7 @@
 ---
 title: The People Behind the Products.
 author: Gracie Smith
-description: My Blog about agile frameworks.
+description: This article is about an ad section in _The Umpire_. It highlights incarcerated persons and their contributions to their crafts and the greater meaning behind these products.
 thumbnail: smith-thumbnail.png
 alt-text: This is a screenshot of the front page of the Printing in Prisons Project 
 date: 2024-11-11
