@@ -370,7 +370,7 @@ input:focus {
 }
 .postlist{
 	margin:0;
-	list-style:none;
+	list-style-type:none;
 }
 .postlist-item{
 	//height:200px;
