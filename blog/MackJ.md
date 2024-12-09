@@ -17,7 +17,7 @@ comes to mind, especially at Eastern State Penitentiary in Philadelphia, Pennsyl
 The harsh conditions of Eastern State pioneered models for prisons across the country.
 In 1829, the City of Philadelphia legislation passed a law permitting inmates to be
 seperate and silent 23 hours of the day, with the intention of forcing inmates to drown 
-in reflection of their ugly behavior. This system, later to be refered to as the Philadelphia
+in reflection of their ugly behavior. This system, later to be referred to as the Philadelphia
 System aimed to have inmates grow to become genuinely penitent through isolation methods, which
 is where the new term for prisons, Penitentiary, was birthed.
 
@@ -26,7 +26,7 @@ like the barbershop, fostered a sense of community both within the prison walls 
 
 Growing up, I spent much time in a barbershop, a place where my friends and I  
 would hang out even if we weren’t there for haircuts. We would talk about  
-everything from debates on LeBron vs. Jordan, discussions about building generational wealth,  
+everything from debates on LeBron vs. Jordan, and discussions about building generational wealth,  
 to even casual conversations about upcoming school assignments. The barbershop was a  
 place where I, as a Black man, felt free to express my feelings and emotions.  
 
@@ -86,7 +86,7 @@ mirrored the historical significance that barbershops have held in communities n
 particularly within African American communities. For the inmates of Eastern State,  
 these spaces were a reminder of freedom, connection, and the possibilities that lay ahead.  
 
-![This is the exhibit regarding barbershops at Eastern State Penitentiary](/assets/img/Mack-3.jpg)  
+![This is the exhibit regarding barbershops at Eastern State Penitentiary](/assets/img/Mack-3.jpeg)  
 
 ---
 
