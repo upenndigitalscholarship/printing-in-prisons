@@ -17,7 +17,7 @@
 				</div>
 				<div class="third">
 				<!-- <h4>{{ post.data.author }}</h4> -->
-				<img width="50px" src="{{ '/assets/logos/manicule.svg' | url }}" />
+				<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}<img width="50px" src="{{ '/assets/logos/manicule.svg' | url }}" /></a>
 				</div>
 	</div>
 		</div>
