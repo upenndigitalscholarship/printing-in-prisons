@@ -1,7 +1,7 @@
 ---
 title: Socrates Cantoral, A Jack of All Trades
 author: Kayla Karmanos
-description: Artist Socrates Cantoral of the Eastern Echo.
+description: Artist Socrates Cantoral is a model of self-reclamation and morality at Eastern State Penitentiary.
 thumbnail: /assets/img/Echo-summer-1965-page1.png
 alt-text: front-page illustration by Socrates Cantoral.
 date: 2024-11-04
