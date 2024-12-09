@@ -374,7 +374,7 @@ input:focus {
 }
 .postlist-item{
 	list-style-type:none;
-	min-height:200px;
+	min-height:300px;
 }
 .postlist-item h2{
 	padding:10px;
