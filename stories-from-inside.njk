@@ -11,11 +11,12 @@
 				<div class="wide">
 				<!-- <img src="/assets/img/{{ post.data.thumbnail }}" /> -->
 				<h2>
-					<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}<img width="50px" src="{{ '/assets/logos/manicule.svg' | url }}" /></a>
+					<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 				</h2>
 				<p>{{ post.data.description }}</p>
 				</div>
 				<div class="third">
+				<img width="80px" src="{{ '/assets/logos/manicule.svg' | url }}" />
 				<!-- <h4>{{ post.data.author }}</h4> -->
 				</div>
 	</div>
