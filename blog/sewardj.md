@@ -29,7 +29,7 @@ The chaplain of ESP was the Rev. Joseph Welch whose official title was “Moral 
 </div>
 
 <p style="text-align:justify;">
-Welch served in the Union army as a chaplain throughout the American Civil War as an ordained Methodist Elder. Welch oversaw the religious services in ESP, including weekly or monthly Catholic, Episcopal, and Jewish services.<sup>3</sup> His role was as much religious as it was institutional, and the emphasis on reforming the individual through confinement was accomplished through living a moral life—which is depicted as a Christian life in the *Umpire* and in Welch’s own writings—and a productive one with employment. Welch sought to instill discipline through religion to the prisoners of ESP, and the *Umpire* seemingly supports this aim:</p>
+Welch served in the Union army as a chaplain throughout the American Civil War as an ordained Methodist Elder. Welch oversaw the religious services in ESP, including weekly or monthly Catholic, Episcopal, and Jewish services.<sup>3</sup> His role was as much religious as it was institutional, and the emphasis on reforming the individual through confinement was accomplished through living a moral life—which is depicted as a Christian life in the <i>Umpire</i> and in Welch’s own writings—and a productive one with employment. Welch sought to instill discipline through religion to the prisoners of ESP, and the <i>Umpire</i> seemingly supports this aim:</p>
 
 <div style="text-align:justify;">
 
