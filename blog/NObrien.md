@@ -1,7 +1,7 @@
 ---
 title: Duality of Prison System
 Author: Nick O'Brien
-description: Duality of Incarcerated people and the justice systems
+description: Duality of Incarcerated people and the justice systems.
 thumbnail: Obrien-thumbnail.jpg 
 alt-text: a file of my essay
 date: 2024-11-11
