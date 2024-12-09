@@ -386,6 +386,7 @@ input:focus {
 	margin:0;
 }
 .postlist-item p{
+	padding-bottom:8px;
 	border-bottom: 1px solid gray;
 }
 .img-right{
