@@ -375,20 +375,21 @@ input:focus {
 .postlist-item{
 	list-style-type:none;
 	min-height:300px;
+	border-bottom: 1px solid gray;
+	vertical-align:top;
 }
 .postlist-item h2{
-	padding:10px;
+	padding:0;
 	margin:0;
 }
 .postlist-item img{
 	float:left;
 	max-width:300px;
 	max-height:200px;
-	margin:20px;
+	margin:15px;
 }
 .postlist-item p{
 	padding-bottom:25px;
-	border-bottom: 1px solid gray;
 }
 .img-right{
 	float:right;
