@@ -2,7 +2,7 @@
 title: "Disability Services in Eastern State Penitentary"
 author: Helena Giner
 description: Multiple Mentions of disability services in Eastern Echo are analyzed in context of disability in  mid-late 20th century prisons.
-thumbnail: assets/img/Eastern_echo_fall1965_bodyclip.png
+thumbnail: Eastern_echo_fall1965_bodyclip.png
 alt-text: This is an image of prisoners with disabilities from the article "Disabled Public Offenders
 date: 2024-11-11
 layout: post
