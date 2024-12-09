@@ -4,7 +4,7 @@
 
 <div class="container-collections widest">
 {# {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %} #}
-<ul reversed class="postlist">
+<ul reversed class="postlist" style="list-style-type:none">
 {%- for post in collections.blog | reverse -%}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<div style="gap:2em; align-items:center; justify-content:center; height:200px" class="element-centered wider short flex">
