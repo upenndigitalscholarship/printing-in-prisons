@@ -2,7 +2,7 @@
 title: The Rev. Joseph Welch, Moral Instructor
 author: Justin Seward
 description: ESP's "Moral Instructor" and chaplain, the Rev. Joseph Welch, represents the mission of the prison at the time.
-thumbnail: /assets/img/seward-picture1.png
+thumbnail: seward-picture1.png
 alt-text: this is a text image.
 date: 2024-11-11
 layout: post
