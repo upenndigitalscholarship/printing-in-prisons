@@ -86,7 +86,7 @@ mirrored the historical significance that barbershops have held in communities n
 particularly within African American communities. For the inmates of Eastern State,  
 these spaces were a reminder of freedom, connection, and the possibilities that lay ahead.  
 
-![This is the exhibit regarding barbershops at Eastern State Penitentiary](/assets/img/Mack-3.jpeg)  
+![This is the exhibit regarding barbershops at Eastern State Penitentiary](/assets/img/Mack-3.jpg)  
 
 ---
 
