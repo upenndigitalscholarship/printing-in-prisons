@@ -375,7 +375,6 @@ input:focus {
 .postlist-item{
 	list-style-type:none;
 	min-height:300px;
-	border-bottom: 1px solid gray;
 	vertical-align:top;
 }
 .postlist-item h2{
