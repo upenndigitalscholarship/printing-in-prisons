@@ -1,7 +1,7 @@
 ---
 title: Frieda Trost - A Life of Loss, Scandal, and Redemption
 author: Anonymous
-description: Frieda Trost became the focus of a sensational murder trial, accused of poisoning her second husband.
+description: This article re-examines the case of Frieda Trost, questioning her murder conviction and exploring her potential innocence.
 thumbnail: ChristianHartmanArticle.jpeg
 alt-text: An image related to Frieda Trost's story.
 date: 2024-11-19
