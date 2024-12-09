@@ -373,8 +373,7 @@ input:focus {
 	list-style-type:none;
 }
 .postlist-item{
-	//height:200px;
-	//overflow:hidden;
+	list-style-type:none;
 }
 .postlist-item img{
 	float:left;
