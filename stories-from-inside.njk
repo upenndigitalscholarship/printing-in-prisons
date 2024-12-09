@@ -7,7 +7,7 @@
 <ul reversed class="postlist" style="list-style-type:none">
 {%- for post in collections.blog | reverse -%}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
-		<div style="gap:2em; align-items:center; justify-content:center; height:200px" class="element-centered wider short flex">
+		<div class="element-centered wider short flex">
 				<div class="wide">
 				<!-- <img src="/assets/img/{{ post.data.thumbnail }}" /> -->
 				<h2>
