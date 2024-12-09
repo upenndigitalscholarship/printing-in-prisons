@@ -375,12 +375,6 @@ input:focus {
 .postlist-item{
 	list-style-type:none;
 }
-.postlist-item img{
-	float:left;
-	max-width:300px;
-	max-height:200px;
-	margin:20px;
-}
 .postlist-item h2{
 	padding:10px;
 	margin:0;
