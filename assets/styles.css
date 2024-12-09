@@ -374,7 +374,7 @@ input:focus {
 }
 .postlist-item{
 	list-style-type:none;
-	border-bottom: 1pm solid gray;
+	border-bottom: 1px solid gray;
 }
 .postlist-item img{
 	float:left;
@@ -387,7 +387,6 @@ input:focus {
 	margin:0;
 }
 .postlist-item p{
-
 }
 .img-right{
 	float:right;
