@@ -379,8 +379,14 @@ input:focus {
 	padding:10px;
 	margin:0;
 }
+.postlist-item img{
+	float:left;
+	max-width:300px;
+	max-height:200px;
+	margin:20px;
+}
 .postlist-item p{
-	padding-bottom:8px;
+	padding-bottom:15px;
 	border-bottom: 1px solid gray;
 }
 .img-right{
