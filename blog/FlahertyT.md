@@ -2,7 +2,7 @@
 title: The Editors of The Umpire
 author: Taryn Flaherty
 description: This blog is about how four editors of The Umpire reveal a history of education and agency in the prison's newspaper
-thumbnail: Flahertythumbnail.png
+thumbnail: tarynthumbnail.png
 alt-text: This is a thumbnail for the multimedia essay
 date: 2024-12-11
 layout: post
@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-![test image](/assets/img/Flahertythumbnail.png)
+![test image](/assets/img/tarynthumbnail.png)
 
 ## Introduction
 
