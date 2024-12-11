@@ -10,12 +10,12 @@ tags:
   - blog
 ---
 
-<img src="/assets/img/tarynthumbnail.png" style="width:30%; height:30%;" alt="thumbnail photo of first page of 1913 Umpire">
-
-
 6 years. 52 issues. Over 4,000 articles. Over 350 identified authors. And the four editors that made it all possible. 
 
 These editors were identified in The Umpire by their inmate IDs:  B-2331, B-6591, B-7413, and B-8266. But their real names were William Kane, William Mitchell, Charles Kinlock, and Clarence Alexander Rea Wray. These men were not just editors; they were writers, teachers, mediators, and leaders in the Eastern State community. Although we may not know everything about them, by studying The Umpire, I hope to provide a deeper insight into the relationships between these editors and education and prison administration. 
+
+<img src="/assets/img/tarynthumbnail.png" style="width:30%; height:30%;" alt="thumbnail photo of first page of 1913 Umpire">
+
 
 ## Education
 
