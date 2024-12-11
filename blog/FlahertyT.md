@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-![test image](/assets/img/tarynthumbnail.png)
+![thumbnail photo of first page of 1913 Umpire](/assets/img/tarynthumbnail.png) width=500
 
 ## Introduction
 
