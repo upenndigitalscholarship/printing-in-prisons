@@ -51,9 +51,13 @@ The history of the four editors of The Umpire—William Kane, William Mitchell, 
 
 ## References 
 The Umpire, Vol 2 Issue 1 Page 1 (1913)
+
 The Umpire, 856 (1913)
+
 The Umpire, 841 (1913)
+
 The Umpire, 2522 (1917)
+
 The Umpire, 2617 (1917
 
 ## Works Cited and Further Reading
