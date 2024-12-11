@@ -49,7 +49,14 @@ William Mitchell as editor acknowledged the role of prison administrators in pri
 
 The history of the four editors of The Umpire—William Kane, William Mitchell, Charles Kinlock, and Clarence Alexander Rea Wray—reveals a history of education and agency in early twentieth-century prisons. Their personal education, beliefs, and leadership led to six years of newspaper publications, striving to provide a platform for incarcerated folks to build community in and out of the prison. These editors alongside their fellow inmates motivated each other to become writers, teachers, students, and more. Driven to bring just a “little good” to their ESP community, these men left a legacy of enrichment of their fellow inmates within the pages of The Umpire. 
 
-## References and Further Reading
+## References 
+The Umpire, Vol 2 Issue 1 Page 1 (1913)
+The Umpire, 856 (1913)
+The Umpire, 841 (1913)
+The Umpire, 2522 (1917)
+The Umpire, 2617 (1917
+
+## Works Cited and Further Reading
 
 https://prisonjournalismproject.org/prison-newspaper-project/
 
