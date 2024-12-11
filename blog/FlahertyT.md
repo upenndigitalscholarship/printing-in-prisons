@@ -12,7 +12,6 @@ tags:
 
 <img src="/assets/img/tarynthumbnail.png" style="width:30%; height:30%;" alt="thumbnail photo of first page of 1913 Umpire">
 
-## Introduction
 
 6 years. 52 issues. Over 4,000 articles. Over 350 identified authors. And the four editors that made it all possible. 
 
