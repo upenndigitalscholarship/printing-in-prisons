@@ -52,5 +52,7 @@ The history of the four editors of The Umpire—William Kane, William Mitchell, 
 ## References and Further Reading
 
 https://prisonjournalismproject.org/prison-newspaper-project/
+
 https://philadelphiaencyclopedia.org/essays/private-independent-schools/
+
 https://blackstone.edu/the-history-of-inmate-education/
