@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-<img src="/assets/img/tarynthumbnail.png" style="width:50%; height:50%;" alt="thumbnail photo of first page of 1913 Umpire">
+<img src="/assets/img/tarynthumbnail.png" style="width:40%; height:40%;" alt="thumbnail photo of first page of 1913 Umpire">
 
 ## Introduction
 
@@ -28,7 +28,7 @@ This level or quality of education was not particularly common among their peers
 
 Although formal education was out of reach for many inmates, informal education was not entirely. It was highly dependent on individuals and much less ingrained into the structure of the prisons. However, some skilled incarcerated folks could share and teach their skills to others. William Mitchell, editor in 1913, taught lessons on the Pitman systems to train his fellow ESP residents how to be stenographers. 
 
-<img src="/assets/img/856photo1.png" style="width:60%; height:60%;" alt="Image of William Mitchell's article offering lessons on Pitman System">
+<img src="/assets/img/856photo1.png" style="width:40%; height:40%;" alt="Image of William Mitchell's article offering lessons on Pitman System">
 
 To have leaders with skills, such as William, was crucial to having an internal education system in the ESP community. Looking at untraditional education and opportunities for professional development, The Umpire’s writing reveals a community-based form of leadership and enrichment from those like William. 
 
@@ -40,8 +40,8 @@ Although these newspapers can be seen as a mode of inmate empowerment, literacy 
 
 While Charles Kinlock was editor in 1916, he regularly published what seemed to be proverbs or moralistic phrases. He wrote, “What men wants is not talent, it is purpose to achieve—the will to labor" (ID: 2522) and another saying, "The man knows his strength until occasion proves them" (ID: 2617). These philosophical one-line proverbs supported an intrinsic motivation for labor, service, and proving one’s self. These qualities appeal to ESP’s original mission of forcing penance and impressing deep reflection on one’s actions as a form of punitive measures. The publishing of these articles gives a glimpse into how The Umpire might’ve been used as a mouthpiece of sorts for the ESP’s administrators. 
 
-<img src="/assets/img/2522photo1.png" style="width:60%; height:60%;" alt="Image of Charles Kinlock's proverbs in The Umpire">
-<img src="/assets/img/841photo1.png" style="width:40%; height:40%;" alt="Image of William Mitchell's addressing prison administrator's involvement in prison newspapers">
+<img src="/assets/img/2522photo1.png" style="width:30%; height:30%;" alt="Image of Charles Kinlock's proverbs in The Umpire">
+<img src="/assets/img/841photo1.png" style="width:30%; height:30%;" alt="Image of William Mitchell's addressing prison administrator's involvement in prison newspapers">
 
 William Mitchell as editor acknowledged the role of prison administrators in prison newspapers in an article called “Prison Papers” in 1916 as shown above. Mitchell explicitly stated The Umpire was dedicated to their inmates first and foremost, believing that “teach[ing] some little good to only one man” was a success in and of itself. While the relationship between newspaper leadership and prison administrators could’ve varied from editor to editor, it was clear that the writers of the newspapers were well aware of the power imbalance and not just passive subjects of administrators. Editors and writers actively chose whether or not to address issues. Regardless of the role of ESP’s administrators in censorship, the newspaper still belonged to the inmates and was used as a mode of self-expression and community building among the incarcerated community. 
 
