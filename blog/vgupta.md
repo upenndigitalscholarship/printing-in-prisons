@@ -1,9 +1,9 @@
 ---
 title: From Death Row to Free Man
 author: Vasu Gupta
-description: Rehabilitation 
+description: This essay explores William Weber's story, as uncovered in historical archives, highlighting one man's resilience, personal growth, and the impact of the prison community that supported him. 
 thumbnail: Vasuimg9.jpeg
-alt-text: this is a text image.
+alt-text: William Weber prison record 
 date: 2024-11-11
 layout: post
 tags:
