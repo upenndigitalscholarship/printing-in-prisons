@@ -2,8 +2,8 @@
 title: Growing Up Behind Walls Childhood at Eastern State Penitentiary
 author: Olubukola Alliyu
 description: Youth in the jail???
-thumbnail: facad_option(LOC).jpg
-alt-text: this is a text image.
+thumbnail: jimmieoo.png
+alt-text: Article about Jimmie O O, the toddler of Eastern State.
 date: 2024-11-11
 layout: post
 tags:
