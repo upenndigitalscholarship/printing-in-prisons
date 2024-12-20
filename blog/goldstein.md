@@ -2,7 +2,7 @@
 title: Harry Haspel; A Glimpse into Family and Faith
 author: Sydney Goldstein
 description: Harry Haspel's Jewish legacy at Eastern State Penitentiary
-thumbnail: goldstein-thumbnail.png
+thumbnail: umpiregoldstein.png
 alt-text: a screenshot of the article that mentions Harry Haspel from The Umpire
 date: 2024-11-07
 layout: post
