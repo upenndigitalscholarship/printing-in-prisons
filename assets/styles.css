@@ -374,7 +374,7 @@ input:focus {
 }
 .postlist-item{
 	list-style-type:none;
-	min-height:300px;
+//	min-height:300px;
 	vertical-align:top;
 }
 .postlist-item h2{
@@ -383,12 +383,12 @@ input:focus {
 }
 .postlist-item img{
 	float:left;
-	max-width:300px;
+	max-width:auto;
 	max-height:200px;
 	margin:15px;
 }
 .postlist-item p{
-	padding-bottom:15px;
+//	padding-bottom:15px;
 }
 .img-right{
 	float:right;
