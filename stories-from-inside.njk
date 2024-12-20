@@ -3,7 +3,8 @@
 {{ content | safe }}
 
 <div class="container-collections widest">
-<p>The following short blog posts are intended to help orient you to the archive. They tell some of the stories of the people who worked on the prison newspapers in our reading room, as well different topics represented in the newspapers themselves.</p>
+<p>The following short blog posts, written by students working with this archive, are intended to help orient you to the materials in our digital collection. They tell some of the stories of the people who worked on these prison newspapers, as well different topics represented in the newspapers themselves.</p>
+<hr>
 {# {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %} #}
 <ul reversed class="postlist" style="list-style-type:none">
 {%- for post in collections.blog | reverse -%}
