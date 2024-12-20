@@ -2,8 +2,8 @@
 title: Believers in God - How Eastern State Inmates Pursued their Christian Beliefs and Served God During the Time of War
 author: Daniel Cho
 description: How Eastern State Penitentiary Inmates Pursued their Christian Beliefs and Served God During the Time of War
-thumbnail: thumbnail.jpeg
-alt-text: This is an image of Chapel within the Eastern State Penitentiary facility.
+thumbnail: cho8.png
+alt-text: This is an image of a war memorial at Eastern State Penitentiary.
 date: 2024-11-11
 layout: post
 tags:
