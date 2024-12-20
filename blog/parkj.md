@@ -2,7 +2,7 @@
 title: Pressing Boundaries- How Technology and Technique Shaped the Eastern Echo
 author: Jean Park
 description: My Blog is about the magazine’s blend of art, technology, and craftsmanship.
-thumbnail: parkcover.png
+thumbnail: parkj-2.jpeg
 alt-text: The front page of the Eastern Echo Spring 1958
 date: 2024-11-11
 layout: post
