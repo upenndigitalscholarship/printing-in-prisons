@@ -2,7 +2,7 @@
 title: Women in Prison
 Author: Wendy Deng
 description: The representation of women in the prison, as depicted in "The Umpire," highlights their roles and contributions within the Eastern State Penitentiary (ESP). Although women were not directly involved in the print shop or the production of "The Umpire," they played significant roles in the prison's social and domestic spheres.
-thumbnail: 
+thumbnail: wendy-christmas-tree.jpeg
 alt-text: 
 date: 2024-11-11
 layout: post
