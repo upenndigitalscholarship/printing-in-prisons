@@ -379,7 +379,7 @@ input:focus {
 	border-bottom: 1px dotted gray;
 }
 .postlist-item h2{
-	padding:0;
+	padding-top:15px;
 	margin:0;
 }
 .postlist-item img{
