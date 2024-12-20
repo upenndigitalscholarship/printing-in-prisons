@@ -383,10 +383,11 @@ input:focus {
 	margin:0;
 }
 .postlist-item img{
-	float:left;
+//	float:left;
 	max-width:auto;
 	max-height:200px;
 	margin:15px;
+	text-align:center;
 }
 .postlist-item p{
 //	padding-bottom:15px;
