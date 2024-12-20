@@ -2,8 +2,8 @@
 title: How Mlle. Petite Elba paved her way into The Umpire 
 author: Claudia Merchan 
 description: History of Petite Elba 
-thumbnail: Merchan-thumbnail.png 
-alt-text: a screenshot of the frontpage of the Printing in Prisons Website 
+thumbnail: vaudevillehistory.png
+alt-text: A newspaper ad mentioning Mlle. Petite Elba
 date: 2024-11-11
 layout: post
 tags:
