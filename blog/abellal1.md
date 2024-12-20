@@ -24,7 +24,6 @@ With her encouragement, the HFC became a symbol of solidarity and reformation, e
 one report noted, reflecting the deep impact of her contributions.
 
 
-
 <img src="assets/img/ww1plaque1.jpeg" alt="PLaque" width="40%">
 
 
