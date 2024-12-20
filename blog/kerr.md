@@ -2,8 +2,8 @@
 title: B-6594's Moral Essays
 author: Rachel Ker
 description: My Blog about B-6594's moral essays in The Umpire.
-thumbnail: testimage.jpg
-alt-text: this is a text image.
+thumbnail: moraltruisms.png
+alt-text: Header from the "Moral Truisms" column.
 date: 2024-11-11
 layout: post
 tags:
