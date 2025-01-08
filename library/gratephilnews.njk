@@ -1,0 +1,91 @@
+{% extends "base.njk" %}
+{% block content %}
+
+<div class="container-collections wider">	
+	<div class="item">
+		<img src="{{ '/assets/front-end-images/gratephilnews.png' | url }}" />
+		<h1>In 1929, Graterford Prison was built just outside the city of Philadelphia. It was meant to be a more "modern" penitentiary, compared to Eastern State Penitentiary inside Philadelphia, by then a century old.</h1>
+	</div>
+	<div class="divider"></div>
+	<div class="item">
+        <div class="item-left">
+	        <h2>Little is known about the <em>Grate-Phil News</em> or <em>Pen Points</em>. Only a single known copy of each exists today, both from 1934. They are in the Eastern State Penitentiary Historic Site's archive.</h2>
+			<p><em>Pen Points</em> (Volume 1, Issue 1) is dated February 14, 1934. <em>Grate-Phil News</em> (Volume 1, Issue 5) is dated July 3, 1934. This suggests they were both published monthly. They have similar mastheads, stating that they were published, and probably printed, at Eastern State, most likely by the incarcerated men who worked the printshop. They also share a similar layout as four-page general newsletters circulated within the prisons. However, unlike the earlier issues of <em>The Umpire</em>, they do not appear to have been edited or written by those incarcerated there.</p>
+        </div>
+        <div class="item-right">
+			<img src="{{ '/assets/front-end-images/gratephilnews-masthead.jpg' | url }}" />
+        </div>
+	</div>
+    <div class="item">
+			<img src="{{ '/assets/front-end-images/GratePhilNewsRecto.jpg' | url }}" />
+	</div>
+	<div class="item">
+			<img src="{{ '/assets/front-end-images/GratePhilNewsVerso.jpg' | url }}" />
+	</div>
+	<div class="item">
+			<img src="{{ '/assets/front-end-images/penpoints-1.jpg' | url }}" />
+	</div>
+	<div class="item">
+			<img src="{{ '/assets/front-end-images/penpoints-2.jpg' | url }}" />
+	</div>
+	<div class="item">
+		<h2>To download the latest dataset with metadata and full text for every article in this single issue of <em>Grate-Phil News</em> (updated January 8, 2025), click <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/_data/grate-philnews-01-08-25.csv" target="_blank"><u>here</u></a>. For <em>Pen Points</em> (updated January 8, 2025), click <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/_data/penpoints-01-08-25.csv" target="_blank"><u>here</u></a>.</h2>
+	</div>
+</div>
+<!--
+<div id="articles" class="widest">
+	<table>
+		<thead>
+		
+          	<input type="text" class="search" placeholder="Search" />
+        	
+			<tr>
+		  	<th class="sort" data-sort='table-title'><b>title</b></th>
+			<th class="sort" data-sort='table-author'><b>author </b></th>
+			<th class="sort" data-sort='table-newspaper'><b>newspaper</b></th>
+			<th class="sort" data-sort='table-year'><b>year</b></th>
+			<th class="sort" data-sort='table-month'><b>month</b></th>
+			<th class="sort" data-sort='table-day'><b>day</b></th>
+			<th class="sort" data-sort='table-tag'><b>tags</b></th>
+			
+		</tr>  
+		
+    </thead>
+	 
+	<tbody class="list">
+	{%- for post in collections.gossipAdviceJokes -%}
+		<tr>
+			<td class="table-title">
+					<a href="{{ post.url | url }}">
+					"{{ post.data.title }}"
+					</a>
+			</td>
+			<td class="table-author">
+				{%- for author in post.data.author -%}
+				{% if loop.first %}
+				{{ post.data.author }}
+				{% endif %}
+				{%- endfor -%}
+			</td>
+			<td class="table-newspaper">{{ post.data.newspaper }}</td>
+			<td class="table-year">{{ post.data.year }}</td>
+			<td class="table-month">{{ post.data.month }}</td>
+			<td class="table-day">{{ post.data.day }}</td>
+			<td class="table-tag">
+				{%- for tag in post.data.tags -%}
+					{% if loop.last %}
+						{{ tag }}
+					{% else %}
+						{{ tag }}, 
+					{% endif %}
+					
+				{%- endfor -%}
+			</td>
+		</tr>
+	{%- endfor -%}
+  </tbody>
+ </table>
+</div>
+-->
+{% endblock %}
+
