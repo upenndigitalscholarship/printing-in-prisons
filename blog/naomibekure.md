@@ -4,7 +4,7 @@ author: Naomi Bekuretsion
 description: An exploration of the inteprlay between faith and carceral power in Eastern State through the medium of murals painted by an incarcerated person, and the written teachings of Catholic chaplains that discipled him.
 thumbnail: 
 alt-text: Lester Smith photographed at Eastern State in the 1950s.
-date: 2025-1-20
+date: 2025-01-20
 layout: post
 tags:
   - blog
