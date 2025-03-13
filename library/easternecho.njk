@@ -1,5 +1,6 @@
-{% extends "base.njk" %}
-{% block content %}
+---
+layout: collection
+---
 
 <div class="container-collections wider">	
 	<div class="item">
@@ -13,7 +14,9 @@
 	</div>
 	<div class="item">
 			<h2>Because it was written for a national audience, including those untouched by the prison system, it includes a wide range of articles.</h2>
-			<p>Not only prison news but crossword puzzles, book reviews, poems, and longer essays on topics like rehabilitation and vocational training appear in its pages. Scholars outside the prison, like Dr. Negley K. Teeters, sometimes published essays in <em>Eastern Echo</em> as well. Many essays attempt to share with a general audience what the experience of incarceration is like. Incarcerated people designed and produced the art for each issue.</p> 
+	</div>
+	<div class="item">
+			<p>Not only prison news but crossword puzzles, book reviews, poems, and longer essays on topics like rehabilitation and vocational training appear in its pages. Scholars outside the prison, like the sociologist and prison reform advocate Dr. Negley K. Teeters, sometimes published essays in <em>Eastern Echo</em> as well. Often the magazine attempts to share with a general audience what the experience of incarceration is like through art, stories, and opinion pieces.</p> 
 	</div>
 	<div class="item">
 		<div class="item-left">
@@ -34,9 +37,67 @@
 			<img src="{{ '/assets/front-end-images/ee-binding.jpg' | url }}" />
 		</div>
 	</div>
-	<div class="item">
-		<h2>To download the latest dataset with metadata and full text for every article in <em>Eastern Echo</em> (updated January 8, 2025), click <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/_data/easternecho-01-08-24.csv" target="_blank"><u>here</u></a>.</p>
-	</div>
 </div>
 
-{% endblock %}
+<div id="articles" class="widest">
+	<table>
+		<thead>
+        	<h2>Search and read articles <i>Eastern Echo</i> below or download the data as a CSV file <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/_data" target="_blank" style="text-decoration:underline;">here</a>.</h2>
+		<input type="text" class="search" placeholder="Search" />
+
+			<tr>
+		  	<th class="sort" data-sort='table-title'><b>article title</b></th>
+			<th class="sort" data-sort='table-author'><b>author </b></th>
+			<th class="sort" data-sort='table-newspaper'><b>newspaper</b></th>
+			<th class="sort" data-sort='table-year'><b>year</b></th>
+			<th class="sort" data-sort='table-month'><b>month</b></th>
+			<th class="sort" data-sort='table-day'><b>day</b></th>
+			<th class="sort" data-sort='table-tag'><b>tags</b></th>
+			
+		</tr>  
+		
+    </thead>
+	 
+	<tbody class="list">
+
+		{% for item in easternecho %}
+
+		<tr>
+			<td class="table-title">
+			<a href="{{ item.id | url }}">
+					"{{ item.title }}"</a>
+			</td>
+			<td class="table-author">
+				{%- for author in item.author -%}
+				{% if loop.first %}
+				{{ item.author }}
+				{% endif %}
+				{%- endfor -%}
+			</td>
+			<td class="table-newspaper">{{ item.newspaper }}</td>
+			<td class="table-year">{{ item.year }}</td>
+			<td class="table-month">{{ item.month }}</td>
+			<td class="table-day">{{ item.day }}</td>
+			<td class="table-tag">
+				{%- for tag in item.tags -%}
+					{% if loop.last %}
+						{{ tag }}
+					{% else %}
+						{{ tag }}, 
+					{% endif %}
+					
+				{%- endfor -%}
+			</td>
+		</tr>
+	{% endfor %}
+  </tbody>
+ </table>
+</div>
+
+<script>
+let options = {
+  valueNames: [ 'table-title', 'table-author','table-year','table-newspaper', 'table-month','table-day', 'table-tag'],
+};
+
+let articleList = new List('articles', options);
+</script>
