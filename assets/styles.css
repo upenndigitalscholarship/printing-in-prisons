@@ -8,6 +8,9 @@
 	.hide-on-mobile{
 		display: none !important;
 	}
+	.rightcolumn{
+		width: 80vw !important;
+	}
 	.container-collections{
 		display: flex;
 		flex-direction: row !important;
