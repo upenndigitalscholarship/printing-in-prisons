@@ -6,7 +6,7 @@
 		flex-wrap: wrap;
 	}
 	.hide-on-mobile{
-		display: none;
+		display: none !important;
 	}
 	.container-collections{
 		display: flex;
