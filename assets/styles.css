@@ -14,16 +14,12 @@
 		flex-wrap: wrap;
 		height:100% !important;
 	}
-	.item-container{
+	.item-container, .item{
 		flex-wrap: wrap;
 	}
-	.item, .leftcolumn, .rightcolumn{
-		flex-wrap: wrap;
-		flex-direction:column;
+	.leftcolumn, .rightcolumn{
+		width:80vw;
 	}
-	.leftcolumn
-	flex-wrap: wrap;
-
 	.medium{
 		width:80vw !important;
 	}
