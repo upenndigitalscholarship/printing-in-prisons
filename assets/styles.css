@@ -17,8 +17,11 @@
 	.item-container, .item{
 		flex-wrap: wrap;
 	}
-	.leftcolumn, .rightcolumn{
+	.rightcolumn{
 		width:80vw;
+	}
+	.leftcolumn{
+		display:none;
 	}
 	.medium{
 		width:80vw !important;
