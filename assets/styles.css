@@ -19,6 +19,7 @@
 	}
 	.rightcolumn{
 		width:80vw;
+		display:flex;
 	}
 	.leftcolumn{
 		display:none;
