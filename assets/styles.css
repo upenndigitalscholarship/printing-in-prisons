@@ -19,6 +19,7 @@
 	}
 	.item, .leftcolumn, .rightcolumn{
 		flex-wrap: wrap;
+		flex-direction:column;
 	}
 	.leftcolumn
 	flex-wrap: wrap;
