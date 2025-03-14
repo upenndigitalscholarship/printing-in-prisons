@@ -17,6 +17,12 @@
 	.item-container{
 		flex-wrap: wrap;
 	}
+	.item, .leftcolumn, .rightcolumn{
+		flex-wrap: wrap;
+	}
+	.leftcolumn
+	flex-wrap: wrap;
+
 	.medium{
 		width:80vw !important;
 	}
