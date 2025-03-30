@@ -20,9 +20,41 @@
 </ul>
 {{ content | safe }}
 </div>
-<div class = "medium">
-<img width="100%" src="{{ '/assets/img/' | url }}{{ image }}" />
+<div class = "medium image-zoom-container">
+<img width="100%" src="{{ '/assets/img/' | url }}{{ image }}" class="zoomable-image"/>
 </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const zoomContainer = document.querySelector('.image-zoom-container');
+  const zoomableImage = document.querySelector('.zoomable-image');
+
+  if (zoomContainer && zoomableImage) {
+    const handleMouseMove = (e) => {
+      const rect = zoomContainer.getBoundingClientRect();
+      // Calculate mouse position relative to the container
+      const x = ((e.clientX - rect.left) / rect.width) * 100;
+      const y = ((e.clientY - rect.top) / rect.height) * 100;
+
+      // Update the transform-origin of the image
+      zoomableImage.style.transformOrigin = `${x}% ${y}%`;
+    };
+
+    zoomContainer.addEventListener('click', () => {
+      zoomContainer.classList.toggle('active');
+
+      if (zoomContainer.classList.contains('active')) {
+        // Add mousemove listener when zoomed in
+        zoomContainer.addEventListener('mousemove', handleMouseMove);
+      } else {
+        // Remove listener and reset origin when zoomed out
+        zoomContainer.removeEventListener('mousemove', handleMouseMove);
+        zoomableImage.style.transformOrigin = 'center center'; // Reset to default
+      }
+    });
+  }
+});
+</script>
 
 {% endblock %}
