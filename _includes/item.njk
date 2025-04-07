@@ -6,17 +6,22 @@
 <div class="element-centered widest item-container">
 <div class="medium item-metadata">
 <ul class="metadata-list">
-  <li class="list-item"><b>Author: </b>{{author}}</li>
-  <li class="list-item"><b>Editor: </b>{{editor}}</li>
-  <li class="list-item"><b>Newspaper: </b>{{newspaper}} volume {{volume}}</li>
+  <li class="list-item"><b>Author: </b><span data-pagefind-filter="author">{{author}}</span></li>
+  <li class="list-item"><b>Editor: </b><span data-pagefind-filter="editor">{{editor}}</span></li>
+  <li class="list-item"><b>Newspaper: </b><span data-pagefind-filter="newspaper">{{newspaper}}</span> volume {{volume}}</li>
 
   <li class="list-item"><b>Page Number: </b>{{pageNum}}</li>
   <li class="list-item"><b>Date: </b>{{month}} {{day}} {{year}}</li>
+
   <li class="list-item"><b>Tags: </b>
-{% for tag in tags %}
-  <li class="list-item">{{ tag }} </li>
-{% endfor %}
-</li>
+    <div class="tags-container">
+    {% for tag in tags %}
+      <div class="tag-line">
+        <a href="/search/?tag={{ tag }}" class="tag-link" data-pagefind-filter="tags">{{ tag }}</a>
+      </div>
+    {% endfor %}
+    </div>
+  </li>
 </ul>
 {{ content | safe }}
 </div>
@@ -56,5 +61,34 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 </script>
+
+<style>
+.tags-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag-line {
+  margin-bottom: 0.25rem;
+}
+
+.tag-link {
+  display: inline-block;
+  padding: 0 0.5rem;
+  background-color: #f5f5f7;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.tag-link:hover {
+  background-color: #e5e5e7;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+</style>
 
 {% endblock %}

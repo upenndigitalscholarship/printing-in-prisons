@@ -1,0 +1,664 @@
+{% extends "base.njk" %}
+
+{% block head %}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+{% endblock %}
+
+{% block content %}
+<h1 class="title-centered">Search</h1>
+
+<div class="element-centered widest">
+  <div class="search-container">
+    <!-- Fixed search bar and filter container -->
+    <div class="fixed-search-bar">
+      <div class="search-controls">
+        <div id="search" class="pagefind-search"></div>
+        
+        <select id="filter-type" class="filter-select">
+          <option value="all">All content</option>
+          <option value="author">Author</option>
+          <option value="editor">Editor</option>
+          <option value="newspaper">Newspaper</option>
+          <option value="tags">Tags</option>
+        </select>
+      </div>
+    </div>
+    
+    <!-- Search results -->
+    <div id="results"></div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', async () => {
+    // Initialize Pagefind
+    const pagefind = await import("/pagefind/pagefind.js");
+    
+    // Create the UI
+    const pagefindUI = new PagefindUI({ 
+      element: "#search",
+      showSubResults: true,
+      resetStyles: false,
+      showFilters: false
+    });
+    
+    // Get the filter type dropdown and search input
+    const filterTypeSelect = document.getElementById('filter-type');
+    const searchInput = document.querySelector('.pagefind-ui__search-input');
+    
+    // Filter dropdown that should be hidden
+    function hidePagefindFilterButton() {
+      const extraFilterButtons = document.querySelectorAll('.pagefind-ui__filter-panel-button');
+      extraFilterButtons.forEach(btn => {
+        btn.style.display = 'none';
+      });
+    }
+    
+    // Initial hide
+    setTimeout(hidePagefindFilterButton, 100);
+    
+    // Format search result consistently
+    async function formatSearchResult(result) {
+      const data = await result.data();
+      
+      const resultElement = document.createElement('div');
+      resultElement.className = 'pagefind-ui__result';
+      
+      // Extract metadata
+      const author = data.filters?.author?.join(', ') || 'Unknown';
+      const editor = data.filters?.editor?.join(', ') || '';
+      const newspaper = data.filters?.newspaper?.join(', ') || '';
+      const tags = data.filters?.tags?.join(', ') || '';
+      
+      // Create thumbnail element first if image exists, otherwise use placeholder
+      const thumbnailHTML = data.meta.image
+        ? `<div class="result-thumbnail"><img src="${data.meta.image}" alt="${data.meta.image_alt || ''}" onerror="this.onerror=null; this.src='/assets/img/placeholder.png';"></div>`
+        : `<div class="result-thumbnail"><img src="/assets/img/placeholder.png" alt="Placeholder image"></div>`;
+
+      // Create content wrapper
+      const contentHTML = `
+        <div class="result-content">
+          <h3 class="pagefind-ui__result-title">
+            <a href="${data.url}" class="pagefind-ui__result-link">${data.meta.title || 'Untitled'}</a>
+          </h3>
+          <div class="result-metadata">
+            ${author ? `<div><strong>Author:</strong> ${author}</div>` : ''}
+            ${editor ? `<div><strong>Editor:</strong> ${editor}</div>` : ''}
+            ${newspaper ? `<div><strong>Newspaper:</strong> ${newspaper}</div>` : ''}
+            ${tags ? `<div><strong>Tags:</strong> ${tags}</div>` : ''}
+          </div>
+          <div class="pagefind-ui__result-excerpt">${data.excerpt}</div>
+        </div>
+      `;
+      
+      // Combine thumbnail and content
+      resultElement.innerHTML = thumbnailHTML + contentHTML;
+      
+      return resultElement;
+    }
+    
+    // Perform search based on the filter type
+    async function performFilteredSearch() {
+      const searchTerm = searchInput.value.trim();
+      const filterType = filterTypeSelect.value;
+
+      const resultsContainer = document.querySelector('.pagefind-ui__results');
+      if (!resultsContainer) {
+          console.warn("Pagefind results container .pagefind-ui__results not found yet.");
+          return; 
+      }
+      
+      // Clear previous results if search is empty
+      if (!searchTerm) {
+        // Reset the UI
+        resultsContainer.innerHTML = ''; // clear custom results area
+        // Hide count and button
+        const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
+        if (resultsCountEl) resultsCountEl.textContent = '';
+        const showMoreBtn = document.querySelector('.pagefind-ui__button');
+        if (showMoreBtn) showMoreBtn.style.display = 'none';
+        hidePagefindFilterButton();
+        return;
+      }
+
+      // Query count and button elements
+      const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
+      const showMoreBtn = document.querySelector('.pagefind-ui__button');
+      
+      // If searching all content, use the PagefindUI search
+      if (filterType === 'all') {
+        let search = await pagefind.search(searchTerm);
+        
+        // Update results count
+        if (resultsCountEl) {
+          resultsCountEl.textContent = `Found ${search.results.length} result${search.results.length !== 1 ? 's' : ''} for "${searchTerm}"`;
+        }
+        
+        // Clear existing results
+        resultsContainer.innerHTML = '';
+          
+        // No results message
+        if (search.results.length === 0) {
+          resultsContainer.innerHTML = `<p class="no-results">No results found for "${searchTerm}"</p>`;
+          if (showMoreBtn) showMoreBtn.style.display = 'none';
+          hidePagefindFilterButton();
+          return;
+        }
+          
+        // Process and display each result with custom formatting
+        const initialDisplayCount = Math.min(search.results.length, 20);
+        for (let i = 0; i < initialDisplayCount; i++) {
+          const formattedResult = await formatSearchResult(search.results[i]);
+          resultsContainer.appendChild(formattedResult);
+        }
+          
+        // Show "more results" button only if more than initialDisplayCount results
+        if (showMoreBtn) {
+          if (search.results.length > initialDisplayCount) {
+            showMoreBtn.style.display = 'block';
+            showMoreBtn.textContent = `Show more (${search.results.length - initialDisplayCount} more results)`;
+              
+            // Clone the button to effectively remove all old listeners
+            const newShowMoreBtn = showMoreBtn.cloneNode(true); 
+            showMoreBtn.parentNode.replaceChild(newShowMoreBtn, showMoreBtn);
+            
+            // Add listener to the new button
+            newShowMoreBtn.addEventListener('click', async () => {
+              // Get the current number of results displayed container
+              const currentResultsCount = resultsContainer.querySelectorAll('.pagefind-ui__result').length;
+              const nextBatchEnd = Math.min(search.results.length, currentResultsCount + 20);
+                
+              // Add the next batch of results (up to 20 more)
+              for (let i = currentResultsCount; i < nextBatchEnd; i++) {
+                const formattedResult = await formatSearchResult(search.results[i]);
+                resultsContainer.appendChild(formattedResult);
+              }
+                
+              // Update or hide the button
+              if (nextBatchEnd >= search.results.length) {
+                newShowMoreBtn.style.display = 'none';
+              } else {
+                newShowMoreBtn.textContent = `Show more (${search.results.length - nextBatchEnd} more results)`;
+              }
+            }); 
+          } else {
+            showMoreBtn.style.display = 'none';
+          }
+        }
+        hidePagefindFilterButton();
+        return;
+      }
+      
+      // FILTERED SEARCH LOGIC
+      try {
+        // Use let for block scope
+        let search = await pagefind.search(searchTerm);
+        
+        // Filter the results based on the selected filter type
+        let filteredResults = [];
+        
+        // Process each result to check if it matches the filter
+        for (const result of search.results) {
+          const data = await result.data();
+          
+          // Check if the filter type exists in this result's data
+          if (data.filters && data.filters[filterType]) {
+            // Check if any of the filter values contain our search term (case insensitive)
+            const filterValues = data.filters[filterType];
+            const lowerSearchTerm = searchTerm.toLowerCase();
+            
+            // If any filter value contains the search term, include this result
+            if (filterValues.some(value => value.toLowerCase().includes(lowerSearchTerm))) {
+              filteredResults.push(result);
+            }
+          }
+        }
+        
+        // Update results count
+        if (resultsCountEl) {
+          resultsCountEl.textContent = `Found ${filteredResults.length} result${filteredResults.length !== 1 ? 's' : ''} for ${filterType}: "${searchTerm}"`;
+        }
+        
+        // Clear existing results
+        resultsContainer.innerHTML = ''; // Clear our custom results area
+          
+        // No results message
+        if (filteredResults.length === 0) {
+          resultsContainer.innerHTML = `<p class="no-results">No results found for ${filterType}: "${searchTerm}"</p>`;
+          if (showMoreBtn) showMoreBtn.style.display = 'none';
+          hidePagefindFilterButton();
+          return;
+        }
+          
+        // Process and display each result
+        for (const result of filteredResults) {
+          const formattedResult = await formatSearchResult(result);
+          resultsContainer.appendChild(formattedResult);
+        }
+          
+        // Hide pagefind's default "show more" button when using filters since already showing all filtered results
+        if (showMoreBtn) {
+          showMoreBtn.style.display = 'none';
+        }
+        hidePagefindFilterButton();
+      } catch (error) {
+        console.error('Search error:', error);
+        // Display error in the results container
+        resultsContainer.innerHTML = '<p class="no-results">An error occurred during the search.</p>';
+        // Ensure count and button are hidden/reset on error too
+        if (showMoreBtn) showMoreBtn.style.display = 'none';
+        if (resultsCountEl) resultsCountEl.textContent = '';
+        hidePagefindFilterButton();
+      }
+    }
+    
+    // HANDLE URL PARAMETERS
+    const urlParams = new URLSearchParams(window.location.search);
+    const tagParam = urlParams.get('tag');
+    const searchParam = urlParams.get('search');
+
+    if (tagParam) {
+      // Set the filter dropdown to 'tags'
+      filterTypeSelect.value = 'tags';
+      
+      pagefindUI.triggerSearch(tagParam);
+    
+      setTimeout(() => {
+        performFilteredSearch();
+      }, 100);
+    } else if (searchParam) {
+      // Set the filter dropdown to 'all'
+      filterTypeSelect.value = 'all';
+      
+      // Pagefind's triggerSearch method to populate/perform the search
+      pagefindUI.triggerSearch(searchParam);
+    }
+    // End of URL parameters handling
+    
+    // Add event listener to filter type dropdown
+    filterTypeSelect.addEventListener('change', () => {
+      if (searchInput.value.trim()) {
+        performFilteredSearch();
+      }
+    });
+    
+    // Override the default search behavior
+    searchInput.addEventListener('input', (e) => {
+      const filterType = filterTypeSelect.value;
+      
+      // For all search types, use custom filtering logic
+      if (e.target.value.trim()) {
+        e.stopPropagation(); // prevent default Pagefind search
+        
+        // Debounce search to avoid too many requests
+        clearTimeout(searchInput.searchTimeout);
+        searchInput.searchTimeout = setTimeout(() => {
+          performFilteredSearch();
+        }, 300);
+      } else {
+        // Clear results if search is empty
+        const resultsContainer = document.querySelector('.pagefind-ui__results');
+        if (resultsContainer) {
+          resultsContainer.innerHTML = '';
+        }
+        
+        // Hide any filter buttons
+        hidePagefindFilterButton();
+      }
+    });
+    
+    // Listen for form submission
+    document.querySelector('.pagefind-ui__search-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      performFilteredSearch();
+    });
+    
+    // Observer to watch for DOM changes and hide any dynamically added filter buttons
+    const observer = new MutationObserver((mutations) => {
+      hidePagefindFilterButton();
+    });
+    
+    // Start observing
+    observer.observe(document.querySelector('.search-container'), {
+      childList: true,
+      subtree: true
+    });
+  });
+</script>
+
+<style>
+  .search-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .fixed-search-bar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    backdrop-filter: blur(10px);
+  }
+  
+  .search-controls {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+    width: 100%;
+  }
+  
+  #search {
+    flex-grow: 1;
+  }
+  
+  /* Filter dropdown next to search */
+  .filter-select {
+    padding: 0.7rem 2.5rem 0.7rem 1rem;
+    border: none;
+    border-radius: 8px;
+    background-color: #ffffff;
+    font-family: 'Cardo', serif;
+    height: 50px;
+    box-sizing: border-box;
+    min-width: 140px;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1em;
+    transition: all 0.2s ease;
+    color: #333;
+    font-size: 1rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+    align-self: flex-start;
+  }
+  
+  .filter-select:focus {
+    outline: none;
+    background-color: #eeeeef;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  }
+  
+  .filter-select:hover {
+    background-color: #eeeeef;
+  }
+  
+  /* Results metadata layout */
+  .result-metadata {
+    margin: 0.75rem 0;
+    font-size: 0.85rem;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+  }
+  
+  .result-metadata > div {
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+  }
+  
+  .result-metadata strong {
+    font-weight: 500;
+    color: #555;
+    margin-right: 0.25rem;
+  }
+  
+  /* Thumbnail styling */
+  .result-thumbnail {
+    flex-shrink: 0;
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #f5f5f7;
+  }
+  
+  .result-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  .no-results {
+    font-family: 'Cardo', serif;
+    font-style: italic;
+    color: #666;
+    margin: 2rem 0;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f9f9fb;
+    border-radius: 8px;
+  }
+
+  /* Override Pagefind styles to match site design */
+  .pagefind-ui {
+    font-family: 'Cardo', serif;
+    margin: 0;
+    display: flex;
+    flex-grow: 1;
+  }
+  
+  .pagefind-ui .pagefind-ui__form {
+    margin: 0;
+    width: 100%;
+  }
+  
+  /* Search input */
+  .pagefind-ui__search-input {
+    font-family: 'Cardo', serif;
+    border: none;
+    padding: 0.7rem 1rem;
+    margin: 0;
+    height: 42px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 100%;
+    background-color: #f5f5f7;
+    color: #333;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+  }
+
+  .pagefind-ui__search-input:focus {
+    outline: none;
+    background-color: #eeeeef;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  }
+  
+  .pagefind-ui__search-input:hover {
+    background-color: #eeeeef;
+  }
+
+  .pagefind-ui__results-container {
+    margin-top: 1rem;
+  }
+
+  .pagefind-ui__results {
+    font-family: 'Cardo', serif;
+  }
+  
+  /* Result item card design */
+  .pagefind-ui__result {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    margin: 0 0 1.25rem 0;
+    border: none;
+    background-color: #f9f9fb;
+    transition: all 0.25s ease;
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+  }
+
+  .pagefind-ui__result:hover {
+    background-color: #f5f5f7;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  }
+  
+  .pagefind-ui__result:hover .result-thumbnail img {
+    transform: scale(1.03);
+  }
+
+  .result-content {
+    flex-grow: 1;
+    min-width: 0;
+  }
+  
+  .pagefind-ui__result-title {
+    font-family: 'Cardo', serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem 0;
+    line-height: 1.3;
+  }
+
+  .pagefind-ui__result-link {
+    color: #222;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    display: inline-block;
+    position: relative;
+  }
+  
+  .pagefind-ui__result-link:hover {
+    color: #000;
+  }
+  
+  .pagefind-ui__result-link::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: -2px;
+    left: 0;
+    background-color: #000;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease;
+  }
+  
+  .pagefind-ui__result-link:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
+  .pagefind-ui__result-excerpt {
+    font-family: 'Cardo', serif;
+    margin: 0.75rem 0 0 0;
+    line-height: 1.6;
+    color: #555;
+    font-size: 0.95rem;
+  }
+  
+  /* Results Count Styling */
+  .pagefind-ui__results-count {
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+    color: #777;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  /* Show more button styling */
+  .pagefind-ui__button {
+    background-color: #f5f5f7;
+    border: none;
+    border-radius: 8px;
+    padding: 0.8rem 1.5rem;
+    font-family: 'Cardo', serif;
+    cursor: pointer;
+    color: #333;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    margin: 1.5rem auto;
+    display: block;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  }
+  
+  .pagefind-ui__button:hover {
+    background-color: #eeeeef;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  }
+  
+  .pagefind-ui__search-clear {
+    display: none !important;
+  }
+  
+  /* Hide the filter button that PagefindUI adds */
+  .pagefind-ui__filter-panel-button {
+    display: none !important;
+  }
+  
+  /* Hide all default filter UI elements */
+  .pagefind-ui__filter-panel,
+  .pagefind-ui__filter,
+  .pagefind-ui__filters,
+  .pagefind-ui__filter-toggle,
+  .pagefind-ui__filter-name,
+  .pagefind-ui__filter-group,
+  .pagefind-ui__filter-value,
+  .pagefind-ui__drawer-buttons {
+    display: none !important;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .search-controls {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.75rem;
+    }
+    
+    .filter-select {
+      width: 100%;
+    }
+    
+    .pagefind-ui__result {
+      flex-direction: column;
+      padding: 1.25rem;
+    }
+    
+    .result-thumbnail {
+      width: 100%;
+      height: 180px;
+      margin-bottom: 1rem;
+    }
+    
+    .pagefind-ui__result-title {
+      font-size: 1.15rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .result-thumbnail {
+      height: 140px;
+    }
+    
+    .pagefind-ui__result {
+      padding: 1rem;
+    }
+    
+    .pagefind-ui__button {
+      width: 100%;
+    }
+  }
+</style>
+{% endblock %} 
