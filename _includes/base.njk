@@ -8,15 +8,15 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         {% block head %}{% endblock %}
-        <title>Printing in Prisons</title>
+        <title>{{ title | default('Printing in Prisons') }}</title>
     </head>
     <body class="pagefind-body">
-        <main data-pagefind-body>
-            {% include 'nav.njk' %}
+        <main>
+            <div data-pagefind-ignore="all">{% include 'nav.njk' %}</div>
 
             {% block content %}{% endblock %}
 
-            {% include 'footer.njk' %}
+            <div data-pagefind-ignore="all">{% include 'footer.njk' %}</div>
 
         </main>
     </body>
