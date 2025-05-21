@@ -335,34 +335,6 @@
     }
   }
 </style>
-<script src="/pagefind/pagefind-ui.js"></script>
-{% endblock %}
-
-{% block content %}
-<h1 class="title-centered">Search</h1>
-
-<div class="element-centered widest">
-  <div class="search-container">
-    <!-- Fixed search bar and filter container -->
-    <div class="fixed-search-bar">
-      <div class="search-controls">
-        <div id="search" class="pagefind-search"></div>
-        
-        <select id="filter-type" class="filter-select">
-          <option value="all">All content</option>
-          <option value="author">Author</option>
-          <option value="editor">Editor</option>
-          <option value="newspaper">Newspaper</option>
-          <option value="tags">Tags</option>
-        </select>
-      </div>
-    </div>
-    
-    <!-- Search results -->
-    <div id="results"></div>
-  </div>
-</div>
-
 <script>
   document.addEventListener('DOMContentLoaded', async () => {
     // Initialize Pagefind
@@ -660,5 +632,32 @@
     });
   });
 </script>
+<script src="/pagefind/pagefind-ui.js"></script>
+{% endblock %}
+
+{% block content %}
+<h1 class="title-centered">Search</h1>
+
+<div class="element-centered widest">
+  <div class="search-container">
+    <!-- Fixed search bar and filter container -->
+    <div class="fixed-search-bar">
+      <div class="search-controls">
+        <div id="search" class="pagefind-search"></div>
+        
+        <select id="filter-type" class="filter-select">
+          <option value="all">All content</option>
+          <option value="author">Author</option>
+          <option value="editor">Editor</option>
+          <option value="newspaper">Newspaper</option>
+          <option value="tags">Tags</option>
+        </select>
+      </div>
+    </div>
+    
+    <!-- Search results -->
+    <div id="results"></div>
+  </div>
+</div>
 
 {% endblock %} 
