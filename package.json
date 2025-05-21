@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "build-search": "eleventy && npx pagefind",
+    "dev": "eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -21,9 +23,10 @@
   "homepage": "https://github.com/upenndigitalscholarship/printing-in-prisons#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "eleventy-google-fonts": "^0.1.0"
+    "eleventy-google-fonts": "^0.1.0",
+    "pagefind": "^1.3.0"
   },
   "dependencies": {
-    "csv-parse": "^5.6.0"
+    "csv-parse": "^5.5.6"
   }
 }

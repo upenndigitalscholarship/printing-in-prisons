@@ -1,0 +1,11 @@
+site: "_site"
+root_selector: "body"
+exclude_selectors:
+  - "nav"
+  - "footer"
+# Define all searchable fields as filters
+filters:
+  author: []
+  editor: []
+  newspaper: []
+  tags: []
