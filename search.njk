@@ -2,332 +2,6 @@
 
 {% block head %}
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-{% endblock %}
-
-{% block content %}
-<h1 class="title-centered">Search</h1>
-
-<div class="element-centered widest">
-  <div class="search-container">
-    <!-- Fixed search bar and filter container -->
-    <div class="fixed-search-bar">
-      <div class="search-controls">
-        <div id="search" class="pagefind-search"></div>
-        
-        <select id="filter-type" class="filter-select">
-          <option value="all">All content</option>
-          <option value="author">Author</option>
-          <option value="editor">Editor</option>
-          <option value="newspaper">Newspaper</option>
-          <option value="tags">Tags</option>
-        </select>
-      </div>
-    </div>
-    
-    <!-- Search results -->
-    <div id="results"></div>
-  </div>
-</div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', async () => {
-    // Initialize Pagefind
-    const pagefind = await import("/pagefind/pagefind.js");
-    
-    // Create the UI
-    const pagefindUI = new PagefindUI({ 
-      element: "#search",
-      showSubResults: true,
-      resetStyles: false,
-      showFilters: false
-    });
-    
-    // Get the filter type dropdown and search input
-    const filterTypeSelect = document.getElementById('filter-type');
-    const searchInput = document.querySelector('.pagefind-ui__search-input');
-    
-    // Filter dropdown that should be hidden
-    function hidePagefindFilterButton() {
-      const extraFilterButtons = document.querySelectorAll('.pagefind-ui__filter-panel-button');
-      extraFilterButtons.forEach(btn => {
-        btn.style.display = 'none';
-      });
-    }
-    
-    // Initial hide
-    setTimeout(hidePagefindFilterButton, 100);
-    
-    // Format search result consistently
-    async function formatSearchResult(result) {
-      const data = await result.data();
-      
-      const resultElement = document.createElement('div');
-      resultElement.className = 'pagefind-ui__result';
-      
-      // Extract metadata
-      const author = data.filters?.author?.join(', ') || 'Unknown';
-      const editor = data.filters?.editor?.join(', ') || '';
-      const newspaper = data.filters?.newspaper?.join(', ') || '';
-      const tags = data.filters?.tags?.join(', ') || '';
-      
-      // Create thumbnail element first if image exists, otherwise use placeholder
-      const thumbnailHTML = data.meta.image
-        ? `<div class="result-thumbnail"><img src="${data.meta.image}" alt="${data.meta.image_alt || ''}" onerror="this.onerror=null; this.src='/assets/img/placeholder.png';"></div>`
-        : `<div class="result-thumbnail"><img src="/assets/img/placeholder.png" alt="Placeholder image"></div>`;
-
-      // Create content wrapper
-      const contentHTML = `
-        <div class="result-content">
-          <h3 class="pagefind-ui__result-title">
-            <a href="${data.url}" class="pagefind-ui__result-link">${data.meta.title || 'Untitled'}</a>
-          </h3>
-          <div class="result-metadata">
-            ${author ? `<div><strong>Author:</strong> ${author}</div>` : ''}
-            ${editor ? `<div><strong>Editor:</strong> ${editor}</div>` : ''}
-            ${newspaper ? `<div><strong>Newspaper:</strong> ${newspaper}</div>` : ''}
-            ${tags ? `<div><strong>Tags:</strong> ${tags}</div>` : ''}
-          </div>
-          <div class="pagefind-ui__result-excerpt">${data.excerpt}</div>
-        </div>
-      `;
-      
-      // Combine thumbnail and content
-      resultElement.innerHTML = thumbnailHTML + contentHTML;
-      
-      return resultElement;
-    }
-    
-    // Perform search based on the filter type
-    async function performFilteredSearch() {
-      const searchTerm = searchInput.value.trim();
-      const filterType = filterTypeSelect.value;
-
-      const resultsContainer = document.querySelector('.pagefind-ui__results');
-      if (!resultsContainer) {
-          console.warn("Pagefind results container .pagefind-ui__results not found yet.");
-          return; 
-      }
-      
-      // Clear previous results if search is empty
-      if (!searchTerm) {
-        // Reset the UI
-        resultsContainer.innerHTML = ''; // clear custom results area
-        // Hide count and button
-        const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
-        if (resultsCountEl) resultsCountEl.textContent = '';
-        const showMoreBtn = document.querySelector('.pagefind-ui__button');
-        if (showMoreBtn) showMoreBtn.style.display = 'none';
-        hidePagefindFilterButton();
-        return;
-      }
-
-      // Query count and button elements
-      const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
-      const showMoreBtn = document.querySelector('.pagefind-ui__button');
-      
-      // If searching all content, use the PagefindUI search
-      if (filterType === 'all') {
-        let search = await pagefind.search(searchTerm);
-        
-        // Update results count
-        if (resultsCountEl) {
-          resultsCountEl.textContent = `Found ${search.results.length} result${search.results.length !== 1 ? 's' : ''} for "${searchTerm}"`;
-        }
-        
-        // Clear existing results
-        resultsContainer.innerHTML = '';
-          
-        // No results message
-        if (search.results.length === 0) {
-          resultsContainer.innerHTML = `<p class="no-results">No results found for "${searchTerm}"</p>`;
-          if (showMoreBtn) showMoreBtn.style.display = 'none';
-          hidePagefindFilterButton();
-          return;
-        }
-          
-        // Process and display each result with custom formatting
-        const initialDisplayCount = Math.min(search.results.length, 20);
-        for (let i = 0; i < initialDisplayCount; i++) {
-          const formattedResult = await formatSearchResult(search.results[i]);
-          resultsContainer.appendChild(formattedResult);
-        }
-          
-        // Show "more results" button only if more than initialDisplayCount results
-        if (showMoreBtn) {
-          if (search.results.length > initialDisplayCount) {
-            showMoreBtn.style.display = 'block';
-            showMoreBtn.textContent = `Show more (${search.results.length - initialDisplayCount} more results)`;
-              
-            // Clone the button to effectively remove all old listeners
-            const newShowMoreBtn = showMoreBtn.cloneNode(true); 
-            showMoreBtn.parentNode.replaceChild(newShowMoreBtn, showMoreBtn);
-            
-            // Add listener to the new button
-            newShowMoreBtn.addEventListener('click', async () => {
-              // Get the current number of results displayed container
-              const currentResultsCount = resultsContainer.querySelectorAll('.pagefind-ui__result').length;
-              const nextBatchEnd = Math.min(search.results.length, currentResultsCount + 20);
-                
-              // Add the next batch of results (up to 20 more)
-              for (let i = currentResultsCount; i < nextBatchEnd; i++) {
-                const formattedResult = await formatSearchResult(search.results[i]);
-                resultsContainer.appendChild(formattedResult);
-              }
-                
-              // Update or hide the button
-              if (nextBatchEnd >= search.results.length) {
-                newShowMoreBtn.style.display = 'none';
-              } else {
-                newShowMoreBtn.textContent = `Show more (${search.results.length - nextBatchEnd} more results)`;
-              }
-            }); 
-          } else {
-            showMoreBtn.style.display = 'none';
-          }
-        }
-        hidePagefindFilterButton();
-        return;
-      }
-      
-      // FILTERED SEARCH LOGIC
-      try {
-        // Use let for block scope
-        let search = await pagefind.search(searchTerm);
-        
-        // Filter the results based on the selected filter type
-        let filteredResults = [];
-        
-        // Process each result to check if it matches the filter
-        for (const result of search.results) {
-          const data = await result.data();
-          
-          // Check if the filter type exists in this result's data
-          if (data.filters && data.filters[filterType]) {
-            // Check if any of the filter values contain our search term (case insensitive)
-            const filterValues = data.filters[filterType];
-            const lowerSearchTerm = searchTerm.toLowerCase();
-            
-            // If any filter value contains the search term, include this result
-            if (filterValues.some(value => value.toLowerCase().includes(lowerSearchTerm))) {
-              filteredResults.push(result);
-            }
-          }
-        }
-        
-        // Update results count
-        if (resultsCountEl) {
-          resultsCountEl.textContent = `Found ${filteredResults.length} result${filteredResults.length !== 1 ? 's' : ''} for ${filterType}: "${searchTerm}"`;
-        }
-        
-        // Clear existing results
-        resultsContainer.innerHTML = ''; // Clear our custom results area
-          
-        // No results message
-        if (filteredResults.length === 0) {
-          resultsContainer.innerHTML = `<p class="no-results">No results found for ${filterType}: "${searchTerm}"</p>`;
-          if (showMoreBtn) showMoreBtn.style.display = 'none';
-          hidePagefindFilterButton();
-          return;
-        }
-          
-        // Process and display each result
-        for (const result of filteredResults) {
-          const formattedResult = await formatSearchResult(result);
-          resultsContainer.appendChild(formattedResult);
-        }
-          
-        // Hide pagefind's default "show more" button when using filters since already showing all filtered results
-        if (showMoreBtn) {
-          showMoreBtn.style.display = 'none';
-        }
-        hidePagefindFilterButton();
-      } catch (error) {
-        console.error('Search error:', error);
-        // Display error in the results container
-        resultsContainer.innerHTML = '<p class="no-results">An error occurred during the search.</p>';
-        // Ensure count and button are hidden/reset on error too
-        if (showMoreBtn) showMoreBtn.style.display = 'none';
-        if (resultsCountEl) resultsCountEl.textContent = '';
-        hidePagefindFilterButton();
-      }
-    }
-    
-    // HANDLE URL PARAMETERS
-    const urlParams = new URLSearchParams(window.location.search);
-    const tagParam = urlParams.get('tag');
-    const searchParam = urlParams.get('search');
-
-    if (tagParam) {
-      // Set the filter dropdown to 'tags'
-      filterTypeSelect.value = 'tags';
-      
-      pagefindUI.triggerSearch(tagParam);
-    
-      setTimeout(() => {
-        performFilteredSearch();
-      }, 100);
-    } else if (searchParam) {
-      // Set the filter dropdown to 'all'
-      filterTypeSelect.value = 'all';
-      
-      // Pagefind's triggerSearch method to populate/perform the search
-      pagefindUI.triggerSearch(searchParam);
-    }
-    // End of URL parameters handling
-    
-    // Add event listener to filter type dropdown
-    filterTypeSelect.addEventListener('change', () => {
-      if (searchInput.value.trim()) {
-        performFilteredSearch();
-      }
-    });
-    
-    // Override the default search behavior
-    searchInput.addEventListener('input', (e) => {
-      const filterType = filterTypeSelect.value;
-      
-      // For all search types, use custom filtering logic
-      if (e.target.value.trim()) {
-        e.stopPropagation(); // prevent default Pagefind search
-        
-        // Debounce search to avoid too many requests
-        clearTimeout(searchInput.searchTimeout);
-        searchInput.searchTimeout = setTimeout(() => {
-          performFilteredSearch();
-        }, 300);
-      } else {
-        // Clear results if search is empty
-        const resultsContainer = document.querySelector('.pagefind-ui__results');
-        if (resultsContainer) {
-          resultsContainer.innerHTML = '';
-        }
-        
-        // Hide any filter buttons
-        hidePagefindFilterButton();
-      }
-    });
-    
-    // Listen for form submission
-    document.querySelector('.pagefind-ui__search-form').addEventListener('submit', (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      performFilteredSearch();
-    });
-    
-    // Observer to watch for DOM changes and hide any dynamically added filter buttons
-    const observer = new MutationObserver((mutations) => {
-      hidePagefindFilterButton();
-    });
-    
-    // Start observing
-    observer.observe(document.querySelector('.search-container'), {
-      childList: true,
-      subtree: true
-    });
-  });
-</script>
-
 <style>
   .search-container {
     width: 100%;
@@ -661,4 +335,330 @@
     }
   }
 </style>
+<script src="/pagefind/pagefind-ui.js"></script>
+{% endblock %}
+
+{% block content %}
+<h1 class="title-centered">Search</h1>
+
+<div class="element-centered widest">
+  <div class="search-container">
+    <!-- Fixed search bar and filter container -->
+    <div class="fixed-search-bar">
+      <div class="search-controls">
+        <div id="search" class="pagefind-search"></div>
+        
+        <select id="filter-type" class="filter-select">
+          <option value="all">All content</option>
+          <option value="author">Author</option>
+          <option value="editor">Editor</option>
+          <option value="newspaper">Newspaper</option>
+          <option value="tags">Tags</option>
+        </select>
+      </div>
+    </div>
+    
+    <!-- Search results -->
+    <div id="results"></div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', async () => {
+    // Initialize Pagefind
+    const pagefind = await import("/pagefind/pagefind.js");
+    
+    // Create the UI
+    const pagefindUI = new PagefindUI({ 
+      element: "#search",
+      showSubResults: true,
+      resetStyles: false,
+      showFilters: false
+    });
+    
+    // Get the filter type dropdown and search input
+    const filterTypeSelect = document.getElementById('filter-type');
+    const searchInput = document.querySelector('.pagefind-ui__search-input');
+    
+    // Filter dropdown that should be hidden
+    function hidePagefindFilterButton() {
+      const extraFilterButtons = document.querySelectorAll('.pagefind-ui__filter-panel-button');
+      extraFilterButtons.forEach(btn => {
+        btn.style.display = 'none';
+      });
+    }
+    
+    // Initial hide
+    setTimeout(hidePagefindFilterButton, 100);
+    
+    // Format search result consistently
+    async function formatSearchResult(result) {
+      const data = await result.data();
+      
+      const resultElement = document.createElement('div');
+      resultElement.className = 'pagefind-ui__result';
+      
+      // Extract metadata
+      const author = data.filters?.author?.join(', ') || 'Unknown';
+      const editor = data.filters?.editor?.join(', ') || '';
+      const newspaper = data.filters?.newspaper?.join(', ') || '';
+      const tags = data.filters?.tags?.join(', ') || '';
+      
+      // Create thumbnail element first if image exists, otherwise use placeholder
+      const thumbnailHTML = data.meta.image
+        ? `<div class="result-thumbnail"><img src="${data.meta.image}" alt="${data.meta.image_alt || ''}" onerror="this.onerror=null; this.src='/assets/img/placeholder.png';"></div>`
+        : `<div class="result-thumbnail"><img src="/assets/img/placeholder.png" alt="Placeholder image"></div>`;
+
+      // Create content wrapper
+      const contentHTML = `
+        <div class="result-content">
+          <h3 class="pagefind-ui__result-title">
+            <a href="${data.url}" class="pagefind-ui__result-link">${data.meta.title || 'Untitled'}</a>
+          </h3>
+          <div class="result-metadata">
+            ${author ? `<div><strong>Author:</strong> ${author}</div>` : ''}
+            ${editor ? `<div><strong>Editor:</strong> ${editor}</div>` : ''}
+            ${newspaper ? `<div><strong>Newspaper:</strong> ${newspaper}</div>` : ''}
+            ${tags ? `<div><strong>Tags:</strong> ${tags}</div>` : ''}
+          </div>
+          <div class="pagefind-ui__result-excerpt">${data.excerpt}</div>
+        </div>
+      `;
+      
+      // Combine thumbnail and content
+      resultElement.innerHTML = thumbnailHTML + contentHTML;
+      
+      return resultElement;
+    }
+    
+    // Perform search based on the filter type
+    async function performFilteredSearch() {
+      const searchTerm = searchInput.value.trim();
+      const filterType = filterTypeSelect.value;
+
+      const resultsContainer = document.querySelector('.pagefind-ui__results');
+      if (!resultsContainer) {
+          console.warn("Pagefind results container .pagefind-ui__results not found yet.");
+          return; 
+      }
+      
+      // Clear previous results if search is empty
+      if (!searchTerm) {
+        // Reset the UI
+        resultsContainer.innerHTML = ''; // clear custom results area
+        // Hide count and button
+        const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
+        if (resultsCountEl) resultsCountEl.textContent = '';
+        const showMoreBtn = document.querySelector('.pagefind-ui__button');
+        if (showMoreBtn) showMoreBtn.style.display = 'none';
+        hidePagefindFilterButton();
+        return;
+      }
+
+      // Query count and button elements
+      const resultsCountEl = document.querySelector('.pagefind-ui__results-count');
+      const showMoreBtn = document.querySelector('.pagefind-ui__button');
+      
+      // If searching all content, use the PagefindUI search
+      if (filterType === 'all') {
+        let search = await pagefind.search(searchTerm);
+        
+        // Update results count
+        if (resultsCountEl) {
+          resultsCountEl.textContent = `Found ${search.results.length} result${search.results.length !== 1 ? 's' : ''} for "${searchTerm}"`;
+        }
+        
+        // Clear existing results
+        resultsContainer.innerHTML = '';
+          
+        // No results message
+        if (search.results.length === 0) {
+          resultsContainer.innerHTML = `<p class="no-results">No results found for "${searchTerm}"</p>`;
+          if (showMoreBtn) showMoreBtn.style.display = 'none';
+          hidePagefindFilterButton();
+          return;
+        }
+          
+        // Process and display each result with custom formatting
+        const initialDisplayCount = Math.min(search.results.length, 20);
+        for (let i = 0; i < initialDisplayCount; i++) {
+          const formattedResult = await formatSearchResult(search.results[i]);
+          resultsContainer.appendChild(formattedResult);
+        }
+          
+        // Show "more results" button only if more than initialDisplayCount results
+        if (showMoreBtn) {
+          if (search.results.length > initialDisplayCount) {
+            showMoreBtn.style.display = 'block';
+            showMoreBtn.textContent = `Show more (${search.results.length - initialDisplayCount} more results)`;
+              
+            // Clone the button to effectively remove all old listeners
+            const newShowMoreBtn = showMoreBtn.cloneNode(true); 
+            showMoreBtn.parentNode.replaceChild(newShowMoreBtn, showMoreBtn);
+            
+            // Add listener to the new button
+            newShowMoreBtn.addEventListener('click', async () => {
+              // Get the current number of results displayed container
+              const currentResultsCount = resultsContainer.querySelectorAll('.pagefind-ui__result').length;
+              const nextBatchEnd = Math.min(search.results.length, currentResultsCount + 20);
+                
+              // Add the next batch of results (up to 20 more)
+              for (let i = currentResultsCount; i < nextBatchEnd; i++) {
+                const formattedResult = await formatSearchResult(search.results[i]);
+                resultsContainer.appendChild(formattedResult);
+              }
+                
+              // Update or hide the button
+              if (nextBatchEnd >= search.results.length) {
+                newShowMoreBtn.style.display = 'none';
+              } else {
+                newShowMoreBtn.textContent = `Show more (${search.results.length - nextBatchEnd} more results)`;
+              }
+            }); 
+          } else {
+            showMoreBtn.style.display = 'none';
+          }
+        }
+        hidePagefindFilterButton();
+        return;
+      }
+      
+      // FILTERED SEARCH LOGIC
+      try {
+        // Use let for block scope
+        let search = await pagefind.search(searchTerm);
+        
+        // Filter the results based on the selected filter type
+        let filteredResults = [];
+        
+        // Process each result to check if it matches the filter
+        for (const result of search.results) {
+          const data = await result.data();
+          
+          // Check if the filter type exists in this result's data
+          if (data.filters && data.filters[filterType]) {
+            // Check if any of the filter values contain our search term (case insensitive)
+            const filterValues = data.filters[filterType];
+            const lowerSearchTerm = searchTerm.toLowerCase();
+            
+            // If any filter value contains the search term, include this result
+            if (filterValues.some(value => value.toLowerCase().includes(lowerSearchTerm))) {
+              filteredResults.push(result);
+            }
+          }
+        }
+        
+        // Update results count
+        if (resultsCountEl) {
+          resultsCountEl.textContent = `Found ${filteredResults.length} result${filteredResults.length !== 1 ? 's' : ''} for ${filterType}: "${searchTerm}"`;
+        }
+        
+        // Clear existing results
+        resultsContainer.innerHTML = ''; // Clear our custom results area
+          
+        // No results message
+        if (filteredResults.length === 0) {
+          resultsContainer.innerHTML = `<p class="no-results">No results found for ${filterType}: "${searchTerm}"</p>`;
+          if (showMoreBtn) showMoreBtn.style.display = 'none';
+          hidePagefindFilterButton();
+          return;
+        }
+          
+        // Process and display each result
+        for (const result of filteredResults) {
+          const formattedResult = await formatSearchResult(result);
+          resultsContainer.appendChild(formattedResult);
+        }
+          
+        // Hide pagefind's default "show more" button when using filters since already showing all filtered results
+        if (showMoreBtn) {
+          showMoreBtn.style.display = 'none';
+        }
+        hidePagefindFilterButton();
+      } catch (error) {
+        console.error('Search error:', error);
+        // Display error in the results container
+        resultsContainer.innerHTML = '<p class="no-results">An error occurred during the search.</p>';
+        // Ensure count and button are hidden/reset on error too
+        if (showMoreBtn) showMoreBtn.style.display = 'none';
+        if (resultsCountEl) resultsCountEl.textContent = '';
+        hidePagefindFilterButton();
+      }
+    }
+    
+    // HANDLE URL PARAMETERS
+    const urlParams = new URLSearchParams(window.location.search);
+    const tagParam = urlParams.get('tag');
+    const searchParam = urlParams.get('search');
+
+    if (tagParam) {
+      // Set the filter dropdown to 'tags'
+      filterTypeSelect.value = 'tags';
+      
+      pagefindUI.triggerSearch(tagParam);
+    
+      setTimeout(() => {
+        performFilteredSearch();
+      }, 100);
+    } else if (searchParam) {
+      // Set the filter dropdown to 'all'
+      filterTypeSelect.value = 'all';
+      
+      // Pagefind's triggerSearch method to populate/perform the search
+      pagefindUI.triggerSearch(searchParam);
+    }
+    // End of URL parameters handling
+    
+    // Add event listener to filter type dropdown
+    filterTypeSelect.addEventListener('change', () => {
+      if (searchInput.value.trim()) {
+        performFilteredSearch();
+      }
+    });
+    
+    // Override the default search behavior
+    searchInput.addEventListener('input', (e) => {
+      const filterType = filterTypeSelect.value;
+      
+      // For all search types, use custom filtering logic
+      if (e.target.value.trim()) {
+        e.stopPropagation(); // prevent default Pagefind search
+        
+        // Debounce search to avoid too many requests
+        clearTimeout(searchInput.searchTimeout);
+        searchInput.searchTimeout = setTimeout(() => {
+          performFilteredSearch();
+        }, 300);
+      } else {
+        // Clear results if search is empty
+        const resultsContainer = document.querySelector('.pagefind-ui__results');
+        if (resultsContainer) {
+          resultsContainer.innerHTML = '';
+        }
+        
+        // Hide any filter buttons
+        hidePagefindFilterButton();
+      }
+    });
+    
+    // Listen for form submission
+    document.querySelector('.pagefind-ui__search-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      performFilteredSearch();
+    });
+    
+    // Observer to watch for DOM changes and hide any dynamically added filter buttons
+    const observer = new MutationObserver((mutations) => {
+      hidePagefindFilterButton();
+    });
+    
+    // Start observing
+    observer.observe(document.querySelector('.search-container'), {
+      childList: true,
+      subtree: true
+    });
+  });
+</script>
+
 {% endblock %} 
