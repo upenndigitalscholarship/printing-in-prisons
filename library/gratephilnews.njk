@@ -22,11 +22,11 @@ layout: collection
 <div id="articles" class="widest">
 	<table>
 		<thead>
-        	<h2>Search and read articles in the single extant issue of <i>Grate-Phil News</i> and of <i>Pen Points</i>, or download the data as a CSV file <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/tree/main/_data" target="_blank" style="text-decoration:underline;">here</a>.</h2>
-			          	<input type="text" class="search" placeholder="Search" />
-
+		
+          	<input type="text" class="search" placeholder="Search" />
+        	
 			<tr>
-		  	<th class="sort" data-sort='table-title'><b>article title</b></th>
+		  	<th class="sort" data-sort='table-title'><b>title</b></th>
 			<th class="sort" data-sort='table-author'><b>author </b></th>
 			<th class="sort" data-sort='table-newspaper'><b>newspaper</b></th>
 			<th class="sort" data-sort='table-year'><b>year</b></th>
@@ -39,27 +39,26 @@ layout: collection
     </thead>
 	 
 	<tbody class="list">
-
-		{%- for item in gratephilnews -%}
-
+	{%- for post in collections.gossipAdviceJokes -%}
 		<tr>
 			<td class="table-title">
-			<a href="{{ item.id | url }}">
-					"{{ item.title }}"</a>
+					<a href="{{ post.url | url }}">
+					"{{ post.data.title }}"
+					</a>
 			</td>
 			<td class="table-author">
-				{%- for author in item.author -%}
+				{%- for author in post.data.author -%}
 				{% if loop.first %}
-				{{ item.author }}
+				{{ post.data.author }}
 				{% endif %}
 				{%- endfor -%}
 			</td>
-			<td class="table-newspaper">{{ item.newspaper }}</td>
-			<td class="table-year">{{ item.year }}</td>
-			<td class="table-month">{{ item.month }}</td>
-			<td class="table-day">{{ item.day }}</td>
+			<td class="table-newspaper">{{ post.data.newspaper }}</td>
+			<td class="table-year">{{ post.data.year }}</td>
+			<td class="table-month">{{ post.data.month }}</td>
+			<td class="table-day">{{ post.data.day }}</td>
 			<td class="table-tag">
-				{%- for tag in item.tags -%}
+				{%- for tag in post.data.tags -%}
 					{% if loop.last %}
 						{{ tag }}
 					{% else %}
@@ -69,15 +68,7 @@ layout: collection
 				{%- endfor -%}
 			</td>
 		</tr>
-	{% endfor %}
+	{%- endfor -%}
   </tbody>
  </table>
 </div>
-
-<script>
-let options = {
-  valueNames: [ 'table-title', 'table-author','table-year','table-newspaper', 'table-month','table-day', 'table-tag'],
-};
-
-let articleList = new List('articles', options);
-</script>
