@@ -18,57 +18,6 @@ layout: collection
 			<img src="{{ '/assets/front-end-images/gratephilnews-masthead.jpg' | url }}" />
         </div>
 	</div>
+<h2>Download a full-text searchable index of all the articles in the single extant issue of <i>Grate-Phil News</i> and of <i>Pen Points</i> as a CSV file <a href="https://github.com/upenndigitalscholarship/printing-in-prisons/blob/main/_data/grate-philnews-01-08-25.csv" style="text-decoration:underline;">here</a>.</h2>
 </div>
-<div id="articles" class="widest">
-	<table>
-		<thead>
-		
-          	<input type="text" class="search" placeholder="Search" />
-        	
-			<tr>
-		  	<th class="sort" data-sort='table-title'><b>title</b></th>
-			<th class="sort" data-sort='table-author'><b>author </b></th>
-			<th class="sort" data-sort='table-newspaper'><b>newspaper</b></th>
-			<th class="sort" data-sort='table-year'><b>year</b></th>
-			<th class="sort" data-sort='table-month'><b>month</b></th>
-			<th class="sort" data-sort='table-day'><b>day</b></th>
-			<th class="sort" data-sort='table-tag'><b>tags</b></th>
-			
-		</tr>  
-		
-    </thead>
-	 
-	<tbody class="list">
-	{%- for item in gratephilnews -%}
-		<tr>
-			<td class="table-title">
-					<a href="{{ post.url | url }}">
-					"{{ post.data.title }}"
-					</a>
-			</td>
-			<td class="table-author">
-				{%- for author in item.author -%}
-				{% if loop.first %}
-				{{ item.author }}
-				{% endif %}
-				{%- endfor -%}
-			</td>
-			<td class="table-newspaper">{{ item.newspaper }}</td>
-			<td class="table-year">{{ item.year }}</td>
-			<td class="table-month">{{ item.month }}</td>
-			<td class="table-day">{{ item.day }}</td>
-			<td class="table-tag">
-				{%- for tag in item.tags -%}
-					{% if loop.last %}
-						{{ tag }}
-					{% else %}
-						{{ tag }}, 
-					{% endif %}
-					
-				{%- endfor -%}
-			</td>
-		</tr>
-	{%- endfor -%}
-  </tbody>
- </table>
-</div>
+
