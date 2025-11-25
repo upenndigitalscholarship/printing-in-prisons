@@ -39,7 +39,7 @@ layout: collection
     </thead>
 	 
 	<tbody class="list">
-	{%- for post in collections.gratephilnews -%}
+	{%- for item in gratephilnews -%}
 		<tr>
 			<td class="table-title">
 					<a href="{{ post.url | url }}">
@@ -47,18 +47,18 @@ layout: collection
 					</a>
 			</td>
 			<td class="table-author">
-				{%- for author in post.data.author -%}
+				{%- for author in item.author -%}
 				{% if loop.first %}
-				{{ post.data.author }}
+				{{ item.author }}
 				{% endif %}
 				{%- endfor -%}
 			</td>
-			<td class="table-newspaper">{{ post.data.newspaper }}</td>
-			<td class="table-year">{{ post.data.year }}</td>
-			<td class="table-month">{{ post.data.month }}</td>
-			<td class="table-day">{{ post.data.day }}</td>
+			<td class="table-newspaper">{{ item.newspaper }}</td>
+			<td class="table-year">{{ item.year }}</td>
+			<td class="table-month">{{ item.month }}</td>
+			<td class="table-day">{{ item.day }}</td>
 			<td class="table-tag">
-				{%- for tag in post.data.tags -%}
+				{%- for tag in item.tags -%}
 					{% if loop.last %}
 						{{ tag }}
 					{% else %}
